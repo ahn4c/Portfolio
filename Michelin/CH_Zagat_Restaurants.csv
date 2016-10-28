@@ -1,0 +1,361 @@
+	title	cuisine	cost	price_level	food_rating	decor_rating	service_rating
+0	Les Nomades	French	127.0	VE	4.9	4.7	4.8
+1	Goosefoot	French	137.0	E	4.8	4.4	4.7
+2	Next Restaurant	Eclectic	209.0	VE	4.8	4.4	4.7
+3	Avec Restaurant	Mediterranean	51.0	E	4.8	4.3	4.5
+4	Smoque BBQ	Barbecue	20.0	M	4.8	3.5	4.1
+5	Topolobampo	Mexican	86.0	E	4.8	4.5	4.6
+6	Shanghai Terrace		80.0	VE	4.7	4.8	4.6
+7	Riccardo Trattoria	Italian	55.0	E	4.7	4.1	4.5
+8	Momotaro	Japanese	77.0	E	4.7	4.7	4.5
+9	Texas de Brazil	Steakhouse	62.0	E	4.7	4.5	4.5
+10	Bien Trucha	Mexican	36.0	M	4.7	4.1	4.4
+11	Nico Osteria	Italian	74.0	E	4.7	4.5	4.5
+12	mk	New American	76.0	E	4.7	4.5	4.5
+13	Tallgrass Restaurant	French	77.0	VE	4.7	4.4	4.5
+14	Joe's Seafood, Prime Steak &amp; Stone Crab	Seafood	71.0	E	4.7	4.3	4.6
+15	Tanta Chicago		59.0	E	4.7	4.3	4.4
+16	NAHA	New American	74.0	E	4.7	4.5	4.5
+17	Ruxbin	New American	55.0	E	4.7	4.4	4.4
+18	Bavette's Bar &amp; Boeuf	Steakhouse	75.0	E	4.7	4.6	4.5
+19	Gibsons Bar &amp; Steakhouse	Steakhouse	71.0	E	4.7	4.4	4.5
+20	Gibsons Bar &amp; Steakhouse	Steakhouse	71.0	E	4.7	4.4	4.5
+21	Fat Rice	Asian	44.0	M	4.7	4.2	4.4
+22	Frontera Grill	Mexican	49.0	M	4.7	4.3	4.5
+23	Gibsons Bar &amp; Steakhouse	Steakhouse	71.0	E	4.7	4.4	4.5
+24	Au Cheval	American	31.0	M	4.7	4.1	4.2
+25	Texas de Brazil	Steakhouse	62.0	E	4.7	4.5	4.5
+26	Piccolo Sogno	Italian	57.0	E	4.7	4.6	4.6
+27	Michael Restaurant	French	71.0	M	4.7	4.3	4.6
+28	Vie Restaurant		75.0	E	4.7	4.4	4.6
+29	Tru	French	166.0	VE	4.7	4.8	4.7
+30	Vito &amp; Nick's Pizzeria	Pizza	18.0	M	4.7	3.5	4.1
+31	Indie Cafe	Cafe	25.0	M	4.7	4.1	4.4
+32	Blackbird Restaurant	American	78.0	E	4.7	4.4	4.6
+33	Lula Cafe	New American	36.0	M	4.7	4.3	4.4
+34	Grace	New American	245.0	VE	4.7	4.8	4.7
+35	Ada Street		48.0	M	4.7	4.6	4.5
+36	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+37	Morton's The Steakhouse		75.0	E	4.6	4.4	4.5
+38	Kai Zan	Japanese	62.0	M	4.6	4.1	4.5
+39	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+40	The Capital Grille		69.0	M	4.6	4.5	4.6
+41	Arami	Japanese	57.0	E	4.6	4.2	4.3
+42	The Capital Grille		69.0	E	4.6	4.5	4.6
+43	Owen &amp; Engine	British	30.0	M	4.6	4.2	4.2
+44	Coalfire	Pizza	21.0	I	4.6	3.6	4.2
+45	Perry's Steakhouse &amp; Grille	Steakhouse	66.0	E	4.6	4.6	4.5
+46	Brindille	French	107.0	VE	4.6	4.4	4.4
+47	Ruth's Chris Steak House	Steakhouse	67.0	E	4.6	4.4	4.5
+48	Mercat a la Planxa	Spanish	61.0	E	4.6	4.4	4.3
+49	The Angry Crab	Seafood	35.0	M	4.6	3.8	4.2
+50	Ricobene's	Italian	14.0	I	4.6	3.7	4.2
+51	Cumin	Indian	31.0	M	4.6	3.8	4.1
+52	Zia's Trattoria	Italian	44.0	M	4.6	4.1	4.2
+53	Oceanique	Seafood	74.0	E	4.6	4.1	4.4
+54	Hugo's Frog Bar &amp; Fish House	Seafood	56.0	E	4.6	4.3	4.5
+55	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+56	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+57	Small Cheval	Burger	1.0	I	4.6	3.8	4.1
+58	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+59	Alliance Patisserie	Patisserie		I	4.6	4.4	4.4
+60	Lou Malnati's Pizzeria	Pizza	22.0	I	4.6	3.9	4.2
+61	Everest	French	121.0	VE	4.6	4.7	4.6
+62	Nomi Restaurant	American	80.0	E	4.6	4.6	4.5
+63	The Bristol	American	51.0	M	4.6	4.3	4.3
+64	Tapas Valencia	Spanish	45.0	M	4.6	4.5	4.5
+65	Kuma's Corner		23.0	M	4.6	4.0	4.1
+66	Bang Bang Pie Shop	American	16.0	I	4.6	4.0	4.3
+67	Schwa Restaurant	New American	93.0	VE	4.6	3.6	4.1
+68	Mastro's Steakhouse	Steakhouse	89.0	E	4.6	4.4	4.5
+69	Macku Sushi	Sushi	56.0	E	4.6	4.1	4.2
+70	Ruth's Chris Steak House	Steakhouse	67.0	E	4.6	4.4	4.5
+71	Spacca Napoli Pizzeria	Pizza	27.0	M	4.6	3.8	4.1
+72	Acadia	American	107.0	E	4.6	4.5	4.5
+73	Yoshi's Cafe	Cafe	55.0	E	4.6	4.2	4.5
+74	Morton's The Steakhouse		75.0	E	4.6	4.4	4.5
+75	Mana Food Bar	Vegetarian	30.0	M	4.6	4.1	4.4
+76	Gather	American	47.0	M	4.6	4.2	4.4
+77	Sai Café	Japanese	31.0	M	4.6	4.0	4.1
+78	Hugo's Frog Bar &amp; Chop House	Seafood	56.0	E	4.6	4.3	4.5
+79	The Capital Grille		69.0	M	4.6	4.5	4.6
+80	Morton's The Steakhouse		75.0	E	4.6	4.4	4.5
+81	Ruth's Chris Steak House	Steakhouse	67.0	E	4.6	4.4	4.5
+82	Coalfire	Pizza	21.0	M	4.6	3.6	4.2
+83	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+84	Charlatan	Italian	51.0	M	4.6	4.4	4.4
+85	Zia's Lago Vista	Italian	44.0	E	4.6	4.1	4.2
+86	Tortas Frontera		19.0	I	4.6	3.4	3.6
+87	Spiaggia	Italian	116.0	VE	4.6	4.7	4.6
+88	Lou Malnati's Pizzeria	Pizza	22.0	I	4.6	3.9	4.2
+89	Girl &amp; the Goat	American	60.0	M	4.6	4.4	4.5
+90	Boka	American	76.0	E	4.6	4.6	4.6
+91	mfk. restaurant	Seafood	50.0	M	4.6	3.8	4.4
+92	Publican Quality Meats	American	27.0	I	4.6	3.9	4.2
+93	Swift &amp; Sons	Steakhouse		VE	4.6	4.4	4.6
+94	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+95	Chicago Cut Steakhouse	Steakhouse	86.0	E	4.6	4.5	4.5
+96	The Purple Pig	Mediterranean	48.0	M	4.6	4.2	4.2
+97	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+98	Maude's Liquor Bar	French	57.0	E	4.6	4.5	4.2
+99	Libertad	Latin American	41.0	M	4.6	4.0	4.4
+100	Autre Monde Cafe &amp; Spirits	Mediterranean	43.0	M	4.6	4.0	4.4
+101	Kuma's Too	Burger	23.0	M	4.6	4.0	4.1
+102	Lawry's The Prime Rib	Steakhouse	65.0	E	4.6	4.4	4.5
+103	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+104	a tavola	Italian	52.0	E	4.6	4.1	4.5
+105	Crisp		18.0	I	4.6	3.2	4.0
+106	Meson Sabika	Spanish	45.0	M	4.6	4.5	4.5
+107	Ixcateco Grill	Mexican	50.0	E	4.6	3.9	4.3
+108	Lou Malnati's Pizzeria	Pizza	22.0	I	4.6	3.9	4.2
+109	Gaetano's - Batavia	Italian	53.0	M	4.6	4.0	4.4
+110	Stan's Donuts	Donut Shop	8.0	I	4.6	4.0	4.3
+111	Stan's Donuts	Donut Shop	8.0	I	4.6	4.0	4.3
+112	Lou Malnati's Pizzeria	Pizza	22.0	I	4.6	3.9	4.2
+113	Mr. Beef On Orleans	Sandwich Shop	14.0	I	4.6	3.0	3.9
+114	Andy's Thai Kitchen	Thai	24.0	I	4.6	3.7	3.8
+115	The Aviary			E	4.6	4.7	4.7
+116	Shaw's Crab House	Seafood	58.0	E	4.6	4.3	4.4
+117	Longman &amp; Eagle	American	45.0	M	4.6	4.2	4.3
+118	Stan's Donuts	Coffee Shop	8.0	I	4.6	4.0	4.3
+119	Lou Malnati's Pizzeria	Pizza	22.0	M	4.6	3.9	4.2
+120	D &amp; J Bistro	French	45.0	M	4.6	4.2	4.5
+121	North Pond	American	80.0	E	4.6	4.7	4.6
+122	Hugo's Frog Bar &amp; Fish House	Seafood	56.0	E	4.6	4.3	4.5
+123	EL ideas	American	133.0	VE	4.6	4.2	4.6
+124	Black Dog Gelato	Ice Cream Shop	8.0	I	4.6	3.7	4.3
+125	Gaetano's Restaurant	Italian	53.0	E	4.6	4.0	4.4
+126	Rickshaw Republic	Indonesian	23.0	I	4.6	4.5	4.3
+127	Francesco's Hole In the Wall	Italian	40.0	M	4.6	3.6	4.1
+128	Abigail's American Bistro	American	45.0	M	4.6	4.2	4.3
+129	Morton's The Steakhouse		75.0	E	4.6	4.4	4.5
+130	Sumi Robata Bar	Japanese	59.0	E	4.6	4.2	4.5
+131	Tortas Frontera by Rick Bayless	Mexican	19.0	I	4.6	3.4	3.6
+132	Cafe Spiaggia	Italian	65.0	E	4.6	4.5	4.5
+133	Stan's Donuts	Donut Shop	8.0	I	4.6	4.0	4.3
+134	Stan's Donuts	Donut Shop	8.0	I	4.6	4.0	4.3
+135	Bang Bang Pie &amp; Biscuits		16.0	I	4.6	4.0	4.3
+136	Han 202 Restaurant	Chinese	39.0	M	4.6	4.1	4.3
+137	Tortas Frontera	Sandwich Shop	19.0	M	4.6	3.4	3.6
+138	Mexique	Mexican	54.0	E	4.6	4.2	4.5
+139	Stan's Donuts	Cafe	8.0	I	4.6	4.0	4.3
+140	Kuma's Schaumburg	American	23.0	M	4.6	4.0	4.1
+141	Gene &amp; Georgetti Restaurant	Steakhouse	67.0	E	4.6	4.1	4.4
+142	BoeufHaus	Steakhouse	56.0	E	4.6	4.4	4.5
+143	Morton's The Steakhouse		75.0	E	4.6	4.4	4.5
+144	Morton's The Steakhouse		75.0	E	4.6	4.4	4.5
+145	GT Fish &amp; Oyster	Seafood	53.0	E	4.6	4.5	4.5
+146	Shaw's Crab House	Seafood	58.0	E	4.6	4.3	4.4
+147	The Angry Crab	Seafood	35.0	M	4.6	3.8	4.2
+148	Anteprima	Italian	45.0	M	4.5	4.1	4.3
+149	Wholly Frijoles	Mexican	24.0	M	4.5	3.6	4.2
+150	La Sardine	French	54.0	M	4.5	4.1	4.4
+151	Fleming's Prime Steakhouse &amp; Wine Bar	Steakhouse	68.0	E	4.5	4.4	4.4
+152	Fontano's Subs	Sandwich Shop	13.0	I	4.5	3.4	4.1
+153	Miku Sushi	Japanese	27.0	M	4.5	3.8	4.3
+154	Salero Restaurant	Spanish	62.0	M	4.5	4.3	4.3
+155	Home Run Inn Pizza	Pizza	22.0	I	4.5	3.9	4.2
+156	Home Run Inn Pizza	Pizza	22.0	I	4.5	3.9	4.2
+157	Aurelio's Pizzeria Springbrook Square	Italian	17.0	I	4.5	4.0	4.3
+158	5411 Empanadas | Wicker Park	Argentinean	20.0	I	4.5	4.0	4.2
+159	Amorino Chicago	Dessert Shop	9.0	I	4.5	4.2	4.2
+160	Aurelio's Pizza		17.0	M	4.5	4.0	4.3
+161	Emilios Tapas Sol y Nieve	Spanish	37.0	M	4.5	4.0	4.4
+162	Macello Ristorante	Italian	37.0	M	4.5	4.5	4.4
+163	Bella Notte Ristorante	Italian	62.0	M	4.5	3.9	4.3
+164	Aurelio's Pizza	Pizza	17.0	M	4.5	4.0	4.3
+165	Manny's Coffee Shop &amp; Deli		18.0	M	4.5	3.2	4.0
+166	90 Miles Cuban Cafe	Cuban	23.0	M	4.5	4.1	4.2
+167	Tre Kronor	Swedish	23.0	M	4.5	4.1	4.4
+168	Bacchanalia	Italian	41.0	M	4.5	3.8	4.2
+169	Wildfire Lincolnshire	Steakhouse	46.0	M	4.5	4.3	4.4
+170	Del Frisco's Double Eagle Steak House	Steakhouse	82.0	E	4.5	4.5	4.5
+171	5411 Empanadas | Lakeview	Argentinean	20.0	I	4.5	4.0	4.2
+172	Pho 777	Vietnamese	16.0	M	4.5	3.1	3.7
+173	Home Run Inn Pizza	Pizza	22.0	I	4.5	3.9	4.2
+174	Demera Ethiopian Restaurant	Ethiopian	24.0	M	4.5	4.0	4.3
+175	Wildberry Pancakes &amp; Cafe	Cafe	19.0	M	4.5	4.1	4.3
+176	BIG &amp; little's Restaurant	American	14.0	I	4.5	3.5	4.0
+177	Cafecito	Cafe	12.0	I	4.5	3.4	4.0
+178	Kiki's Bistro	French	53.0	E	4.5	4.3	4.3
+179	Trattoria No. 10	Italian	43.0	M	4.5	4.3	4.5
+180	Le Colonial Chicago	Vietnamese	59.0	E	4.5	4.5	4.3
+181	RPM Steak	Steakhouse	87.0	E	4.5	4.6	4.5
+182	Wildfire Chicago	Steakhouse	46.0	M	4.5	4.3	4.4
+183	Chef's Station		60.0	E	4.5	4.1	4.3
+184	L' Patron	Mexican	12.0		4.5	3.1	3.8
+185	m.henry	American	18.0	M	4.5	4.2	4.2
+186	Pelago Ristorante	Italian	87.0	E	4.5	4.4	4.4
+187	Billy Sunday	American	35.0	M	4.5	4.5	4.5
+188	Niche	New American	60.0	E	4.5	4.4	4.5
+189	Emilio's Tapas Restaurant	Spanish	37.0	M	4.5	4.0	4.4
+190	bellyQ	Asian	37.0	M	4.5	4.2	4.3
+191	Aurelio's Pizza	Pizza	17.0	M	4.5	4.0	4.3
+192	Ba Le Sandwich	Sandwich Shop	11.0	I	4.5	3.6	4.0
+193	Arun's Thai Restaurant	Thai	95.0	VE	4.5	4.1	4.3
+194	Antique Taco	Taco	19.0	I	4.5	4.2	4.1
+195	Rosebud Prime	American	57.0	E	4.5	4.2	4.4
+196	Juno Sushi Chicago	Sushi	59.0	E	4.5	4.0	4.3
+197	Catch 35 Restaurant - Naperville	Seafood	50.0	E	4.5	4.3	4.4
+198	Fontano's Subs	Sandwich Shop	13.0	I	4.5	3.4	4.1
+199	Sunda	Asian	55.0	M	4.5	4.5	4.3
+200	Bacino's of La Grange	Italian	25.0	I	4.5	3.7	4.2
+201	Aurelio's Pizza	Pizza	17.0	M	4.5	4.0	4.3
+202	Campagnola	Italian	52.0	M	4.5	4.0	4.3
+203	Table, Donkey and Stick	Eclectic	45.0	M	4.5	4.0	4.3
+204	Nando's Peri-Peri Chicken	Portuguese	17.0	I	4.5	4.3	4.1
+205	Half Shell Chicago	Seafood	32.0	M	4.5	3.1	3.8
+206	Jeni's Splendid Ice Creams	Ice Cream Shop	8.0	I	4.5	3.9	4.2
+207	Belly Shack	Asian	16.0	M	4.5	3.8	4.1
+208	Home Run Inn Pizza	Pizza	22.0	M	4.5	3.9	4.2
+209	Mon Ami Gabi	French	47.0	M	4.5	4.4	4.5
+210	Nick's Fishmarket Grill and Bar	Seafood	62.0	E	4.5	4.3	4.3
+211	BIG &amp; little's Restaurant	American	14.0		4.5	3.5	4.0
+212	Elizabeth Restaurant	American	116.0	E	4.5	4.1	4.4
+213	BIG &amp; little's Restaurant	American	14.0	I	4.5	3.5	4.0
+214	90 Miles Cuban Cafe	Cuban	23.0	I	4.5	4.1	4.2
+215	Nando's Peri-Peri	Portuguese	17.0	I	4.5	4.3	4.1
+216	Nando's PERi-PERi	Portuguese	17.0	I	4.5	4.3	4.1
+217	Tsukasa of Tokyo Kildeer	Japanese	40.0	M	4.5	4.3	4.4
+218	Gioco Restaurant	Italian	36.0	M	4.5	4.3	4.2
+219	5411 Empanadas | Loop	Argentinean	20.0	I	4.5	4.0	4.2
+220	Butcher &amp; The Burger	Burger	18.0	I	4.5	3.9	4.1
+221	Cafe des Architectes	French	59.0	E	4.5	4.4	4.4
+222	Over Easy Café	American	18.0	I	4.5	4.0	4.4
+223	The Publican	American	48.0	E	4.5	4.2	4.3
+224	Star Lounge Coffee Bar	Coffee Shop	10.0	I	4.5	4.2	4.4
+225	Osmium Coffee Bar	Coffee Shop	6.0	I	4.5	4.3	4.3
+226	La Sirena Clandestina	Brazilian	44.0	M	4.5	4.3	4.3
+227	XOCO	Mexican	23.0	M	4.5	3.9	4.1
+228	Catch 35 Restaurant - Chicago	Seafood	50.0	E	4.5	4.3	4.4
+229	Le Bouchon	French	44.0	M	4.5	4.1	4.1
+230	Perennial Virant	American	53.0	E	4.5	4.3	4.3
+231	Katsu Japanese Restaurant	Japanese	62.0	E	4.5	4.2	4.3
+232	Big Bricks	Barbecue	24.0	M	4.5	4.2	4.3
+233	Mon Ami Gabi	French	47.0	M	4.5	4.4	4.5
+234	Sullivan's Steakhouse	Steakhouse	60.0	M	4.5	4.2	4.3
+235	Coast Sushi Bar	Asian	30.0	M	4.5	3.8	4.0
+236	Glenn's Diner	Seafood	37.0	M	4.5	3.7	4.0
+237	Frontera Fresco		25.0	I	4.5	3.6	4.0
+238	Sepia	American	74.0	E	4.5	4.5	4.5
+239	Sabatino's Restaurant Chicago	Italian	41.0	M	4.5	4.1	4.4
+240	Irazu	Costa Rican	17.0	M	4.5	3.8	4.2
+241	Aurelio's Pizza	Pizza	17.0	M	4.5	4.0	4.3
+242	Green Zebra	Vegetarian	51.0	E	4.5	4.2	4.2
+243	New Rebozo	Mexican	34.0	M	4.5	4.0	4.3
+244	Pequod's Pizza	Pizza	20.0	M	4.5	3.7	4.0
+245	Cafe Lucci	Italian	43.0	M	4.5	3.9	4.3
+246	Tsukasa of Tokyo	Japanese	40.0	M	4.5	4.3	4.4
+247	Tango Sur	South American	34.0	M	4.5	4.0	4.2
+248	Adelle's Fine American Fare	American	45.0	E	4.5	4.3	4.5
+249	Froggy's French Cafe	French	51.0	E	4.5	4.2	4.4
+250	Wildfire - Glenview	Steakhouse	46.0	M	4.5	4.3	4.4
+251	Bohemian House	European	51.0	M	4.5	4.5	4.4
+252	Fontano Subs	Sandwich Shop	13.0	I	4.5	3.4	4.1
+253	BRGRBELLY Gladstone Park	Burger	17.0	I	4.5	3.8	4.1
+254	Rural Society	Argentinean	66.0	E	4.5	4.2	4.4
+255	Community Tavern	Steakhouse	40.0	E	4.5	4.3	4.2
+256	AMK Kitchen Bar	American	33.0	I	4.5	4.4	4.3
+257	Nando's Peri-Peri	Chicken	17.0	I	4.5	4.3	4.1
+258	Nando's Peri-Peri	Portuguese	17.0	I	4.5	4.3	4.1
+259	Piece Brewery &amp; Pizzeria	Pizza	22.0	M	4.5	4.1	4.1
+260	Bar Siena	Italian	34.0	E	4.5	4.3	4.1
+261	Antique Taco Bridgeport	Taco	19.0	I	4.5	4.2	4.1
+262	Intro Chicago	American	124.0	VE	4.5	4.2	4.5
+263	Smith &amp; Wollensky - Chicago	Steakhouse	77.0	E	4.5	4.3	4.4
+264	"Hot""G""Dog"	Hot Dog	19.0	I	4.5	3.5	4.1
+265	Coco Pazzo	Italian	56.0	E	4.5	4.4	4.5
+266	Topo Gigio Ristorante	Italian	40.0	M	4.5	4.3	4.3
+267	Chicago Diner		20.0	M	4.5	4.1	4.3
+268	Ramen Misoya Chicago	Japanese	18.0	I	4.5	3.4	4.0
+269	New Rebozo Chicago	Mexican	34.0	E	4.5	4.0	4.3
+270	Home Run Inn Pizza	Pizza	22.0	M	4.5	3.9	4.2
+271	Wildfire		46.0	M	4.5	4.3	4.4
+272	Chez Joel Bistro Francais	French	44.0	E	4.5	4.3	4.4
+273	Sullivan's Steakhouse	Steakhouse	60.0	E	4.5	4.2	4.3
+274	Allium	American	58.0	M	4.5	4.4	4.5
+275	The Lobby	American	55.0	E	4.5	4.7	4.4
+276	Aurelio's Pizza	Pizza	17.0	M	4.5	4.0	4.3
+277	Fleming's Prime Steakhouse &amp; Wine Bar	Steakhouse	68.0	E	4.5	4.4	4.4
+278	Salpicon	Mexican	53.0	E	4.5	4.3	4.5
+279	Bella Bacinos	Italian	25.0		4.5	3.7	4.2
+280	San Soo Gab San	Korean	29.0	M	4.5	3.5	3.9
+281	Ba Le	Vietnamese	11.0	I	4.5	3.6	4.0
+282	BRGRBELLY Portage Park	Burger	17.0	I	4.5	3.8	4.1
+283	Yuzu Sushi &amp; Robata Grill	Japanese	39.0	I	4.5	4.0	4.2
+284	90 Miles Cuban Cafe	Cafe	23.0	M	4.5	4.1	4.2
+285	Rosebud Steakhouse	Steakhouse	57.0	E	4.5	4.2	4.4
+286	A Toda Madre	Mexican	38.0	M	4.5	4.1	4.3
+287	The Bongo Room	Brunch	21.0	I	4.5	3.9	4.0
+288	Pizzeria Uno	Pizza	25.0	M	4.5	3.8	4.1
+289	Benny's Chop House	Steakhouse	82.0	E	4.5	4.2	4.5
+290	Tokio Pub	Eclectic	31.0	M	4.5	3.9	4.4
+291	The Chicago Diner	Vegetarian	20.0	I	4.5	4.1	4.3
+292	Siena Tavern	Italian	52.0	M	4.5	4.4	4.3
+293	Green Street Smoked Meats	Barbecue	25.0	I	4.5	4.2	3.9
+294	Ramen Misoya	Japanese	18.0	I	4.5	3.4	4.0
+295	Aurelio's Pizza	Pizza	17.0	M	4.5	4.0	4.3
+296	Nando's Peri-Peri	Portuguese	17.0	I	4.5	4.3	4.1
+297	Fahlstrom's Fresh Fish Market	Seafood	35.0	M	4.5	4.0	4.2
+298	5411 Empanadas | Division	Argentinean	20.0	I	4.5	4.0	4.2
+299	Nando’s	Portuguese	17.0	I	4.5	4.3	4.1
+300	Next Door Bistro	Italian	39.0	M	4.5	3.8	4.4
+301	Sun Wah BBQ	Chinese	26.0	M	4.5	3.1	3.8
+302	Fogo de Chão Brazilian Steakhouse	Brazilian	64.0	E	4.5	4.4	4.5
+303	5411 Empanadas | Southport	Argentinean	20.0	I	4.5	4.0	4.2
+304	Home Run Inn Pizza	Pizza	22.0	I	4.5	3.9	4.2
+305	Wildberry Pancakes &amp; Cafe	Cafe	19.0	M	4.5	4.1	4.3
+306	Bongo Room	American	21.0	M	4.5	3.9	4.0
+307	Chicago Chop House	Steakhouse	75.0	E	4.5	4.1	4.3
+308	XOCO	Mexican	23.0	I	4.5	3.9	4.1
+309	Wildberry Pancakes &amp; Cafe	Cafe	19.0	M	4.5	4.1	4.3
+310	Coast Sushi &amp; Sashimi	Japanese	30.0	M	4.5	3.8	4.0
+311	Fogo de Chão Brazilian Steakhouse	Brazilian	64.0	E	4.5	4.4	4.5
+312	Eddie V's Prime Seafood	Seafood	66.0	E	4.5	4.5	4.5
+313	3 Arts Club Cafe	American	2.0	M	4.5	4.6	4.4
+314	Fontano's Subs of Naperville	Sandwich Shop	13.0	I	4.5	3.4	4.1
+315	Home Run Inn Pizza	Pizza	22.0	M	4.5	3.9	4.2
+316	Sullivan's Steakhouse	Steakhouse	60.0	E	4.5	4.2	4.3
+317	TWO	New American	50.0	M	4.5	4.3	4.6
+318	Frontera Fresco	Mexican	25.0	I	4.5	3.6	4.0
+319	sushiDOKKU	Japanese	44.0	E	4.5	4.1	4.1
+320	Thai Pastry restaurant	Thai	24.0	M	4.5	3.4	3.9
+321	Sweet Maple Cafe	Cafe	19.0	M	4.5	3.5	4.2
+322	Umai	Japanese	26.0	M	4.5	4.3	4.0
+323	La Scarola	Italian	44.0	M	4.5	3.8	4.3
+324	Tac Quick	Thai	21.0	M	4.5	3.6	3.7
+325	THE ART OF PIZZA	Pizza	13.0	I	4.5	3.5	4.0
+326	Bacino's of Lincoln	Pizza	25.0	M	4.5	3.7	4.2
+327	Cafecito	Cuban	12.0	I	4.5	3.4	4.0
+328	Montarra	New American	61.0	M	4.5	4.4	4.3
+329	Fontano's Subs	Sandwich Shop	13.0	I	4.5	3.4	4.1
+330	Kaufman's Bagel &amp; Delicatessen		17.0	M	4.5	3.3	3.8
+331	Frontier	Gastropub	42.0	M	4.5	4.3	4.2
+332	Wildfire - Schaumburg	Steakhouse	46.0	M	4.5	4.3	4.4
+333	Aurelio's Pizza	Pizza	17.0	M	4.5	4.0	4.3
+334	Pizzeria Due	Pizza	25.0	M	4.5	3.8	4.1
+335	Del Seoul	Korean	15.0	I	4.5	3.5	3.8
+336	42 Grams	American	181.0	VE	4.5	4.3	4.4
+337	Jeni's Splendid Ice Creams	Ice Cream Shop	8.0	I	4.5	3.9	4.2
+338	Home Run Inn Pizza	Pizza	22.0	M	4.5	3.9	4.2
+339	Amorino	Ice Cream Shop	9.0	I	4.5	4.2	4.2
+340	Bricks Pizza	Pizza	24.0	M	4.5	4.2	4.3
+341	Vivere	Italian	53.0	E	4.5	4.2	4.2
+342	Fogo de Chão Brazilian Steakhouse	Brazilian	64.0	E	4.5	4.4	4.5
+343	Kinzie Chophouse	Seafood	56.0	M	4.5	4.1	4.4
+344	Bongo Room	American	21.0	M	4.5	3.9	4.0
+345	Nando's PERi-PERi	Chicken	17.0		4.5	4.3	4.1
+346	RPM Italian	Italian	61.0	M	4.5	4.5	4.5
+347	RL Restaurant	American	60.0	E	4.5	4.7	4.5
+348	Big Star	Mexican	22.0	M	4.5	4.1	3.8
+349	Chicago Prime Steakhouse	Steakhouse	64.0	E	4.5	4.4	4.5
+350	Briciola	Italian	36.0	M	4.4	4.2	4.2
+351	Ethiopian Diamond II	Ethiopian	26.0	M	4.4	3.8	4.1
+352	David Burke's Primehouse	Steakhouse	78.0	E	4.4	4.1	4.3
+353	Giordano's	Pizza	24.0	M	4.4	3.9	4.0
+354	Pizzeria Da Nella	Pizza	45.0	M	4.4	4.1	4.2
+355	Mott St	Asian	57.0	M	4.4	4.0	4.2
+356	Opart Thai House	Thai	27.0	M	4.4	3.7	3.7
+357	Pete Miller's Seafood &amp; Prime Steak	Seafood	52.0	M	4.4	4.1	4.2
+358	Opart Thai House Restaurant	Thai	27.0	M	4.4	3.7	3.7
+359	Cooper's Hawk Winery &amp; Restaurants		39.0	M	4.4	4.4	4.4

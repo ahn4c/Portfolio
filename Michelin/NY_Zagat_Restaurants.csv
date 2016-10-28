@@ -1,0 +1,736 @@
+	title	cuisine	cost	price_level	food_rating	decor_rating	service_rating
+0	Daniel	French	176.0	VE	4.9	4.8	4.9
+1	Bouley	French	141.0	VE	4.9	4.8	4.8
+2	Le Bernardin	Seafood	182.0	VE	4.9	4.8	4.9
+3	Per Se	New American	341.0	VE	4.8	4.7	4.8
+4	graffiti	Asian	58.0	E	4.8	4.3	4.7
+5	Eleven Madison Park		325.0	VE	4.8	4.8	4.8
+6	Jean-Georges	French	166.0	VE	4.8	4.8	4.8
+7	Gotham Bar and Grill	American	91.0	VE	4.8	4.6	4.7
+8	Blue Hill	American	103.0	VE	4.8	4.3	4.7
+9	Gramercy Tavern	American	120.0	VE	4.8	4.6	4.7
+10	Peter Luger Steak House	Steakhouse	88.0	VE	4.8	3.7	4.2
+11	Ample Hills Creamery	Ice Cream Shop	8.0	I	4.7	3.9	4.3
+12	Paulie Gee's	Pizza	28.0	M	4.7	4.2	4.2
+13	Nobu Fifty Seven	Japanese	89.0	VE	4.7	4.3	4.4
+14	Pearl Oyster Bar	Seafood	51.0	E	4.7	3.6	4.1
+15	Aquagrill	Seafood	68.0	E	4.7	4.0	4.3
+16	La Vara	Spanish	55.0	E	4.7	4.0	4.3
+17	Ample Hills Creamery	Ice Cream Shop	8.0	I	4.7	3.9	4.3
+18	Ample Hills Creamery	Ice Cream Shop	8.0	I	4.7	3.9	4.3
+19	Ample Hills Creamery	Ice Cream Shop	8.0	I	4.7	3.9	4.3
+20	Olea	Mediterranean	35.0	M	4.7	4.4	4.3
+21	Annisa	American	99.0	VE	4.7	4.4	4.6
+22	Nobu Next Door	Japanese	89.0	E	4.7	4.3	4.4
+23	Benjamin Steak House	Steakhouse	85.0	E	4.7	4.4	4.6
+24	Marea	Italian	119.0	VE	4.7	4.6	4.6
+25	Cafe Boulud	French	90.0	VE	4.7	4.4	4.6
+26	La Grenouille	French	129.0	VE	4.7	4.8	4.8
+27	Sushi Yasuda	Sushi	99.0	VE	4.7	4.1	4.3
+28	Alidoro	Sandwich Shop	16.0	I	4.7	3.6	3.9
+29	Upstate	Seafood	45.0	M	4.7	3.9	4.3
+30	Pardon My French	French	41.0	E	4.7	4.7	4.6
+31	Upstate	Seafood	45.0	M	4.7	3.9	4.3
+32	Union Square Cafe	American	78.0	E	4.7	4.3	4.6
+33	St. Anselm	Steakhouse	53.0	M	4.7	4.3	4.2
+34	Sushi Nakazawa	Sushi	184.0	VE	4.7	4.3	4.6
+35	The Sea Fire Grill	Seafood	84.0	E	4.7	4.5	4.6
+36	Los Tacos No.1	Taco	13.0	I	4.7	3.3	3.8
+37	L'Artusi	Italian	71.0	E	4.7	4.3	4.4
+38	Estela	New American	70.0	E	4.7	3.9	4.2
+39	Estiatorio Milos	Greek	91.0	VE	4.7	4.4	4.5
+40	Bâtard	European	101.0	E	4.7	4.2	4.4
+41	Nougatine At Jean-Georges	French	76.0	E	4.7	4.3	4.6
+42	Totonno Pizzeria Napolitano	Pizza	22.0	M	4.7	3.1	3.6
+43	Bohemian	Japanese	78.0	E	4.7	4.4	4.5
+44	Charlie Palmer at The Knick	American	92.0	E	4.7	4.7	4.5
+45	Bohemian	Japanese	78.0	E	4.7	4.4	4.5
+46	Del Posto	Italian	134.0	VE	4.7	4.7	4.7
+47	Blanca	New American	254.0	VE	4.6	4.1	4.5
+48	Bar Chuko Izakaya	Japanese Izakaya	37.0	I	4.6	4.1	4.3
+49	The Lemon Ice King of Corona	Ice Cream Shop	6.0	I	4.6	2.7	3.7
+50	Dover	American	78.0	E	4.6	3.8	4.5
+51	Trattoria Romana	Italian	53.0	E	4.6	3.8	4.3
+52	Battersby	American	78.0	E	4.6	3.9	4.5
+53	Enoteca Maria	Italian	56.0	E	4.6	3.7	4.2
+54	Tanoreen	Middle Eastern	43.0	M	4.6	4.1	4.4
+55	Elia	Greek	57.0	M	4.6	4.1	4.4
+56	SriPraPhai	Thai	29.0	M	4.6	3.4	3.7
+57	Wolfgang's Steakhouse - Gotham Hotel	Steakhouse	88.0	VE	4.6	4.1	4.3
+58	Masa	Japanese	585.0	VE	4.6	4.4	4.5
+59	Wolfgang's Steakhouse Park Avenue	Steakhouse	88.0	VE	4.6	4.1	4.3
+60	Smorgasburg	Food Court	22.0	I	4.6	3.7	3.8
+61	BLT Prime		86.0	E	4.6	4.4	4.5
+62	Buttermilk Channel	American	45.0	M	4.6	4.1	4.3
+63	Roberta's	American	34.0	M	4.6	3.9	3.9
+64	Morimoto	Japanese	91.0	VE	4.6	4.6	4.4
+65	Ramen Lab	Ramen	20.0	M	4.6	3.3	4.3
+66	Javelina	Tex-Mex	37.0	M	4.6	4.2	4.3
+67	Sushi Seki Upper East	Japanese	93.0	VE	4.6	3.5	4.0
+68	IL Bambino	Italian	21.0	M	4.6	3.8	4.2
+69	Taïm	Middle Eastern	15.0	I	4.6	3.2	3.7
+70	Piccola Venezia	Italian	63.0	E	4.6	3.8	4.4
+71	Fette Sau	Barbecue	32.0	M	4.6	3.8	3.7
+72	Emily	Pizza	30.0	M	4.6	4.0	4.4
+73	Wolfgang's Steakhouse TriBeca	Steakhouse	88.0	VE	4.6	4.1	4.3
+74	Vesta Trattoria &amp; Wine Bar	Italian	39.0	M	4.6	4.0	4.4
+75	Wolfgang's Steakhouse	Steakhouse	88.0	VE	4.6	4.1	4.3
+76	The Modern	New American	127.0	VE	4.6	4.6	4.5
+77	Hibino LIC	Japanese	36.0	M	4.6	3.9	4.2
+78	Quality Meats	Steakhouse	87.0	E	4.6	4.4	4.5
+79	Cones Ice Cream Artisans	Ice Cream Shop	7.0	I	4.6	3.5	4.2
+80	Caracas Arepa Bar	Venezuelan	20.0	I	4.6	3.8	4.0
+81	Bun-Ker Vietnamese	Vietnamese	36.0	M	4.6	3.5	4.1
+82	Sushi of Gari TriBeCa	Sushi	98.0	E	4.6	3.5	4.1
+83	Pig and Khao	Asian	40.0	E	4.6	3.6	4.1
+84	Aquavit	Scandinavian	111.0	VE	4.6	4.5	4.5
+85	Taïm	Middle Eastern	15.0	I	4.6	3.2	3.7
+86	Momofuku Ssäm Bar		57.0	M	4.6	3.7	4.1
+87	Mike's Bistro	American	78.0	VE	4.6	4.1	4.3
+88	al di la Trattoria	Italian	52.0	E	4.6	3.9	4.4
+89	Piccolo Angolo	Italian	50.0	E	4.6	3.4	4.3
+90	Zenkichi	Japanese	78.0	E	4.6	4.6	4.6
+91	Locanda Vini &amp; Olii	Italian	46.0	E	4.6	4.4	4.4
+92	Taci's Beyti	Turkish	33.0	M	4.6	3.6	4.2
+93	Pizzetteria Brunetti	Pizza	39.0	I	4.6	3.8	4.3
+94	Ayada Thai	Thai	24.0	M	4.6	3.5	4.0
+95	Tomoe Sushi	Sushi	44.0	E	4.6	3.0	3.7
+96	Convivium Osteria	Italian	58.0	E	4.6	4.3	4.4
+97	Russ &amp; Daughters at the Jewish Museum	Jewish	36.0	M	4.6	3.9	4.1
+98	The Little Owl	Mediterranean	59.0	E	4.6	4.0	4.4
+99	Gari	Sushi	98.0	VE	4.6	3.5	4.1
+100	Rose Water	American	49.0	E	4.6	4.1	4.4
+101	Il Bambino	Italian	21.0	M	4.6	3.8	4.3
+102	ABC Kitchen	American	66.0	E	4.6	4.5	4.3
+103	LIC Market	American	32.0	M	4.6	4.1	4.4
+104	Babbo	Italian	89.0	VE	4.6	4.3	4.4
+105	Ai Fiori	Italian	91.0	VE	4.6	4.5	4.5
+106	Wolfgang’s Steakhouse	Steakhouse	88.0	VE	4.6	4.1	4.3
+107	Caracas Arepa Bar To Go	Venezuelan	20.0	M	4.6	3.8	4.0
+108	Ichimura at Brushstroke	Japanese	152.0	VE	4.6	4.6	4.6
+109	GATO		73.0	E	4.6	4.4	4.4
+110	Takashi	Japanese	63.0	E	4.6	4.0	4.2
+111	Caracas Arepa Bar	Venezuelan	20.0	M	4.6	3.8	4.0
+112	Chuko Ramen	Japanese	25.0	M	4.6	4.0	4.2
+113	Lucali	Pizza	28.0	M	4.6	4.0	4.1
+114	Club A	Steakhouse	92.0	E	4.6	4.3	4.5
+115	Sushi of Gari 46	Sushi	98.0	VE	4.6	3.5	4.1
+116	Caracas Arepa Bar	Venezuelan	20.0	M	4.6	3.8	4.0
+117	Di Fara Pizza	Pizza	19.0	M	4.6	2.6	3.0
+118	Denino's Pizzeria &amp; Tavern	Pizza	22.0	M	4.6	3.3	4.1
+119	Tocqueville	French	95.0	VE	4.6	4.6	4.6
+120	Jungsik	Korean	200.0	VE	4.6	4.5	4.6
+121	Perry St	New American	79.0	E	4.6	4.5	4.6
+122	Kyo Ya	Japanese	98.0	VE	4.6	4.3	4.5
+123	mŏkbar	Ramen	22.0	M	4.6	3.9	4.2
+124	Morgenstern's Finest Ice Cream	Ice Cream Shop	8.0	I	4.6	4.2	4.1
+125	L' Albero dei gelati	Italian	20.0	M	4.6	4.0	4.2
+126	Sushi Seki Hell's Kitchen	Sushi	93.0	VE	4.6	3.5	4.0
+127	Sushi Seki Chelsea	Japanese	93.0	VE	4.6	3.5	4.0
+128	The Musket Room	New Zealand	92.0	M	4.6	4.4	4.6
+129	Shuko	Japanese	196.0	VE	4.6	4.4	4.4
+130	Tuome	American	63.0	M	4.6	4.0	4.2
+131	Taverna Kyclades East Village	Greek	39.0	M	4.6	3.3	4.0
+132	Hibino	Japanese	36.0	M	4.6	3.9	4.2
+133	Trattoria L'incontro	Italian	60.0	E	4.6	4.0	4.5
+134	Osteria Morini	Italian	62.0	E	4.6	4.0	4.3
+135	Candle 79	Vegan	50.0	E	4.6	4.3	4.4
+136	Chef's Table at Brooklyn Fare	French	332.0	VE	4.6	3.9	4.5
+137	Emilio's Ballato	Italian	62.0	E	4.6	3.8	4.3
+138	Sushi of Gari	Sushi	98.0	VE	4.6	3.5	4.1
+139	Supper	Italian	41.0	E	4.6	3.9	4.2
+140	Little Park	American	67.0	E	4.6	4.4	4.4
+141	Rubirosa Pizza	American	41.0	M	4.6	3.9	4.1
+142	Casa Enrique	Mexican	40.0	M	4.6	3.8	4.2
+143	Juliana's	Pizza	27.0	M	4.6	3.8	4.1
+144	Russ &amp; Daughters Cafe	Jewish	36.0	M	4.6	3.9	4.1
+145	Scalini Fedeli	Italian	98.0	VE	4.6	4.4	4.5
+146	Keens Steakhouse	Steakhouse	87.0	E	4.6	4.5	4.5
+147	Jacques Torres Chocolate		13.0	I	4.6	3.7	4.0
+148	Seaport Smorgasburg	Food Court	22.0	I	4.6	3.7	3.8
+149	The Eddy	New American	71.0	M	4.6	4.3	4.4
+150	Sasabune	Japanese	123.0	VE	4.6	3.0	3.8
+151	Brushstroke	Japanese	152.0	VE	4.6	4.6	4.6
+152	Pok Pok Ny	Thai	41.0	M	4.6	3.7	4.1
+153	Taverna Kyclades	Greek	39.0	M	4.6	3.3	4.0
+154	Marc Forgione	American	85.0	E	4.6	4.4	4.4
+155	Momofuku Ko	American	228.0	VE	4.6	4.1	4.4
+156	San Matteo Pizza Espresso Bar	Pizza	29.0	M	4.6	3.4	4.2
+157	Pylos	Greek	57.0	E	4.6	4.2	4.2
+158	Pure Thai Cookhouse	Thai	28.0	M	4.6	3.5	3.9
+159	Semilla	American	117.0	VE	4.6	4.2	4.6
+160	Decoy	Chinese	80.0	E	4.6	3.7	4.1
+161	Riverpark	New American	69.0	E	4.6	4.7	4.6
+162	Avra Estiatorio	Greek	67.0	E	4.6	4.2	4.2
+163	Don Peppe	Italian	54.0	M	4.6	3.3	3.9
+164	Delaware and Hudson	American	70.0	E	4.6	4.1	4.5
+165	Porter House Bar and Grill		95.0	E	4.6	4.6	4.6
+166	Tamarind	Indian	65.0	E	4.6	4.5	4.4
+167	Neta	Japanese	107.0	M	4.6	4.0	4.3
+168	The River Café	American	156.0	VE	4.6	4.8	4.7
+169	Stone Park Cafe	American	53.0	E	4.5	4.0	4.3
+170	Palm	Steakhouse	81.0	E	4.5	3.9	4.3
+171	Mayfield	American	37.0	M	4.5	4.4	4.2
+172	Bunna Cafe	Ethiopian	21.0	M	4.5	4.1	4.2
+173	Kappo Masa	Japanese	150.0	VE	4.5	4.5	4.2
+174	Blue Ribbon Sushi Bar	Sushi	66.0	VE	4.5	4.0	4.2
+175	Baoburg	Asian	40.0	M	4.5	4.2	4.5
+176	Ribalta	Pizza	35.0	M	4.5	4.0	4.2
+177	Amorino	Ice Cream Shop	9.0	I	4.5	4.0	4.1
+178	Balvanera	Steakhouse	44.0	E	4.5	4.0	4.2
+179	Grom Gelato	Ice Cream Shop	10.0	I	4.5	3.4	3.8
+180	Rosanjin	Japanese	187.0	VE	4.5	4.2	4.5
+181	Hatsuhana	Sushi	58.0	E	4.5	3.7	4.1
+182	Pó	Italian	54.0	E	4.5	3.7	4.2
+183	Blossom du Jour	Vegan	34.0	M	4.5	3.8	4.1
+184	Ralph's Famous Italian Ices	Ice Cream Shop	6.0	I	4.5	3.0	4.0
+185	Sushi Dojo Express	Japanese	88.0	M	4.5	3.7	4.3
+186	Blue Ribbon Sushi	Sushi	66.0	M	4.5	4.0	4.2
+187	Big Gay Ice Cream Shop	Ice Cream Shop	9.0	I	4.5	3.8	4.2
+188	La Vigna	Italian	47.0	M	4.5	4.0	4.4
+189	Huertas	Spanish	64.0	E	4.5	4.2	4.4
+190	Casa Mono	Spanish	62.0	E	4.5	3.8	4.1
+191	Ed's Lobster Bar	Seafood	40.0	M	4.5	3.7	4.1
+192	Motorino		28.0	I	4.5	3.7	3.9
+193	Upholstery Store: Food and Wine	Seafood	47.0	M	4.5	4.6	4.5
+194	Five Leaves	New American	38.0	M	4.5	4.2	4.0
+195	Fung Tu	Chinese	58.0	M	4.5	4.1	4.4
+196	Caravaggio	Italian	88.0	VE	4.5	4.5	4.5
+197	Noodle Pudding	Italian	43.0	M	4.5	3.8	4.2
+198	Glasserie	Mediterranean	44.0	M	4.5	4.4	4.1
+199	Xixa	Mexican	52.0	M	4.5	4.2	4.5
+200	BLT Steak	Steakhouse	84.0	VE	4.5	4.2	4.4
+201	Blossom	Vegan	34.0	M	4.5	3.8	4.1
+202	OKONOMI // YUJI Ramen	Japanese	39.0	I	4.5	4.2	4.4
+203	Colonie	American	49.0	E	4.5	4.5	4.4
+204	Diner	American	42.0	M	4.5	4.2	4.2
+205	Henry's End	American	52.0	E	4.5	3.7	4.5
+206	Oceana	Seafood	86.0	E	4.5	4.3	4.3
+207	Upland	American	73.0	M	4.5	4.6	4.4
+208	Biang!	Chinese		E	4.5	4.0	3.9
+209	Lincoln Ristorante	Italian	90.0	VE	4.5	4.7	4.5
+210	Telly's Taverna	Greek	39.0	M	4.5	3.6	4.0
+211	The Clam	Seafood	58.0	M	4.5	4.1	4.3
+212	Esca	Italian	79.0	E	4.5	4.0	4.2
+213	Fogo de Chão Brazilian Steakhouse	Brazilian	72.0	E	4.5	4.4	4.3
+214	Clement Restaurant &amp; Bar		89.0	M	4.5	4.5	4.5
+215	Untamed Sandwiches	Sandwich Shop	17.0	I	4.5	4.0	4.4
+216	Il Mulino New York - Downtown	Italian	87.0	VE	4.5	4.0	4.3
+217	Meadowsweet	New American	63.0	E	4.5	4.4	4.5
+218	Hearth		72.0	E	4.5	4.2	4.4
+219	Sparks Steak House	Steakhouse	93.0	VE	4.5	4.1	4.4
+220	Lolo's Seafood Shack	Seafood	22.0	I	4.5	4.0	4.3
+221	Craft		89.0	E	4.5	4.4	4.5
+222	Danji	Korean	49.0	E	4.5	3.9	4.1
+223	Blossom du Jour	Vegan	34.0	M	4.5	3.8	4.1
+224	Aureole	New American	91.0	VE	4.5	4.4	4.5
+225	Aureole	New American	91.0	VE	4.5	4.4	4.5
+226	Strip House	Steakhouse	88.0	M	4.5	4.2	4.3
+227	Blossom Du Jour	Vegan	34.0	I	4.5	3.8	4.1
+228	Manetta's Ristorante		41.0	M	4.5	3.7	4.1
+229	Rucola	Italian	45.0	M	4.5	4.3	4.2
+230	Ralph's Famous Italian Ices	Ice Cream Shop	6.0	I	4.5	3.0	4.0
+231	Ralph's Famous Italian Ices	Ice Cream Shop	6.0	I	4.5	3.0	4.0
+232	Kin Shop	Thai	51.0	E	4.5	3.6	4.1
+233	Left Bank NYC	American	54.0	E	4.5	4.3	4.6
+234	Ralphs Famous Italian Ices	Ice Cream Shop	6.0	I	4.5	3.0	4.0
+235	Elias Corner	Seafood	41.0	M	4.5	2.9	3.6
+236	Press 195	Sandwich Shop	24.0	M	4.5	3.9	4.0
+237	Novitá	Italian	62.0	E	4.5	4.1	4.3
+238	Contra	New American	87.0	VE	4.5	4.1	4.2
+239	Amali	Mediterranean	59.0	E	4.5	4.2	4.4
+240	Blue Ribbon Sushi Izakaya	Sushi	66.0	E	4.5	4.0	4.2
+241	La Superior	Mexican	20.0	M	4.5	3.8	4.0
+242	OOTOYA Greenwich Village	Japanese	39.0	M	4.5	4.0	4.1
+243	Amorino	Ice Cream Shop	9.0	I	4.5	4.0	4.1
+244	Mighty Quinn's BBQ	Barbecue	24.0	I	4.5	3.4	3.7
+245	Da Umberto	Italian	73.0	E	4.5	4.1	4.3
+246	Big Gay Ice Cream Shop	Ice Cream Shop	9.0	I	4.5	3.8	4.2
+247	Bocelli	Italian	58.0	M	4.5	4.3	4.4
+248	Hudson Clearwater	New American	54.0	M	4.5	4.3	4.2
+249	Uncle Boons	Thai	52.0	M	4.5	4.1	4.2
+250	Roman's	Italian	55.0	M	4.5	3.9	4.3
+251	Mighty Quinn's Barbeque	Barbecue	24.0	M	4.5	3.4	3.7
+252	Melba's	Southern American	34.0	M	4.5	4.1	4.1
+253	The NoMad Bar		67.0	M	4.5	4.6	4.4
+254	Morso Restaurant &amp; Cafe	Italian	61.0	E	4.5	4.2	4.4
+255	David Burke Kitchen	Brunch	59.0	E	4.5	4.3	4.3
+256	French Louie	French	52.0	M	4.5	4.3	4.5
+257	Felidia	Italian	87.0	VE	4.5	4.1	4.4
+258	Ricardo Steak House	Steakhouse	58.0	M	4.5	4.0	4.2
+259	Pok Pok Phat Thai	Thai	33.0	I	4.5	3.6	4.0
+260	Birch Coffee	Coffee Shop	10.0	I	4.5	4.2	4.3
+261	Giovanni Venticinque	Italian	69.0	E	4.5	4.0	4.4
+262	North End Grill	American	77.0	E	4.5	4.3	4.5
+263	Sakagura	Japanese	57.0	M	4.5	4.2	4.1
+264	Cafe Katja	Brunch	37.0	M	4.5	4.1	4.3
+265	Lure Fishbar	Seafood	66.0	E	4.5	4.4	4.2
+266	La Colombe Torrefaction	Cafe	8.0	I	4.5	4.0	3.9
+267	Dovetail	American	107.0	VE	4.5	4.3	4.4
+268	Blossom	Vegan	34.0	M	4.5	3.8	4.1
+269	Clinton St. Baking Company &amp; Restaurant	American	29.0	I	4.5	3.3	3.8
+270	Bowery Meat Company	New American	95.0	E	4.5	4.3	4.3
+271	Arepa Lady	Colombian	14.0	I	4.5	3.5	4.2
+272	Sistina	Italian	87.0	E	4.5	3.9	4.3
+273	Il Mulino Prime	Steakhouse	96.0	E	4.5	4.2	4.3
+274	GRAN ELÉCTRICA	Mexican	38.0	M	4.5	4.5	4.4
+275	Maloney &amp; Porcelli	American	83.0	E	4.5	4.2	4.5
+276	Ruth's Chris Steak House	Steakhouse	79.0	E	4.5	4.2	4.4
+277	Speedy Romeo	Pizza	30.0	M	4.5	4.0	4.2
+278	Comodo	Latin American	54.0	M	4.5	4.0	4.4
+279	Enzo's Restaurant	Italian	45.0	M	4.5	4.0	4.3
+280	Do or Dine	Eclectic	40.0	M	4.5	3.8	4.1
+281	Sushi Sen-Nin	Japanese	65.0	M	4.5	3.7	4.0
+282	Ralph's Famous Italian Ices &amp; Ice Cream	Ice Cream Shop	6.0	I	4.5	3.0	4.0
+283	BONDST	Japanese	75.0	E	4.5	4.2	4.2
+284	Blue Ribbon Bakery Kitchen	American	56.0	M	4.5	3.9	4.3
+285	ABC Cocina	Nuevo Latino	61.0	E	4.5	4.4	4.2
+286	Birch Coffee	Coffee Shop	10.0	I	4.5	4.2	4.3
+287	The Chocolate Room		21.0	M	4.5	4.0	4.2
+288	Birch Coffee	Coffee Shop	10.0	I	4.5	4.2	4.3
+289	White Bear	Chinese	9.0	M	4.5	2.3	3.1
+290	Four &amp; Twenty Blackbirds at the Central Library		15.0	I	4.5	3.8	4.1
+291	Mighty Quinn's Barbeque	Barbecue	24.0	I	4.5	3.4	3.7
+292	Krupa Grocery	American	39.0	M	4.5	4.1	4.2
+293	Houdini Kitchen Laboratory	American	28.0	M	4.5	4.3	4.3
+294	il laboratorio del gelato	Ice Cream Shop	8.0	I	4.5	3.5	3.9
+295	David's Brisket House &amp; Deli		20.0	I	4.5	3.2	4.1
+296	Strip House	Steakhouse	88.0	E	4.5	4.2	4.3
+297	Birch Coffee	Coffee Shop	10.0	I	4.5	4.2	4.3
+298	La Colombe SOHO	Coffee Shop	8.0	I	4.5	4.0	3.9
+299	Degustation	Continental	87.0	VE	4.5	3.9	4.2
+300	Mighty Quinn's BBQ	Barbecue	24.0	I	4.5	3.4	3.7
+301	Frankies 570 Spuntino	Italian	46.0	M	4.5	4.0	4.2
+302	Loi Estiatorio	Greek		E	4.5	4.1	4.3
+303	Mayhem &amp; Stout	Sandwich Shop	16.0	I	4.5	3.3	3.9
+304	The Capital Grille	Steakhouse	77.0	E	4.5	4.3	4.4
+305	Zizi Limona	Middle Eastern	32.0	I	4.5	4.3	4.0
+306	burger joint	Burger	19.0	M	4.5	3.5	3.6
+307	The Original Crab Shanty	Seafood	45.0	M	4.5	3.8	4.2
+308	Birch Coffee	Espresso Bar	10.0	I	4.5	4.2	4.3
+309	Minetta Tavern	French	70.0	E	4.5	4.2	4.2
+310	Locanda Verde	Italian	70.0	E	4.5	4.3	4.2
+311	Boulud Sud	Mediterranean	78.0	E	4.5	4.3	4.4
+312	Blossom	Vegan	34.0	M	4.5	3.8	4.1
+313	Villa Berulia	Italian	54.0	E	4.5	4.0	4.7
+314	KRISTALBELLI	Korean	56.0	E	4.5	4.2	4.4
+315	Cosme	Mexican	83.0	M	4.5	4.3	4.3
+316	Roberto's Restaurant	Italian	62.0	E	4.5	3.9	4.2
+317	Norma's	Brunch	45.0	E	4.5	4.0	4.1
+318	Il Buco	Italian	74.0	E	4.5	4.3	4.3
+319	Park Side	Italian	53.0	E	4.5	4.0	4.3
+320	Elio's	Italian	71.0	E	4.5	3.9	4.3
+321	Ralph's Famous Italian Ices	Ice Cream Shop	6.0	I	4.5	3.0	4.0
+322	Lupa Osteria Romana	Italian	64.0	E	4.5	3.9	4.2
+323	Wallsé	Austrian	86.0	E	4.5	4.2	4.3
+324	ChikaLicious Dessert Bar	Dessert	18.0	I	4.5	3.5	4.0
+325	I Sodi	Italian	68.0	E	4.5	3.8	4.2
+326	Blue Ribbon	Sushi	66.0	E	4.5	4.0	4.2
+327	Ralph's Famous Italian Ices	Ice Cream Shop	6.0	I	4.5	3.0	4.0
+328	Birch Coffee	Coffee Shop	10.0	I	4.5	4.2	4.3
+329	Ralph's Famous Italian Ices	Ice Cream Shop	6.0	I	4.5	3.0	4.0
+330	The Chocolate Room	Cafe	21.0	M	4.5	4.0	4.2
+331	El Rey	Coffee Shop	21.0	I	4.5	4.5	4.4
+332	Gimme! Coffee	Coffee Shop	10.0	I	4.5	3.9	4.3
+333	STATE Grill and Bar	American	45.0	M	4.5	4.3	4.3
+334	La Colombe	Coffee Shop	8.0	I	4.5	4.0	3.9
+335	Trattoria Il Mulino	Italian	87.0	VE	4.5	4.0	4.3
+336	Motorino	Pizza	28.0	M	4.5	3.7	3.9
+337	Tori Shin	Japanese	87.0	VE	4.5	0.0	4.2
+338	City Kitchen	Fast Food	28.0	I	4.5	4.1	4.1
+339	Angus Club Steakhouse	Steakhouse	81.0	E	4.5	4.4	4.4
+340	Palm	Steakhouse	81.0	E	4.5	3.9	4.3
+341	Bar Bolonat	Israeli	64.0	M	4.5	4.0	4.2
+342	The Brooklyn Star	Southern American	35.0	M	4.5	4.0	4.3
+343	Frankies Spuntino	Italian	46.0	M	4.5	4.0	4.2
+344	Ducks Eatery	Barbecue	36.0	M	4.5	4.0	4.2
+345	Risotteria Melotti	Italian	38.0	M	4.5	4.0	4.4
+346	Del Frisco's Double Eagle Steak House	Steakhouse	85.0	E	4.5	4.3	4.4
+347	Blue Ribbon Brasserie	American	56.0	E	4.5	3.9	4.3
+348	Scarpetta	Italian	78.0	E	4.5	4.2	4.3
+349	OOTOYA Times Square	Japanese	39.0	M	4.5	4.0	4.1
+350	Balaboosta	Mediterranean	54.0	E	4.5	3.9	4.2
+351	Maialino	Italian	74.0	E	4.5	4.3	4.4
+352	Katz's Delicatessen		27.0	M	4.5	3.2	3.5
+353	dirtcandy	Vegetarian	58.0	E	4.5	4.0	4.4
+354	Narcissa	American	73.0	E	4.5	4.4	4.3
+355	The Capital Grille	Steakhouse	77.0	E	4.5	4.3	4.4
+356	Le Périgord	French	86.0	VE	4.5	4.2	4.5
+357	The Capital Grille	Steakhouse	77.0	E	4.5	4.3	4.4
+358	Betony	New American	124.0	E	4.5	4.3	4.4
+359	Casellula		44.0	M	4.5	3.9	4.1
+360	Del Frisco's Grille	Steakhouse	85.0	E	4.5	4.3	4.4
+361	EN Japanese Brasserie	Japanese	73.0	E	4.5	4.6	4.2
+362	Mastro's Steakhouse		100.0	E	4.5	4.4	4.5
+363	OOTOYA Chelsea	Japanese	39.0	M	4.5	4.0	4.1
+364	Flinders Lane NYC	Australian	51.0	M	4.5	4.0	4.4
+365	Park Avenue	New American	70.0	E	4.5	4.6	4.4
+366	Piora	New American	105.0	E	4.5	4.4	4.4
+367	Momofuku	American	34.0	M	4.5	3.7	4.0
+368	Buvette	French	47.0	E	4.5	4.3	4.0
+369	Il Mulino New York - Uptown	Italian	87.0	VE	4.5	4.0	4.3
+370	Ralph's Famous Italian Ices	Ice Cream Shop	6.0	I	4.5	3.0	4.0
+371	Palm Too	Steakhouse	81.0	E	4.5	3.9	4.3
+372	Manzo	Italian	68.0	E	4.5	3.8	4.2
+373	Mill Basin Deli		28.0	M	4.5	3.8	4.1
+374	Tanoshi Sushi Sake Bar	Sushi	91.0	E	4.5	3.5	4.0
+375	Strip House Speakeasy	Steakhouse	88.0	E	4.5	4.2	4.3
+376	Dessert Club, ChikaLicious	Dessert Shop	18.0	I	4.5	3.5	4.0
+377	Blue Ribbon	American	56.0	E	4.5	3.9	4.3
+378	TIELLA NYC	Italian	57.0	E	4.5	3.6	4.4
+379	Bar Corvo	Italian	46.0	M	4.5	4.0	4.2
+380	The PINES	American	56.0	M	4.5	3.8	4.2
+381	Amorino	Ice Cream Shop	9.0	I	4.5	4.0	4.1
+382	Hometown Bar-B-Que	Barbecue	33.0	M	4.5	3.9	3.8
+383	Gimme Coffee	Coffee Shop	20.0	I	4.5	3.9	4.3
+384	Grom	Ice Cream Shop	10.0	I	4.5	3.4	3.8
+385	Eddie's Sweet Shop	Ice Cream Shop		I	4.5	4.2	4.2
+386	Birch Coffee	Coffee Shop	10.0	I	4.5	4.2	4.3
+387	Blue Ribbon	American	56.0	E	4.5	3.9	4.3
+388	La Colombe Noho	Coffee Shop	8.0	I	4.5	4.0	3.9
+389	Buddakan	Asian	75.0	VE	4.5	4.6	4.2
+390	Ristorante Rafele	Italian	52.0	M	4.5	4.1	4.3
+391	Sushi Dojo	Sushi	88.0	M	4.5	3.7	4.3
+392	Mighty Quinn's Barbeque	Barbecue	24.0	I	4.5	3.4	3.7
+393	Barney Greengrass		30.0	M	4.5	3.0	3.7
+394	Agnanti	Greek	34.0	M	4.5	3.7	4.1
+395	Ippudo Westside	Japanese	32.0	E	4.5	4.1	4.1
+396	Momo Sushi Shack	Sushi	36.0	M	4.5	4.1	4.5
+397	The Old Homestead Steakhouse	Steakhouse	88.0	VE	4.5	3.9	4.2
+398	Rye	American	49.0	M	4.5	4.2	4.1
+399	Enzo's of Arthur Avenue	Italian	45.0	M	4.5	4.0	4.3
+400	Soto Japanese Restaurant	Japanese	102.0	VE	4.5	3.6	3.9
+401	Alta	Mediterranean	58.0	M	4.5	4.3	4.1
+402	Amma	Indian	48.0	E	4.5	3.8	4.4
+403	burger joint	Burger	19.0	I	4.5	3.5	3.6
+404	Crispo	Italian	55.0	E	4.5	4.1	4.2
+405	The Simone	French	96.0	E	4.5	4.1	4.7
+406	The Good Fork	Eclectic	50.0	M	4.5	4.0	4.4
+407	Le Gigot	French	66.0	M	4.5	3.8	4.4
+408	The Hothouse	Barbecue	28.0	M	4.4	4.0	4.0
+409	Fragole Restaurant	Italian	37.0	M	4.4	3.7	4.1
+410	Lucien	French	55.0	E	4.4	3.8	4.2
+411	Zabb Elee	Thai	28.0	M	4.4	3.3	3.8
+412	Chavela's	Mexican	25.0	M	4.4	4.4	4.3
+413	The Regency Bar &amp; Grill	American	58.0	E	4.4	4.4	4.3
+414	Queen	Italian	57.0	E	4.4	3.6	4.2
+415	Defonte's	Sandwich Shop	16.0	I	4.4	3.1	4.1
+416	Luzzo's BK	Pizza	30.0	M	4.4	3.5	3.9
+417	Van Leeuwen Artisan Ice Cream	Ice Cream Shop	7.0	I	4.4	3.6	3.8
+418	Sweet Chick	Chicken	29.0	M	4.4	4.1	4.2
+419	12 Chairs Cafe	Middle Eastern	26.0	M	4.4	3.9	4.1
+420	Joe's Pizza	Pizza	10.0	I	4.4	2.9	3.6
+421	Nick's Pizzabar	Pizza	24.0	M	4.4	3.4	3.9
+422	Blue Bottle Coffee	Coffee Shop	8.0	I	4.4	3.9	4.0
+423	Sundaes and Cones	Ice Cream Shop	7.0	I	4.4	3.4	3.8
+424	Toby's Estate Coffee	Coffee Shop	8.0	I	4.4	4.3	4.2
+425	Van Leeuwen Artisan Ice Cream	Ice Cream Shop	8.0	I	4.4	3.8	4.0
+426	Sweet Chick	American	29.0	M	4.4	4.1	4.2
+427	Épicerie Boulud		27.0	M	4.4	3.7	3.9
+428	La Villa	Pizza	29.0	M	4.4	3.8	4.1
+429	Hanjan	Korean	50.0	E	4.4	4.0	4.0
+430	Spot Dessert Bar	Dessert	16.0	I	4.4	3.8	3.9
+431	Lobster Joint	Seafood	31.0	M	4.4	3.6	3.8
+432	Angelina's	Italian	69.0	E	4.4	4.4	4.2
+433	THE CARLYLE RESTAURANT	French	87.0	VE	4.4	4.7	4.5
+434	Koi Soho	Sushi	67.0	E	4.4	4.3	4.1
+435	Emilia's Restaurant	Italian	41.0	M	4.4	3.8	4.3
+436	Nerai	Greek	70.0	E	4.4	4.6	4.3
+437	Totto Ramen	Ramen	22.0	I	4.4	3.2	3.6
+438	Public	Eclectic	72.0	VE	4.4	4.5	4.4
+439	Chadwick's	American	50.0	M	4.4	3.9	4.4
+440	Shalom Japan	Jewish	45.0	M	4.4	4.0	4.4
+441	Grifone	Italian	66.0	E	4.4	3.7	4.4
+442	Manducatis Restaurant	Southern Italian	47.0	M	4.4	3.8	4.3
+443	Luke's Lobster FiDi	Seafood	24.0	M	4.4	3.2	3.7
+444	Sushiden	Japanese	64.0	E	4.4	3.8	4.2
+445	Luke's Lobster Upper East Side	Seafood	24.0	M	4.4	3.2	3.7
+446	MP Taverna	Greek	43.0	M	4.4	4.1	4.2
+447	Delaney Barbecue	Barbecue	30.0	M	4.4	3.5	4.0
+448	Tacombi Fonda Nolita	Mexican	32.0	M	4.4	4.5	3.9
+449	ILILI	Mediterranean	58.0	E	4.4	4.3	4.2
+450	Smith &amp; Wollensky	Steakhouse	83.0	E	4.4	4.1	4.3
+451	American Cut	Steakhouse	89.0	VE	4.4	4.5	4.4
+452	Aita	Italian	35.0	M	4.4	4.4	4.3
+453	Tommaso	Italian	54.0	E	4.4	3.9	4.2
+454	Wilma Jean	Southern American	23.0	M	4.4	3.7	4.0
+455	atera	New American	259.0	VE	4.4	4.3	4.4
+456	egg	American	28.0	M	4.4	3.7	3.8
+457	Cafe Clover	New American	63.0	E	4.4	4.3	4.2
+458	Raymi	Peruvian	56.0	E	4.4	4.2	4.1
+459	Murray's Cheese Bar	American	38.0	M	4.4	3.7	4.1
+460	Candle Cafe West	Organic	40.0	M	4.4	4.0	4.3
+461	Alberto	Italian	59.0	M	4.4	4.0	4.2
+462	Porsena	Italian	45.0	M	4.4	3.7	4.1
+463	Toro	Tapas	67.0	M	4.4	4.3	4.2
+464	Pacificana	Dim Sum	28.0	M	4.4	3.5	3.6
+465	Blue Water Grill	Seafood	62.0	E	4.4	4.2	4.2
+466	Burger &amp; Lobster	American	34.0	M	4.4	4.0	4.2
+467	Beccofino	Italian	40.0	M	4.4	4.0	4.3
+468	Crave Fishbar Upper West	Seafood	56.0	E	4.4	3.9	4.1
+469	Wu Liang Ye	Chinese	39.0	M	4.4	3.1	3.5
+470	RedFarm	Chinese	57.0	E	4.4	3.8	4.0
+471	Bar Boulud	French	68.0	E	4.4	4.0	4.2
+472	Moti Mahal Delux	Indian	36.0	M	4.4	3.6	4.0
+473	Gradisca	Italian	52.0	E	4.4	3.8	4.2
+474	Grand Banks	Oyster Bar	40.0	M	4.4	4.6	4.1
+475	Aurora Soho	Italian	51.0	E	4.4	4.2	4.1
+476	Khe-Yo	Laotian	55.0	M	4.4	4.0	4.1
+477	VITAE	American	65.0	M	4.4	4.0	4.1
+478	Yakitori Totto	Japanese	52.0	M	4.4	3.6	3.8
+479	Quality Italian	Steakhouse	74.0	E	4.4	4.3	4.3
+480	Pepolino	Italian	64.0	E	4.4	3.7	4.3
+481	Almayass	Mediterranean	54.0	M	4.4	4.2	4.2
+482	Bukhara Grill	Indian	41.0	M	4.4	3.7	4.0
+483	Awadh	Indian	49.0	M	4.4	4.0	4.0
+484	Print.	New American	62.0	E	4.4	4.4	4.3
+485	Bánh Mì Saigon	Sandwich Shop	11.0	I	4.4	2.9	3.6
+486	Mimi's Hummus	Middle Eastern	25.0	M	4.4	3.6	4.0
+487	Luke's Lobster Plaza Hotel Food Hall	Seafood	24.0	M	4.4	3.2	3.7
+488	Yama	Japanese	44.0	I	4.4	3.3	3.7
+489	James	New American	46.0	M	4.4	4.1	4.1
+490	London Lennies	Seafood	51.0	E	4.4	3.9	4.1
+491	Prime Meats	Steakhouse	58.0	M	4.4	4.1	4.1
+492	Brooklyn Ice Cream Factory	Ice Cream Shop	9.0	I	4.4	3.5	3.8
+493	MP Taverna	Greek	43.0	M	4.4	4.1	4.2
+494	Blue Marble Ice Cream	Ice Cream Shop	7.0	I	4.4	3.5	4.0
+495	Dumpling Man Albongidas	Dumpling	16.0	I	4.4	3.3	4.0
+496	Pisticci	Italian	36.0	M	4.4	4.0	4.2
+497	Bahari Estiatorio	Greek	36.0	M	4.4	3.6	4.1
+498	Galli	Italian	41.0	M	4.4	4.2	4.3
+499	Blue Bottle Coffee	Coffee Shop	8.0	I	4.4	3.9	4.0
+500	Toby's Estate Coffee	Coffee Shop	8.0	I	4.4	4.3	4.2
+501	Delmonico's Kitchen	Steakhouse	78.0	E	4.4	4.3	4.4
+502	Peacefood Café	Vegan	26.0	M	4.4	3.8	4.0
+503	Glady's	Caribbean	32.0	I	4.4	4.3	4.1
+504	OddFellows Ice Cream Co.	Ice Cream Shop	8.0	I	4.4	4.0	4.1
+505	Brioso	Italian	56.0	E	4.4	4.0	4.1
+506	Wallflower	French	60.0	M	4.4	4.3	4.4
+507	Totto Ramen	Noodle Shop	22.0	M	4.4	3.2	3.6
+508	Alcala Restaurant	Spanish	46.0	E	4.4	3.9	4.3
+509	Yakitori Taisho	Yakitori	31.0	I	4.4	3.4	3.5
+510	Van Leeuwen Artisan Ice Cream	Ice Cream Shop	8.0	I	4.4	3.8	4.0
+511	Mimi's Hummus	Middle Eastern	25.0	I	4.4	3.6	4.0
+512	NYY Steak	Steakhouse	81.0	E	4.4	4.5	4.4
+513	Valbella	Italian	92.0	VE	4.4	4.4	4.4
+514	Totto Ramen	Ramen	22.0	M	4.4	3.2	3.6
+515	Yefsi Estiatorio	Greek	57.0	E	4.4	3.7	4.1
+516	Malatesta Trattoria	Italian	35.0	M	4.4	3.6	4.1
+517	Franchia	Vegetarian	38.0	M	4.4	4.1	4.1
+518	Brindle Room	American	33.0	M	4.4	3.8	4.0
+519	Koi Bryant Park	Japanese	67.0	E	4.4	4.3	4.1
+520	Traif		48.0	M	4.4	3.9	4.2
+521	Mary's Fish Camp	Seafood	52.0	M	4.4	3.5	4.0
+522	La Pizza Fresca Ristorante	Italian	46.0	M	4.4	3.9	3.9
+523	Baker &amp; Co	Italian	41.0	M	4.4	4.2	4.2
+524	ALDEA	Portuguese	103.0	E	4.4	4.1	4.3
+525	Cafe Mogador Williamsburg	Moroccan	35.0	M	4.4	3.9	4.0
+526	Delmonico's	Steakhouse	78.0	E	4.4	4.3	4.4
+527	Balade	Middle Eastern	36.0	M	4.4	4.0	4.3
+528	Ravagh Persian Grill	Persian	36.0	M	4.4	3.7	3.9
+529	Harry Cipriani®	Italian	82.0	VE	4.4	4.2	4.2
+530	Ristorante Morini	Italian	87.0	VE	4.4	4.3	4.4
+531	Gennaro	Italian	43.0	M	4.4	3.5	4.0
+532	Kashkaval Garden	Mediterranean	30.0	M	4.4	3.9	4.1
+533	Egg Shop	Sandwich Shop	26.0	I	4.4	4.0	4.0
+534	Petrossian	French	93.0	E	4.4	4.4	4.3
+535	Saxon + Parole	American	62.0	E	4.4	4.4	4.2
+536	Gino's	Italian	37.0	M	4.4	3.8	4.2
+537	Cuba	Cuban	42.0	M	4.4	3.9	4.1
+538	Eataly		43.0	M	4.4	4.0	3.8
+539	Bar Jamón	Tapas Bar	49.0	M	4.4	3.9	4.0
+540	Chalk Point Kitchen	American	53.0	M	4.4	4.2	4.2
+541	il Buco Alimentari &amp; Vineria	Italian	65.0	VE	4.4	4.1	4.1
+542	Chimichurri Grill	South American	56.0	E	4.4	3.7	4.2
+543	Sevilla	Spanish	48.0	M	4.4	3.6	4.2
+544	Luke's Lobster Midtown East	Seafood	24.0	I	4.4	3.2	3.7
+545	Ben &amp; Jack's Steak House	Steakhouse	71.0	E	4.4	4.0	4.3
+546	The Spotted Pig	British	54.0	E	4.4	4.0	3.9
+547	Hakkasan	Chinese	86.0	VE	4.4	4.5	4.2
+548	Pellegrino's	Italian	52.0	M	4.4	3.9	4.2
+549	SUSHISAMBA NYC West Village	Brazilian	59.0	E	4.4	4.3	4.2
+550	Cull &amp; Pistol Oyster Bar	Oyster Bar	51.0	E	4.4	3.8	4.0
+551	La Bergamote	French	35.0	M	4.4	3.8	4.0
+552	Dirty French	French	81.0	E	4.4	4.3	4.2
+553	Junoon	Indian	66.0	E	4.4	4.5	4.4
+554	The Sea Grill	Seafood	79.0	E	4.4	4.4	4.4
+555	Tacombi Flatiron	Mexican	32.0	M	4.4	4.5	3.9
+556	The Marshal	New American	51.0	E	4.4	3.7	4.1
+557	db Bistro Moderne	French	71.0	E	4.4	4.2	4.3
+558	NYY Steak	Steakhouse	81.0	E	4.4	4.5	4.4
+559	Blue Bottle Coffee	Coffee Shop	8.0	I	4.4	3.9	4.0
+560	Aburiya Kinnosuke	Sushi	62.0	E	4.4	3.8	4.1
+561	Vezzo Thin Crust Pizza	Pizza	28.0	M	4.4	3.5	3.7
+562	VICEVERSA	Italian	61.0	E	4.4	4.2	4.4
+563	Kurumazushi Restaurant	Sushi	121.0	VE	4.4	3.3	3.7
+564	Restaurant Nippon	Japanese	57.0	E	4.4	3.8	4.2
+565	Fornino	Pizza	23.0	M	4.4	3.9	3.9
+566	1 OR 8	Japanese	61.0	E	4.4	4.2	4.3
+567	Takahachi	Sushi	48.0	M	4.4	3.9	4.3
+568	Sushiden	Japanese	64.0	E	4.4	3.8	4.2
+569	North Square	New American	55.0	E	4.4	4.1	4.4
+570	Fushimi Richmond Road	Japanese	46.0	M	4.4	4.5	4.2
+571	Mu Ramen	Ramen	36.0	M	4.4	4.3	4.1
+572	Fornino	Pizza	23.0	I	4.4	3.9	3.9
+573	Periyali - Fine Greek Food Manhattan NYC	Greek	60.0	E	4.4	4.0	4.3
+574	M. Wells Steakhouse	Steakhouse	79.0	E	4.4	4.2	4.3
+575	IL Postino	Italian	77.0	E	4.4	4.0	4.3
+576	Via Carota	Italian	64.0	M	4.4	4.1	4.3
+577	Van Leeuwen Artisan Ice Cream	Ice Cream Shop	8.0	I	4.4	3.8	4.0
+578	Abraço	Coffee Shop	7.0	I	4.4	3.5	4.1
+579	Nick's Pizza	Pizza	24.0	M	4.4	3.4	3.9
+580	Tacombi Bleecker Street	Mexican	32.0	M	4.4	4.5	3.9
+581	Chefs Club by Food &amp; Wine	Eclectic	88.0	E	4.4	4.6	4.2
+582	Liebman's Kosher Delicatessen &amp; Catering	Kosher	24.0	I	4.4	3.3	4.1
+583	Shanghai Cafe Deluxe	Chinese	17.0	I	4.4	3.3	3.6
+584	Peaches	Southern American	28.0	M	4.4	4.0	4.0
+585	Reserve Cut	Kosher	101.0	VE	4.4	4.6	4.3
+586	Barrio Chino	Mexican	39.0	M	4.4	4.0	3.9
+587	Campagnola	Italian	73.0	E	4.4	3.8	4.3
+588	Zum Stammtisch	German	42.0	M	4.4	4.0	4.3
+589	Root &amp; Bone	Southern American	43.0	M	4.4	3.9	4.1
+590	Christos Steak House	Steakhouse	74.0	E	4.4	3.9	4.2
+591	Great NY Noodletown	Chinese	20.0	M	4.4	2.6	3.4
+592	Joseph Leonard	American	59.0	E	4.4	4.2	4.3
+593	Caviar Russe	New American	110.0	VE	4.4	4.3	4.1
+594	Prune	American	56.0	E	4.4	3.6	4.2
+595	Black Ant	Mexican	50.0	M	4.4	4.2	4.1
+596	Tertulia	Spanish	52.0	M	4.4	4.0	4.1
+597	Zibetto Espresso Bar	Espresso Bar		I	4.4	3.8	4.2
+598	Beso	Spanish	45.0	M	4.4	4.2	4.2
+599	Takahachi Tribeca	Japanese	48.0	M	4.4	3.9	4.3
+600	Manducatis Rustica	Italian	47.0	M	4.4	3.8	4.3
+601	Luzzo's La Pizza Napoletana	Pizza	30.0	M	4.4	3.5	3.9
+602	Hangawi	Korean	51.0	E	4.4	4.4	4.3
+603	dell'anima	Italian	64.0	E	4.4	4.0	4.2
+604	Barbuto	Italian	60.0	E	4.4	3.9	4.2
+605	Minca	Ramen	21.0	M	4.4	3.1	3.7
+606	Jake’s Steakhouse - Bronx	Steakhouse	60.0	E	4.4	3.9	4.2
+607	Rosie's	Mexican		M	4.4	4.3	4.5
+608	Lusardi's	Italian	67.0	E	4.4	3.9	4.3
+609	Erminia	Italian	71.0	E	4.4	4.4	4.5
+610	Balthazar	French	62.0	E	4.4	4.3	4.1
+611	Vatan	Indian	41.0	M	4.4	4.5	4.4
+612	Jack the Horse Tavern	Oyster Bar	44.0	M	4.4	4.1	4.2
+613	DeGrezia	Italian	69.0	E	4.4	4.2	4.4
+614	Pampano Taqueria	Mexican	56.0	E	4.4	4.1	4.1
+615	Luke's Lobster East Village	Seafood	24.0	M	4.4	3.2	3.7
+616	12 Chairs Cafe	Middle Eastern	26.0	M	4.4	3.9	4.1
+617	MarkJoseph Steakhouse	Steakhouse	86.0	E	4.4	4.0	4.4
+618	Areo	Italian	56.0	E	4.4	3.9	4.1
+619	Fushimi Bay Ridge	Japanese	46.0	M	4.4	4.5	4.2
+620	Talde	Asian	47.0	E	4.4	4.1	4.1
+621	Blue Bottle Coffee	Coffee Shop	8.0	M	4.4	3.9	4.0
+622	Pachanga Patterson	Mexican	34.0	M	4.4	4.0	4.2
+623	Defonte's Sandwich Shop	Sandwich Shop	16.0	M	4.4	3.1	4.1
+624	Lavagna	Italian	49.0	M	4.4	3.9	4.2
+625	Luke's Lobster Brooklyn Bridge Park	Seafood	24.0	I	4.4	3.2	3.7
+626	Adrienne's Pizzabar	Pizza	27.0	M	4.4	3.6	3.8
+627	Kanoyama	Japanese	63.0	M	4.4	3.6	4.1
+628	Leo's Latticini		19.0	M	4.4	3.2	4.0
+629	Kafana	Serbian	34.0	M	4.4	3.9	3.9
+630	Erawan Thai Cuisine	Thai	42.0	M	4.4	4.1	4.2
+631	Bayou Restaurant	Cajun	44.0	M	4.4	4.3	4.3
+632	Roebling Tea Room	Tea House	42.0	M	4.4	4.5	3.9
+633	Mesa Coyoacan	Mexican	35.0	M	4.4	4.2	4.0
+634	La Villa	Pizza	29.0	M	4.4	3.8	4.1
+635	Bogota Latin Bistro	Latin American	36.0	M	4.4	3.9	4.1
+636	Somtum Der	Thai	36.0	M	4.4	3.7	3.9
+637	Ravagh	Persian	36.0	M	4.4	3.7	3.9
+638	Red Hook Lobster Pound	Seafood	27.0	M	4.4	3.1	3.7
+639	Van Leeuwen Artisan Ice Cream	Ice Cream Shop	8.0	I	4.4	3.8	4.0
+640	Marta	Pizza	50.0	M	4.4	4.1	4.3
+641	II Falco Restaurant	Italian	53.0	E	4.4	4.2	4.6
+642	Fornino At Pier 6	Pizza	23.0	I	4.4	3.9	3.9
+643	Blue Bottle Coffee	Coffee Shop	8.0	M	4.4	3.9	4.0
+644	La Sirène	French	63.0	E	4.4	3.7	4.1
+645	Joe's Pizza	Pizza	10.0	I	4.4	2.9	3.6
+646	Auttharos Thai New York	Thai	28.0	M	4.4	3.3	3.8
+647	Aita Trattoria	Italian	35.0	M	4.4	4.4	4.3
+648	Luke's Lobster Time Square	Seafood	24.0	I	4.4	3.2	3.7
+649	American Cut Midtown	Steakhouse	89.0	VE	4.4	4.5	4.4
+650	Joe &amp; Pat's	Italian	23.0	M	4.4	3.2	3.6
+651	The Clocktower	New American		E	4.4	4.4	4.1
+652	Charlie Palmer Steak	Steakhouse	81.0	E	4.4	4.2	4.3
+653	Cafe Mogador	Moroccan	35.0	M	4.4	3.9	4.0
+654	Masseria dei Vini	Italian	65.0	E	4.4	4.0	4.3
+655	Amsterdam Burger Company	Kosher	29.0	I	4.4	3.7	3.9
+656	Palma	Italian	60.0	E	4.4	4.5	4.3
+657	Galli Restaurant	Italian	41.0	M	4.4	4.2	4.3
+658	Valbella Midtown	Italian	92.0	VE	4.4	4.4	4.4
+659	Candle Cafe	Cafe	40.0	M	4.4	4.0	4.3
+660	La Bergamote	French	35.0	M	4.4	3.8	4.0
+661	Seva	Indian	24.0	M	4.4	3.1	3.9
+662	Ngam	Thai	31.0	M	4.4	3.9	3.9
+663	Pearl &amp; Ash	New American	76.0	E	4.4	3.9	4.1
+664	Café China	Chinese	37.0	M	4.4	3.8	3.8
+665	New Wonjo	Korean	38.0	M	4.4	3.5	3.9
+666	Carbone	Italian	99.0	VE	4.4	4.2	4.3
+667	Scalinatella	Italian	97.0	VE	4.4	3.7	4.2
+668	The House	American	63.0	E	4.4	4.5	4.3
+669	Le Cirque	French	102.0	VE	4.4	4.6	4.5
+670	Spice Market	Asian	67.0	E	4.4	4.6	4.1
+671	Paola's Restaurant	Italian	70.0	E	4.4	3.9	4.2
+672	Peasant	Italian	56.0	E	4.4	4.4	4.1
+673	Il Cantinori	Italian	73.0	E	4.4	4.4	4.3
+674	Ofrenda	Mexican	42.0	M	4.4	3.9	3.9
+675	Tao Downtown	Asian	66.0	E	4.4	4.7	4.1
+676	RedFarm	Chinese	57.0	M	4.4	3.8	4.0
+677	Peacefood Cafe	Vegan	26.0	M	4.4	3.8	4.0
+678	Spicy &amp; Tasty	Chinese	24.0	M	4.4	3.2	3.6
+679	Inakaya NY	Japanese	62.0	E	4.4	4.2	4.1
+680	Yama 49	Japanese	44.0	M	4.4	3.3	3.7
+681	San Pietro	Italian	97.0	VE	4.4	4.1	4.4
+682	Cafe Pedlar	Coffee Shop	7.0	I	4.4	3.9	3.9
+683	Jewel Bako	Sushi	90.0	E	4.4	4.3	4.2
+684	Pulau Pinang Malaysian Cuisine	Malaysian	32.0	M	4.4	3.8	3.9
+685	Mama's of Corona	Sandwich Shop	19.0	I	4.4	3.2	4.0
+686	Brooklyn Ice Cream Factory	Ice Cream Shop	9.0	I	4.4	3.5	3.8
+687	Ferrara Bakery		23.0	M	4.4	3.8	3.8
+688	Fushimi Williamsburg	Japanese	46.0	M	4.4	4.5	4.2
+689	Ravagh Persian Grill	Persian	36.0	M	4.4	3.7	3.9
+690	Butcher Bar		29.0	M	4.4	3.9	3.9
+691	La Villa Pizza	Pizza	29.0	M	4.4	3.8	4.1
+692	Ki Sushi	Japanese	47.0	M	4.4	3.9	4.2
+693	Brooklyn Farmacy &amp; Soda Fountain	Ice Cream Shop	16.0	I	4.4	4.7	4.3
+694	Salinas	Spanish	70.0	E	4.4	4.4	4.2
+695	Marcony	Italian	77.0	E	4.4	4.1	4.2
+696	Joe's Pizza	Pizza	10.0	M	4.4	2.9	3.6
+697	Hunger Pang	American	29.0	M	4.4	4.0	4.4
+698	OddFellows Ice Cream Co.	Ice Cream Shop	8.0	I	4.4	4.0	4.1
+699	Toby's Estate Coffee	Espresso Bar	8.0	I	4.4	4.3	4.2
+700	Luke's Lobster Park Slope	Seafood	24.0	I	4.4	3.2	3.7
+701	The Pine Tree Cafe	American	33.0	M	4.4	4.0	4.2
+702	Wheated	Pizza	22.0	I	4.4	4.0	4.3
+703	Pippali	Indian	35.0	M	4.4	3.5	4.0
+704	Antica Pesa	Italian	67.0	E	4.4	4.3	4.3
+705	Tortilleria Nixtamal	Mexican	21.0	I	4.4	3.2	3.9
+706	Mapo Korean B.B.Q.	Korean	46.0	M	4.4	3.6	4.0
+707	Pies 'n' Thighs	Southern American	25.0	M	4.4	3.7	3.9
+708	Queens Comfort	Brunch	26.0	M	4.4	4.2	4.2
+709	Wollensky's Grill	Steakhouse	68.0	E	4.4	3.9	4.3
+710	Crave Fishbar	Seafood	56.0	E	4.4	3.9	4.1
+711	Monument Lane	American	49.0	E	4.4	4.3	4.3
+712	Red Bamboo	Vegan	22.0	M	4.4	3.8	4.2
+713	The Milling Room	American	60.0	M	4.4	4.5	4.1
+714	Nick's Pizza	Pizza	24.0	M	4.4	3.4	3.9
+715	Blue Bottle Coffee	Coffee Shop	8.0	I	4.4	3.9	4.0
+716	Cafe Regular Du Nord	Cafe		I	4.4	4.0	4.2
+717	Aurora	Italian	51.0	M	4.4	4.2	4.1
+718	Lombardi's Pizza	Pizza	28.0	M	4.4	3.5	3.7
+719	Kajitsu	Japanese	115.0	VE	4.4	4.0	4.5
+720	Red Hook Lobster Pound	Seafood	27.0	M	4.4	3.1	3.7
+721	Churrascaria Plataforma	Brazilian	82.0	E	4.4	4.1	4.3
+722	Hu Kitchen	Gluten Free	20.0	M	4.4	3.8	3.8
+723	David Burke fabrick	American	64.0	E	4.4	4.2	4.2
+724	Asiate	American	124.0	VE	4.4	4.8	4.5
+725	TAO Uptown	Asian	66.0	E	4.4	4.7	4.1
+726	La Masseria	Italian	65.0	E	4.4	4.0	4.3
+727	Dawat Haute Indian Cuisine	Indian	55.0	E	4.4	3.8	4.2
+728	L&amp;B; Spumoni Gardens	Italian	25.0	M	4.4	3.2	3.7
+729	Bar Primi		48.0	M	4.4	4.1	4.1
+730	Il Tinello Ristorante	Italian	79.0	E	4.4	4.0	4.4
+731	Carol's Cafe	Cafe	63.0	E	4.4	3.8	4.1
+732	Txikito	Spanish	57.0	E	4.4	3.6	4.1
+733	Mimi Cheng's Dumplings	Chinese	18.0	I	4.4	3.5	3.8
+734	Luke's Lobster Upper West Side	Seafood	24.0	M	4.4	3.2	3.7

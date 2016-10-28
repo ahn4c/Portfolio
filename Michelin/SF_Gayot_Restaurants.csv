@@ -1,0 +1,869 @@
+	Restaurant_Name	Address	Rating
+0	7 Mile House	2800 Bayshore Blvd.Brisbane, CA 940	12.0
+1	Ace Wasabi's Rock-n-Roll Sushi	3339 Steiner St.San Francisco, CA 94123	12.0
+2	Amici's East Coast Pizzeria	1242 Fourth St.San Rafael, CA 94901	12.0
+3	Amici's East Coast Pizzeria	226 Redwood Shores Pkwy.Redwood City, CA 94065	12.0
+4	Amici's East Coast Pizzeria	880 Santa Cruz Ave.Menlo Park, CA 940	12.0
+5	Anchor & Hope	83 Minna St.San Francisco, CA 94105	12.0
+6	Aurea	Stanford Court San Francisco905 California St.San Francisco, CA 94108	12.0
+7	Baby Blues BBQ	3149 Mission St.San Francisco, CA 941	12.0
+8	Barbara's Fish Trap	281 Capistrano Rd.Half Moon Bay, CA 94019	12.0
+9	Beach Chalet	Beach Chalet1000 Great Hwy.San Francisco, CA 941	12.0
+0	Belly Burgers	5740 Geary Blvd.San Francisco, CA 94121	12.0
+1	Binh Minh Quan	338 12th St.Oakland, CA 94607	12.0
+2	Bissap Baobab	3372 19th St.San Francisco, CA 94110	12.0
+3	Bistro Liaison	1849 Shattuck Ave.Berkeley, CA 94709	12.0
+4	Black Angus Steakhouse	4814 Dublin Blvd.Dublin, CA 94568	12.0
+5	Black Angus Steakhouse	3195 N. Main St.Pleasant Hill, CA 94523	12.0
+6	Black Angus Steakhouse	15800 Hesperian Blvd.San Lorenzo, CA 94580	12.0
+7	Black Angus Steakhouse	124 Plaza Dr.Vallejo, CA 94591	12.0
+8	Blowfish Sushi to Die For	2170 Bryant St.San Francisco, CA 94110	12.0
+9	Blue Agave Club	625 Main St.Pleasanton, CA 94566	12.0
+0	Blue Garden Cafe	Allied Arts Guild75 Arbor Rd.Menlo Park, CA 94025	12.0
+1	Blue Mermaid Chowder House & Bar	Argonaut HotelHaslett Warehouse471 Jefferson St.San Francisco, CA 94109	12.0
+2	Boudin SF	156 Jefferson St.San Francisco, CA 94133	12.0
+3	The Brazen Head Restaurant	3166 Buchanan St.San Francisco, CA 94123	12.0
+4	Brickhouse Cafe	426 Brannan St.San Francisco, CA 941	12.0
+5	Brother's Korean Restaurant	4128 Geary St.San Francisco, CA 941	12.0
+6	Buck's of Woodside	3062 Woodside Rd.Woodside, CA 94062	12.0
+7	Bungalow 44	44 E. Blithedale Ave.Mill Valley, CA 94941	12.0
+8	Burger Bar	Macy's Union Square251 Geary St.San Francisco, CA 94102	12.0
+9	Cafe Bastille	22 Belden Pl.San Francisco, CA 94104	12.0
+0	Cafe Pro Bono	2437 Birch St.Palo Alto, CA 94306	12.0
+1	Cafe Reyes	11101 State Rte. 1Point Reyes Station, CA 949	12.0
+2	Cafe Tiramisu	28 Belden Pl.San Francisco, CA 94104	12.0
+3	Cafe Zoetrope	916 Kearny St.San Francisco, CA 94133	12.0
+4	Caffe Delle Stelle	395 Hayes St.San Francisco, CA 94102	12.0
+5	California Pizza Kitchen	5614 Bay St., #244Emeryville, CA 94608	12.0
+6	California Pizza Kitchen	53 Third St.San Francisco, CA 94103	12.0
+7	California Pizza Kitchen	Broadway Plaza Shopping Center1120 Broadway PlazaWalnut Creek, CA 94596	12.0
+8	California Pizza Kitchen	Corte Madera Town Center347 Corte Madera Town Center, Sp. 347Corte Madera, CA 94925	12.0
+9	California Pizza Kitchen	Hillsdale Shopping Center100 Hillsdale Shopping CenterSan Mateo, CA 94403	12.0
+0	Calzone's	430 Columbus Ave.San Francisco, CA 941	12.0
+1	The Caprice	2000 Paradise Dr.Tiburon, CA 94920	12.0
+2	Carpaccio	1120 Crane St.Menlo Park, CA 94025	12.0
+3	Casa Orinda	20 Bryant WayOrinda, CA 94563	12.0
+4	Cha Cha Cha	1801 Haight St.San Francisco, CA 94117	12.0
+5	Chavo's Mexican Restaurant	595 Bryant St.San Francisco, CA 94107	12.0
+6	The Cheesecake Factory	375 University Ave.Palo Alto, CA 943	12.0
+7	The Cheesecake Factory	Macy's251 Geary St., 8th Fl.San Francisco, CA 94102	12.0
+8	Chop Bar	247 4th St.Oakland, CA 94607	12.0
+9	Christopher's Nothing Fancy Cafe	1019 San Pablo Ave., #21Albany, CA 94706	12.0
+0	Club Waziema	543 Divisadero St.San Francisco, CA 94117	12.0
+1	Coast Cafe	46 Wharf Rd.Bolinas, CA 949	12.0
+2	Colibri Mexican Bistro	438 Geary St.San Francisco, CA 94102	12.0
+3	Commonwealth Cafe & Public House  	2882 Telegraph Ave.Oakland, CA 94609	12.0
+4	The Counter	369 S. California Ave.Palo Alto, CA 943	12.0
+5	Crossroads Cafe	699 Delancey St.San Francisco, CA 94107	12.0
+6	Daily Grill	"347 Geary St.San Francisco, CA 94102 | Menu
+
+
+ "	12.0
+7	Dino's Family Restaurant	36930 Fremont Blvd.Fremont, CA 945	12.0
+8	District	216 Townsend St.San Francisco, CA 94107	12.0
+9	DJ's Bistro 	1825 Sutter St.Concord, CA 94520	12.0
+0	Don Pico's Mexican Bistro	461 El Camino RealSan Bruno, CA 94066	12.0
+1	Duarte's Tavern	202 Stage Rd.Pescadero, CA 94060	12.0
+2	Eddie Rickenbacker's	133 Second St.San Francisco, CA 941	12.0
+3	Esperpento	3295 22nd St.San Francisco, CA 94110	12.0
+4	Espetus Churrascaria	710 S. B St.San Mateo, CA 944	12.0
+5	Fat Apples Restaurant & Bakery	1346 Martin Luther King Jr. WayBerkeley, CA 94709	12.0
+6	Fentons Creamery & Restaurant	4226 Piedmont Ave.Oakland, CA 94611	12.0
+7	Finnegan's Marin	877 Grant Ave.Novato, CA 94945	12.0
+8	Fly	762 Divisadero St.San Francisco, CA 94117	12.0
+9	Fresca	2114 Fillmore St.San Francisco, CA 94115	12.0
+0	Gira Polli	590 E. Blithedale Ave.Mill Valley, CA 94941	12.0
+1	Golden Chopsticks	1650 Balboa St.San Francisco, CA 94121	12.0
+2	Gordon Biersch Brewery Restaurant	640 Emerson St.Palo Alto, CA 94301	12.0
+3	Happy Garden Restaurant	815 Clement St.San Francisco, CA 94118	12.0
+4	Henry's Hunan Restaurant	1016 Bryant St.San Francisco, CA 94103	12.0
+5	Ho Chow	47966 Warm Springs Blvd.Fremont, CA 94539	12.0
+6	Home of Chicken & Waffles	444 Embarcadero W.Oakland, CA 94607	12.0
+7	The House	1230 Grant Ave.San Francisco, CA 941	12.0
+8	The Irish Bank	10 Mark Ln.San Francisco, CA 94108	12.0
+9	Isobune	Kintetsu Mall1737 Post St.San Francisco, CA 941	12.0
+0	Jai Yun	680 Clay St.San Francisco, CA 94111	12.0
+1	Jazz Bistro at Les Joulins	44 Ellis St.San Francisco, CA 94102	12.0
+2	Jillian's	Metreon175 4th St.San Francisco, CA 94103	12.0
+3	Jupiter	2181 Shattuck Ave.Berkeley, CA 94704	12.0
+4	Kabul	135 El Camino RealSan Carlos, CA 94070	12.0
+5	Kate's Kitchen	471 Haight St.San Francisco, CA 941	12.0
+6	Katia's, A Russian Tea Room	600 Fifth Ave.San Francisco, CA 941	12.0
+7	Kitaro	5723 Geary Blvd.San Francisco, CA 94121	12.0
+8	Korea House	1620 Post St.San Francisco, CA 94115	12.0
+9	Kuleto's	Villa Florence Hotel221 Powell St.San Francisco, CA 94102	12.0
+0	La Vie	5830 Geary Blvd.San Francisco, CA 94121	12.0
+1	Lalita	96 McAllister St.San Francisco, CA 94102	12.0
+2	Las Montanas	1841 Willow Pass Rd.Concord, CA 945	12.0
+3	Little Plearn	2283 Shattuck Ave.Berkeley, CA 947	12.0
+4	Lucky Creation	854 Washington St.San Francisco, CA 94108	12.0
+5	Mama's on Washington Square	1701 Stockton St.San Francisco, CA 94133	12.0
+6	Manivanh Thai	2732 24th St.San Francisco, CA 94110	12.0
+7	Marin Joe's	1585 Casa Buena Dr.Corte Madera, CA 94925	12.0
+8	Merritt Bakery Kwikway	500 Lake Park Ave.Oakland, CA 946	12.0
+9	Mezes	2373 Chestnut St.San Francisco, CA 941	12.0
+0	Millbrae Pancake House	1301 El Camino RealMillbrae, CA 94030	12.0
+1	Millie's Kitchen	1018 Oakhill Rd.Lafayette, CA 945	12.0
+2	Mojo Bicycle Cafe	639A Divisadero St.San Francisco, CA 94117	12.0
+3	Montecatini	1528 Civic Dr.Walnut Creek, CA 94596	12.0
+4	Mozzeria	3228 16th St.San Francisco, CA 94103	12.0
+5	Mums Home of Shabu-Shabu	Hotel Tomo1800 Sutter St.San Francisco, CA 94115	12.0
+6	Neal's Coffee Shop	Crystal Springs Village114 De Anza Blvd.San Mateo, CA 944	12.0
+7	Nola	535 Ramona St.Palo Alto, CA 94301	12.0
+8	Noodle Theory	6099 Claremont Ave.Oakland, CA 94618	12.0
+9	Old Jerusalem Restaurant	2976 Mission St.San Francisco, CA 94110	12.0
+0	Opaque - Dining in the Dark	Crimson Lounge689 McAllister St.San Francisco, CA 94102	12.0
+1	Osha Thai Noodle Cafe	819 Valencia St.San Francisco, CA 94110	12.0
+2	Osteria	247 Hamilton Ave.Palo Alto, CA 94301	12.0
+3	Palm House	2032 Union St.San Francisco, CA 94123	12.0
+4	Palo Alto Sol	408 S. California Ave.Palo Alto, CA 94306	12.0
+5	Papito Organic Mexican Cuisine	317 Connecticut St.San Francisco, CA 94107	12.0
+6	Pasta Pomodoro	3611 California St.San Francisco, CA 94118	12.0
+7	Pasta Pomodoro	5500 College Ave.Oakland, CA 94618	12.0
+8	Pasta Pomodoro	Union Landing Shopping Center32216 Dyer St.Union City, CA 94587	12.0
+9	Patio Espanol Restaurant	Unión Española de California2850 Alemany Blvd.San Francisco, CA 94112	12.0
+0	PatPong	2415 Clement St.San Francisco, CA 94121	12.0
+1	Pauline's Pizza	260 Valencia St.San Francisco, CA 94103	12.0
+2	Pazzia Caffe & Trattoria	337 Third St.San Francisco, CA 94107	12.0
+3	Pena Pachamama	1630 Powell St.San Francisco, CA 941	12.0
+4	Perry's	1944 Union St.San Francisco, CA 94123	12.0
+5	Pho Phu Quoc	1816 Irving St.San Francisco, CA 94122	12.0
+6	Piacere	727 Laurel St.San Carlos, CA 94070	12.0
+7	Picante	1328 Sixth St.Berkeley, CA 947	12.0
+8	The Plant Cafe Organic	Pier 3, The EmbarcaderoSan Francisco, CA 94111	12.0
+9	Pomelo	92 Judah St.San Francisco, CA 94122	12.0
+0	Pomelo	1793 Church St.San Francisco, CA 94131	12.0
+1	Puccini & Pinetti	Hotel Abri129 Ellis St.San Francisco, CA 94102	12.0
+2	Raphael's Shutter Cafe	10064 San Pablo Ave.El Cerrito, CA 94530	12.0
+3	Ristorante Parma	3314 Steiner St.San Francisco, CA 94123	12.0
+4	Ristorante Umbria	198 Second St.San Francisco, CA 941	12.0
+5	Rosamunde Sausage Grill	545 Haight St.San Francisco, CA 94117	12.0
+6	The Royal Exchange	301 Sacramento St.San Francisco, CA 941	12.0
+7	St. Francis Fountain	2801 24th St.San Francisco, CA 94110	12.0
+8	Sam's Grill	374 Bush St.San Francisco, CA 941	12.0
+9	Saul's Restaurant & Delicatessen	1475 Shattuck Ave.Berkeley, CA 94709	12.0
+0	Savanna Jazz	2937 Mission St.San Francisco, CA 94110	12.0
+1	Savor	3913 24th St.San Francisco, CA 94114	12.0
+2	Sears Fine Food	439 Powell St.San Francisco, CA 94102	12.0
+3	Seoul Garden	22 Peace PlazaSan Francisco, CA 94115	12.0
+4	Shanghai Dumpling King	3319 Balboa St.San Francisco, CA 94121	12.0
+5	Skates on the Bay	100 Seawall Dr.Berkeley, CA 94710	12.0
+6	Spenger's Fresh Fish Grotto	1919 Fourth St.Berkeley, CA 94710	12.0
+7	Street	2141 Polk St.San Francisco, CA 941	12.0
+8	Summer Summer Thai Eatery	5885 Hollis St.Emeryville, CA 94608	12.0
+9	Tacolicious	741 Valencia St.San Francisco, CA 94110	12.0
+0	Taheri's Mediterranean Restaurant	2999 Oak Rd., Ste. AWalnut Creek, CA 94597	12.0
+1	Taiwan Restaurant	445 Clement St.San Francisco, CA 94118	12.0
+2	Thai Spice	1730 Polk St.San Francisco, CA 94109	12.0
+3	Tiburon Tavern	The Lodge at Tiburon: A Larkspur Hotel1651 Tiburon Blvd.Tiburon, CA 94920	12.0
+4	Tonga Room & Hurricane Bar	Fairmont San Francisco950 Mason St.San Francisco, CA 94108	12.0
+5	Troya	2125 Fillmore St.San Francisco, CA 94115 	12.0
+6	Tub Tim Thai	510 Tamalpais  Dr.Corte Madera, CA 94925	12.0
+7	Udupi Palace	1901 University Ave.Berkeley, CA 94704	12.0
+8	Umami Burger	"2184 Union St.San Francisco, CA 94123 | Menu
+
+
+ "	12.0
+9	Urban Curry	523 Broadway St.San Francisco, CA 94133	12.0
+0	Walzwerk	381 S. Van Ness Ave.San Francisco, CA 94103	12.0
+1	Zazie	941 Cole St.San Francisco, CA 94117	12.0
+0	123 Bolinas	123 Bolinas Rd.Fairfax, CA 949	13.0
+1	54 Mint	16 Mint PlazaSan Francisco, CA 94103	13.0
+2	A la Turca	869 Geary St.San Francisco, CA 94109	13.0
+3	Al Masri	4031 Balboa St.San Francisco, CA 94121	13.0
+4	Alamo Square Seafood Grill	803 Fillmore St.San Francisco, CA 94117	13.0
+5	Albona Ristorante Istriano	545 Francisco St.San Francisco, CA 94133	13.0
+6	Alegrias	2018 Lombard St.San Francisco, CA 94123	13.0
+7	The Alembic	1725 Haight St.San Francisco, CA 94117	13.0
+8	Alfred's Steakhouse	659 Merchant St.San Francisco, CA 94111	13.0
+9	Alice's	1599 Sanchez St.San Francisco, CA 94110	13.0
+0	Alioto's No. 8	8 Fisherman's Wharf, at the bottom of TaylorSan Francisco, CA 94133	13.0
+1	Alta CA	1420 Market St.San Francisco, CA 94102	13.0
+2	Amarena	2162 Larkin St.San Francisco, CA 941	13.0
+3	Amber Dhara	150 University Ave.Palo Alto, CA 94301	13.0
+4	Amelie Le Bar à Vin	1754 Polk St.San Francisco, CA 94109	13.0
+5	Americano Restaurant & Bar	Hotel Vitale8 Mission St.San Francisco, CA 94105	13.0
+6	Ananda Fuara 	1298 Market St.San Francisco, CA 94102	13.0
+7	Angelino Restaurant	621 BridgewaySausalito, CA 94965	13.0
+8	Angelo Mio	820 Santa Cruz Ave.Menlo Park, CA 94025	13.0
+9	Angkor Borei Restaurant	3471 Mission St.San Francisco, CA 94110	13.0
+0	Anzu	Hotel Nikko San Francisco222 Mason St.San Francisco, CA 94102	13.0
+1	Aperto	1434 18th St.San Francisco, CA 94107	13.0
+2	Aquitaine	"175 Sutter St.San Francisco, CA 94104 | Menu
+
+ |"	13.0
+3	Arguello	Presidio Officers Club50 Moraga Ave.San Francisco, CA 941	13.0
+4	Arya Global Cuisine	885 Middlefield Rd.Redwood City, CA 94063	13.0
+5	AsiaSF	201 Ninth St.San Francisco, CA 94103	13.0
+6	Avatar's Restaurant	2656 BridgewaySausalito, CA 94965	13.0
+7	Bacco	737 Diamond St.San Francisco, CA 94114	13.0
+8	Bacheesos	2650 Telegraph Ave.Berkeley, CA 947	13.0
+9	Baker Street Bistro	2953 Baker St.San Francisco, CA 94123	13.0
+0	Balboa Cafe	3199 Fillmore St.San Francisco, CA 94123	13.0
+1	Bangkok Thai Express	857 Fourth St.San Rafael, CA 94901	13.0
+2	Barlago Italian Kitchen	550 Grand Ave.Oakland, CA 94610	13.0
+3	Barrel House Tavern	660 BridgewaySausalito, CA 949	13.0
+4	The Barrel Room	415 Sansome St.San Francisco, CA 941	13.0
+5	Basil Thai Restaurant & Bar	1175 Folsom St.San Francisco, CA 94103	13.0
+6	Battambang	850 BroadwayOakland, CA 94607	13.0
+7	Bay 223	Sofitel San Francisco Bay223 Twin Dolphin Dr.Redwood City, CA 94065	13.0
+8	Belden Taverna	52 Belden Pl.San Francisco, CA 94104	13.0
+9	Belga	2000 Union St.San Francisco, CA 941	13.0
+0	Bella Trattoria Italiana	3854 Geary Blvd.San Francisco, CA 94118	13.0
+1	Benchmark Pizzeria	1568 Oak View Ave.Kensington, CA 94706	13.0
+2	Beretta	1199 Valencia St.San Francisco, CA 94110	13.0
+3	Bergerac	316 11th St.San Francisco, CA 941	13.0
+4	Bette's Oceanview Diner	1807 Fourth St.Berkeley, CA 94710	13.0
+5	Bijou Restaurant & Bar	1036 B St.Hayward, CA 94541	13.0
+6	Bird Dog	420 Ramona St.Palo Alto, CA 943	13.0
+7	Biscuits & Blues	401 Mason St.San Francisco, CA 94102	13.0
+8	Bistro 1491	1491 Solano Ave.Albany , CA 94706	13.0
+9	Bistro Boudin	Boudin at the Wharf160 Jefferson St.San Francisco, CA 94133	13.0
+0	Bistro Maxine	548 Ramona St.Palo Alto, CA 943	13.0
+1	Blackhawk Grille	Shops at Blackhawk3540 Blackhawk Plaza CircleDanville, CA 94506	13.0
+2	Blue Plate	3218 Mission St.San Francisco, CA 94110	13.0
+3	Bobo's Lounge	1434 Lombard St.San Francisco, CA 941	13.0
+4	Bob's Steak & Chop House	Omni San Francisco Hotel500 California St.San Francisco, CA 94104	13.0
+5	Boca Pizzeria	Pacheco Shopping Center454 Ignacio Blvd.Novato, CA 94949	13.0
+6	Boca Pizzeria	The Village at Corte Madera1544 Redwood Hwy.Corte Madera, CA 949	13.0
+7	Bon Vivant	535 Bryant St.Palo Alto, CA 94301	13.0
+8	Bradley's Fine Diner	1165 Merrill St.Menlo Park, CA 94025	13.0
+9	Brandy Ho's Hunan Food	217 Columbus Ave.San Francisco, CA 94133	13.0
+0	Breads of India	948 Clay St.Oakland, CA 94607	13.0
+1	Breads of India	2448 Sacramento St.Berkeley, CA 94702	13.0
+2	Brenda's French Soul Food	652 Polk St.San Francisco, CA 94102	13.0
+3	Brenda's Meat & Three	919 Divisadero St.San Francisco, CA 94115	13.0
+4	Brindisi	88 Belden Pl.San Francisco, CA 94104	13.0
+5	Burma Superstar	309 Clement St.San Francisco, CA 94118	13.0
+6	Burma Superstar	4721 Telegraph Ave.Oakland, CA 94609	13.0
+7	Burmatown	60 Corte Madera Ave.Corte Madera, CA 949	13.0
+8	Burritt Room + Tavern	Mystic Hotel 417 Stockton St.San Francisco, CA 94108	13.0
+9	The Butler & The Chef	155A South Park St.San Francisco, CA 94107	13.0
+0	C'era Una Volta	1332 Park St.Alameda, CA 94501	13.0
+1	Cafe del Sol	1010 Doyle St.Menlo Park, CA 94025	13.0
+2	Cafe Rouge	1782 Fourth St.Berkeley, CA 94710	13.0
+3	Caffe Centro	102 South Park St.San Francisco, CA 94107	13.0
+4	Caffe Sport	574 Green St.San Francisco, CA 94133	13.0
+5	Calafia Cafe & Market A-Go-Go	Town & Country Village855 El Camino Real, Ste. 130Palo Alto, CA 94301	13.0
+6	Capannina	1809 Union St.San Francisco, CA 94123	13.0
+7	Capurro's	498 Jefferson St.San Francisco, CA 94109	13.0
+8	Central Kitchen	3000 20th St.San Francisco, CA 94110	13.0
+9	Central Park Bistro	181 E. Fourth Ave.San Mateo, CA 94401	13.0
+0	Cesar	1515 Shattuck Ave.Berkeley, CA 94709	13.0
+1	Cha-Ya Vegetarian Japanese Restaurant	1686 Shattuck Ave.Berkeley, CA 947	13.0
+2	Chao Praya	1553 S. Novato Blvd., Ste. GNovato, CA 949	13.0
+3	Cheung Hing 	2339 Noriega St.San Francisco, CA 94122	13.0
+4	China Village	1335 Solano Ave.Albany, CA 94706	13.0
+5	Chloe's	1399 Church St.San Francisco, CA 94114	13.0
+6	Chouquet's Restaurant	2500 Washington St.San Francisco, CA 94115	13.0
+7	Chow	215 Church St.San Francisco, CA 94114	13.0
+8	Chow	La Fiesta Square53 Lafayette Cir.Lafayette, CA 94549	13.0
+9	Chubby Noodle	2205 Lombard St.San Francisco, CA  94123	13.0
+0	Citrus Club	1790 Haight St.San Francisco, CA 94117	13.0
+1	Cliff House Bistro	Cliff House1090 Point Lobos Ave.San Francisco, CA 94121	13.0
+2	The Club at McInnis Park	McInnis Park Golf Center350 Smith Ranch Rd.San Rafael, CA 94903	13.0
+3	Cocotte	1521 Hyde St.San Francisco, CA 94109	13.0
+4	The Commissary	101 Montgomery St.San Francisco, CA 94129	13.0
+5	The Counter	1699 N. California Blvd.Walnut Creek, CA 94596	13.0
+6	Credo	360 Pine St.San Francisco, CA 94104	13.0
+7	CreoLa-A New Orleans Bistro	344 El Camino RealSan Carlos, CA 94070	13.0
+8	Crustacean	1475 Polk St.San Francisco, CA 94109	13.0
+9	Crystal Jade Jiang Nan	4 Embarcadero Center, Ste. 1San Francisco, CA 941	13.0
+0	Cugini	1556 Solano Ave.Albany, CA 94707	13.0
+1	Curbside Cafe	2417 California St.San Francisco, CA 94115	13.0
+2	Delarosa	2175 Chestnut St.San Francisco, CA 94123	13.0
+3	Delica rf1	Ferry Building Marketplace1 Ferry BuildingSan Francisco, CA 94111	13.0
+4	Desco	499 9th St.Oakland, CA 94607	13.0
+5	Dirty Habit	Hotel Zelos12 Fourth St.San Francisco, CA 941	13.0
+6	District	827 Washington St.Oakland, CA 94607	13.0
+7	Divino Ristorante	968 Ralston Ave.Belmont, CA 940	13.0
+8	Don Antonio Trattoria	455 Magnolia Ave.Larkspur, CA 949	13.0
+9	Dona Tomas	5004 Telegraph Ave.Oakland, CA 94609	13.0
+0	Doobu	1723 Buchanan St.San Francisco, CA 94115	13.0
+1	The Dorian	2001 Chestnut St.San Francisco, CA 941	13.0
+2	Dragon Beaux	5700 Geary Blvd.San Francisco, CA 94121	13.0
+3	Eliza's	2877 California St.San Francisco, CA 94116	13.0
+4	Ella's	500 Presidio Ave.San Francisco, CA 94115	13.0
+5	Espetus Churrascaria	1686 Market St.San Francisco, CA 94102	13.0
+6	Eureka Restaurant & Lounge	4063 18th St.San Francisco, CA 94114	13.0
+7	Everett & Jones Barbeque	126 BroadwayOakland, CA 94607	13.0
+8	Evvia Estiatorio	420 Emerson St.Palo Alto, CA 94301	13.0
+9	Fang	660 Howard St.San Francisco, CA 941	13.0
+0	Farina Focaccia & Cucina Italiana	3560 18th St.San Francisco, CA 94110	13.0
+1	farmerbrown	25 Mason St.San Francisco, CA 94102	13.0
+2	Fattoria e Mare	1095 Rollins Rd.Burlingame, CA 94010	13.0
+3	The Fifth Wheel	898 San Leandro Blvd.San Leandro, CA 945	13.0
+4	Fiorella	2339 Clement St.San Francisco, CA 941	13.0
+5	Firenze by Night	1429 Stockton St.San Francisco, CA 941	13.0
+6	First Crush Restaurant, Wine Bar & Lounge	101 Cyril Magnin St.San Francisco, CA 94102	13.0
+7	The Flatiron	724 B St.San Rafael, CA 949	13.0
+8	Flavor	260 Capistrano Rd.Half Moon Bay, CA 94019	13.0
+9	Fleming's Prime Steakhouse & Wine Bar	Stanford Shopping Center180 El Camino RealPalo Alto, CA 943	13.0
+0	Fleming's Prime Steakhouse & Wine Bar	1685 Mt. Diablo Blvd.Walnut Creek, CA 945	13.0
+1	Flora	1900 Telegraph Ave.Oakland, CA 94612	13.0
+2	Forbes Mill Steakhouse	200 Sycamore Valley Rd. W.Danville, CA 94526	13.0
+3	The Franciscan Crab Restaurant	Pier 43 1/2San Francisco, CA 941	13.0
+4	Frantoio	Holiday Inn Express152 Shoreline Hwy.Mill Valley, CA 94941	13.0
+5	Fresca	3945 24th St.San Francisco, CA 94114	13.0
+6	Fresca	24 W. Portal Ave.San Francisco, CA 94127	13.0
+7	The Front Porch	65A 29th St.San Francisco, CA 94110	13.0
+8	Garcon	1101 Valencia St.San Francisco, CA 94110	13.0
+9	Gialina	2842 Diamond St.San Francisco, CA 94131	13.0
+0	Ginza	303 BroadwayOakland, CA 946	13.0
+1	Golden Flower	667 Jackson St.San Francisco, CA 94133	13.0
+2	Grand Lake Kitchen	576 Grand Ave.Oakland, CA 94610	13.0
+3	Great Eastern	649 Jackson St.San Francisco, CA 94133	13.0
+4	Green Chile Kitchen	1335 Fourth St.San Rafael, CA 949	13.0
+5	Guaymas	5 Main St.Tiburon, CA 94920	13.0
+6	Gusto	619 Laurel St.San Carlos, CA 94070	13.0
+7	Half Moon Bay Brewing Company	390 Capistrano Rd.Princeton by the Sea, CA 94019	13.0
+8	Hard Water	The EmbarcaderoPier 3San Francisco, CA 94111	13.0
+9	Hayes Street Grill	320 Hayes St.San Francisco, CA 94102	13.0
+0	Henry's Hunan Restaurant	924 Sansome St.San Francisco, CA 941	13.0
+1	The Hidden Vine Wine Bar	408 Merchant St.San Francisco, CA 941	13.0
+2	Hilltop 1892	850 Lamont Ave.Novato, CA 94945	13.0
+3	Hog & Rocks	3431 19th St.San Francisco, CA 94110	13.0
+4	Homeroom	400 40th St.Oakland, CA 94609	13.0
+5	Homma's Brown Rice Sushi	2363 Birch St.Palo Alto, CA 94306	13.0
+6	Hong Kong East Ocean	3199 Powell St.Emeryville, CA 94608	13.0
+7	Hong Kong Flower Lounge Restaurant	51 Millbrae Ave.Millbrae, CA 94030	13.0
+8	Honor Kitchen & Cocktails	1411 Powell St.Emeryville, CA 946	13.0
+9	Horatio's	60 Monarch Bay Dr.San Leandro, CA 94577	13.0
+0	Hornblower Cruises & Events	Pier 3San Francisco, CA 941	13.0
+1	Houlihan's	275 S. Airport Blvd.South San Francisco, CA 94080	13.0
+2	Hyde Street Seafood House & Raw Bar	1509 Hyde St.San Francisco, CA 94109	13.0
+3	Il Borgo	500 Fell St.San Francisco, CA 94102	13.0
+4	Il Fornaio	520 Cowper St.Palo Alto, CA 94301	13.0
+5	Il Fornaio	327 Lorton Ave.Burlingame, CA 94010	13.0
+6	Il Fornaio	1430 Mt. Diablo Blvd.Walnut Creek, CA 94596	13.0
+7	Il Fornaio	Corte Madera Town Center223 Corte Madera Town CenterCorte Madera, CA 94925	13.0
+8	Il Fornaio	Levi's Plaza1265 Battery St.San Francisco, CA 94111	13.0
+9	India Clay Oven	2436 Clement St.San Francisco, CA 94121	13.0
+0	Indian Oven	233 Fillmore St.San Francisco, CA 94117	13.0
+1	Indigo	687 McAllister St.San Francisco, CA 94102	13.0
+2	Infusion Lounge	Hotel Fusion124 Ellis St.San Francisco, CA 94102	13.0
+3	Iron Gate	1360 El Camino RealBelmont, CA 94002	13.0
+4	Iron Springs Pub & Brewery	765A Center Blvd.Fairfax, CA 94930	13.0
+5	Isa	3324 Steiner St.San Francisco, CA 94123	13.0
+6	It's Italia	Half Moon Bay Inn401 Main St.Half Moon Bay, CA 94019	13.0
+7	Izakaya Sozai	1500 Irving St.San Francisco, CA 94122	13.0
+8	Izzy's Steak & Chophouse	3345 Steiner St.San Francisco, CA 941	13.0
+9	Izzy's Steaks & Chops	525 Skyway Rd.San Carlos, CA 94070	13.0
+0	Janta Indian Cuisine	369 Lytton Ave.Palo Alto, CA 94301	13.0
+1	Jason's Restaurant	300 Drakes Landing Rd.Greenbrae, CA 94904	13.0
+2	Jasper's Corner Tap & Kitchen	Serrano Hotel401 Taylor St.San Francisco, CA 94102	13.0
+3	Jayakarta Restaurant	2026 University Ave.Berkeley, CA 94704	13.0
+4	Jeanne d'Arc	Cornell Hotel de France715 Bush St.San Francisco, CA 94108	13.0
+5	Jitlada	1826 Buchanan St.San Francisco, CA 94115	13.0
+6	John Bentley's	2915 El Camino RealRedwood City, CA 94061	13.0
+7	Jones	620 Jones St.San Francisco, CA 94102	13.0
+8	Joshu-Ya Brasserie	2441 Dwight WayBerkeley, CA 94704	13.0
+9	Kamikaze	Montecito Center223 Third St.San Rafael, CA 94901	13.0
+0	Kathmandu	1410 Solano Ave.Albany, CA 94706	13.0
+1	Khan Toke Thai House	5937 Geary Blvd.San Francisco, CA 94121	13.0
+2	Kincaid's Bayhouse	60 Bayview PlaceBurlingame, CA 94010	13.0
+3	Kincaid's Bayhouse	1 Franklin St.Oakland, CA 94607	13.0
+4	King of Thai Noodle House	639 Clement St.San Francisco, CA 94118	13.0
+5	Kingfish	201 South B. St.San Mateo, CA 94401	13.0
+6	Kubala's Kitchen (in the Tempest Bar)	431 Natoma St.San Francisco, CA 941	13.0
+7	L'Osteria del Forno	519 Columbus Ave.San Francisco, CA 94133	13.0
+8	La Bodeguita del Medio 	463 S. California Ave.Palo Alto, CA 94306	13.0
+9	La Note	2377 Shattuck Ave.Berkeley, CA 94704	13.0
+0	La Traviata	2854 Mission St.San Francisco, CA 94110	13.0
+1	La Urbana	661 Divisadero St.San Francisco, CA 94117	13.0
+2	Lake Chalet Seafood Bar & Grill	1520 Lakeside Dr.Oakland, CA 946	13.0
+3	LaLola Bar de Tapas	1358 Mason St.San Francisco, CA 94133	13.0
+4	La Lanterna	180 W. 25th Ave.San Mateo, CA 94403	13.0
+5	LB Steak	898 Santa Cruz Ave.Menlo Park, CA 94025	13.0
+6	Le Central	453 Bush St.San Francisco, CA 94108	13.0
+7	Le Colonial	20 Cosmo Pl.San Francisco, CA 94109	13.0
+8	Le Garage Bistro	85 Liberty Ship Way, Ste. 109Sausalito, CA 94965	13.0
+9	Le Marais Bistro & Bakery	2066 Chestnut St.San Francisco, CA 94123	13.0
+0	Left Bank	635 Santa Cruz Ave.Menlo Park, CA 94025	13.0
+1	Limon Rotisserie	1001 S. Van Ness Ave.San Francisco, CA 94110	13.0
+2	Lincoln Park Wine Bar	198 Sir Francis Drake Blvd.San Anselmo, CA 949	13.0
+3	Little Nepal	925 Cortland Ave.San Francisco, CA 94110	13.0
+4	Little Star Pizza	400 Valencia St.San Francisco, CA 94103	13.0
+5	Local Kitchen	330 First St.San Francisco, CA 94105	13.0
+6	Locanda Positano	617 Laurel St.San Carlos, CA 94070	13.0
+7	Loló	974 Valencia St.San Francisco, CA 941	13.0
+8	Luka's Taproom & Lounge	2221 BroadwayOakland, CA 94612	13.0
+9	McCormick & Kuleto's Seafood Restaurant	Ghirardelli Square900 North Point St.San Francisco, CA 94109	13.0
+0	Magic Flute	3673 Sacramento St.San Francisco, CA 94118	13.0
+1	Magnolia Gastropub & Brewery	1398 Haight St.San Francisco, CA 94117	13.0
+2	Mandalay	4344 California St.San Francisco, CA 94118	13.0
+3	Mandaloun	2021 Broadway St.Redwood City, CA 94063	13.0
+4	Mangia Mangia	755 San Pablo Ave.Albany, CA 94706	13.0
+5	Mangia Tutti	635 Clay St.San Francisco, CA 94111	13.0
+6	Manora's Thai Cuisine	1600 Folsom St.San Francisco, CA 94103	13.0
+7	Manos Nouveau	3970 17th St.San Francisco, CA 941	13.0
+8	Marinitas	218 Sir Francis Drake Blvd.San Anselmo, CA 94960	13.0
+9	MarketBar	Ferry Building Marketplace1 Ferry Bldg.San Francisco, CA 94111	13.0
+0	Marla Bakery	3619 Balboa St.San Francisco, CA 941	13.0
+1	Marnee Thai	2225 Irving St.San Francisco, CA 94122	13.0
+2	Massimo Ristorante	1604 Locust St.Walnut Creek, CA 94596	13.0
+3	Matterhorn Swiss Restaurant	2323 Van Ness Ave.San Francisco, CA 94109	13.0
+4	Mayfield Bakery & Cafe	Town & Country Village855 El Camino RealPalo Alto, CA 94301	13.0
+5	The Melting Pot	125 E. Sir Francis Drake Blvd.Larkspur, CA 94939	13.0
+6	Mifune Don	Japan Center22 Peace PlazaSan Francisco, CA 941	13.0
+7	Mifune	Kintetsu Mall1737 Post St.San Francisco, CA 94115	13.0
+8	Milagros	1099 Middlefield Rd.Redwood City, CA 94061	13.0
+9	Miracle Mile Café	2130 Fourth St.San Rafael, CA 949	13.0
+0	Mission Bar & Grill	Terminal 3San Francisco International AirportSan Francisco, CA 941	13.0
+1	Mission Chinese Food	2234 Mission St.San Francisco, CA 94110	13.0
+2	Mistral	370 Bridge Pkwy.Redwood Shores, CA 94065	13.0
+3	Miyake	140 University Ave.Palo Alto, CA 94301	13.0
+4	Moki's Sushi & Pacific Grill	615 Cortland Ave.San Francisco, CA 94110	13.0
+5	MoMo's	760 Second St.San Francisco, CA 94107	13.0
+6	The Monk's Kettle	3141 16th St.San Francisco, CA 94103	13.0
+7	Moonraker	Best Western Plus Lighthouse Hotel105 Rockaway Beach Ave.Pacifica, CA 94044	13.0
+8	Morton's The Steakhouse	400 Post St.San Francisco, CA 94102	13.0
+9	Mountain House	13808 Skyline Blvd.Woodside, CA 94062	13.0
+0	MUA	2442A Webster St.Oakland, CA 94612	13.0
+1	Myconos	1431 Polk St.San Francisco, CA 94109	13.0
+2	Myriad Gastro Pub	2491 Mission St.San Francisco, CA 941	13.0
+3	Naked Lunch	504 Broadway St.San Francisco, CA 94133	13.0
+4	Napa Valley Burger Company	670 BridgewaySausalito, CA 949	13.0
+5	Nectar Wine Lounge	3330 Steiner St.San Francisco, CA 94123	13.0
+6	New Delhi Restaurant	160 Ellis St.San Francisco, CA 94102	13.0
+7	Nick's Cove	23240 Hwy. 1Marshall, CA 94940	13.0
+8	O Izakaya Lounge	Hotel Kabuki1625 Post St.San Francisco, CA 94115	13.0
+9	The Oak Room	The Westin St. Francis335 Powell St.San Francisco, CA 94102	13.0
+0	Ohgane Korean BBQ Restaurant	3915 BroadwayOakland, CA 94611	13.0
+1	Okina Sushi	776 Arguello Blvd.San Francisco, CA 94118	13.0
+2	Old Mandarin Islamic Restaurant	3132 Vicente St.San Francisco, CA 94116	13.0
+3	Oliveto Cafe	Rockridge Market Hall5655 College Ave.Oakland, CA 94618	13.0
+4	Oola Restaurant & Bar	860 Folsom St.San Francisco, CA 94107	13.0
+5	Original Joe's	601 Union St.San Francisco, CA 94133	13.0
+6	Osso Steakhouse	1177 California St.San Francisco, CA 941	13.0
+7	Oyaji Restaurant	3123 Clement St.San Francisco, CA 94121	13.0
+8	Ozumo	2251 Broadway Ave.Oakland, CA 94612	13.0
+9	Pacific Catch	1200 9th Ave.San Francisco, CA 941	13.0
+0	Pacific Catch	2027 Chestnut St.San Francisco, CA 94123	13.0
+1	Pacific Catch	Persimmon Place5251 Martinelli WayDublin, CA 945	13.0
+2	Palio d'Asti	640 Sacramento St.San Francisco, CA 94111	13.0
+3	Palomino	Hills Brothers Plaza345 Spear St.San Francisco, CA 94105	13.0
+4	Pampas	529 Alma St.Palo Alto, CA 94301	13.0
+5	Pane e Vino	1715 Union St.San Francisco, CA 94123	13.0
+6	Papalote Mexican Grill	3409 24th St.San Francisco, CA 94110	13.0
+7	Pappo	2320 Central Ave.Alameda, CA 94501	13.0
+8	Paradiso	685 Bancroft Ave.San Leandro, CA 94577	13.0
+9	Paragon Restaurant	701 Second St.San Francisco, CA 94107	13.0
+0	Park Chalet	Golden Gate Park1000 Great Hwy.San Francisco, CA 941	13.0
+1	Park Chow	1240 Ninth Ave.San Francisco, CA 94122	13.0
+2	Parkside Grille	884 Portola Rd.Portola Valley, CA 94028	13.0
+3	Pasta's Trattoria	405 Main St.Pleasanton, CA 94566	13.0
+4	Patxi's Chicago Pizza	441 Emerson St.Palo Alto, CA 94301	13.0
+5	Patxi’s Chicago Pizza	4042 24th St.San Francisco, CA 941	13.0
+6	Patxi's Chicago Pizza	511 Hayes St.San Francisco, CA 94102 	13.0
+7	Pause Wine Bar	1666 Market St.San Francisco, CA 941	13.0
+8	Pear Street Bistro	2395 San Pablo Ave.Pinole, CA 94564	13.0
+9	The Peasant & The Pear	267 Hartz Ave.Danville, CA 94526	13.0
+0	Pelican Inn	Pelican Inn10 Pacific Wy.Muir Beach, CA 94965	13.0
+1	Peninsula Fountain & Grill	566 Emerson St.Palo Alto, CA 94301	13.0
+2	Peony Seafood Restaurant	Pacific Renaissance Plaza388 Ninth St.Oakland, CA 94607	13.0
+3	Perry's	234 Magnolia Ave.Larkspur, CA 949	13.0
+4	Piatti	625 Redwood Hwy.Mill Valley, CA 94941	13.0
+5	Piatti	100 Sycamore Valley Rd.Danville, CA 94526	13.0
+6	Piattini	2331 Mission St.San Francisco, CA 941	13.0
+7	Piazza D'Angelo	22 Miller Ave.Mill Valley, CA 94941	13.0
+8	Piazza Pellegrini 	659 Columbus Ave.San Francisco, CA 94133	13.0
+9	Pican	2295 BroadwayOakland, CA 94612	13.0
+0	Piccino	1001 Minnesota St.San Francisco, CA 94107	13.0
+1	Ping's	817 W. Francisco Blvd.San Rafael, CA 94901	13.0
+2	Pizzetta 211	211 23rd Ave.San Francisco, CA 94121	13.0
+3	plank	98 BroadwayOakland, CA 946	13.0
+4	Plow	1299 18th St.San Francisco, CA 94107	13.0
+5	Poc-Chuc	2886 16th St.San Francisco, CA 94103	13.0
+6	Pompei's Grotto	340 Jefferson St.San Francisco, CA 94133	13.0
+7	The Pool Bar & Grill	Rosewood Sand Hill2825 Sand Hill Rd.Menlo Park, CA 940	13.0
+8	Portola Kitchen	3130 Alpine Rd.Portola Valley, CA 94028	13.0
+9	Primo Patio	214 Townsend St.San Francisco, CA 94107	13.0
+0	The Pub at Ghirardelli Square	851 Beach St.San Francisco, CA 94109	13.0
+1	Public House	AT&T; Park24 Willie Mays PlazaSan Francisco, CA 94107	13.0
+2	Pyeong Chang Tofu House	4701 Telegraph Ave.Oakland, CA 946	13.0
+3	Quinn's Lighthouse Restaurant & Pub	1951 Embarcadero CoveOakland, CA 94606	13.0
+4	Ragazza	311 Divisadero St.San Francisco, CA 94117	13.0
+5	The Refuge	963 Laurel St.San Carlos, CA 940	13.0
+6	The Refuge	1143 Crane St.Menlo Park, CA 940	13.0
+7	Restaurant 3000	3000 Sand Hill Rd.Menlo Park, CA 940	13.0
+8	Revival Bar & Kitchen	2102 Shattuck Ave.Berkeley, CA 94704	13.0
+9	R & G Lounge	631 Kearny St.San Francisco, CA 94108	13.0
+0	Rick & Ann's	2922 Domingo Ave.Berkeley, CA 94705	13.0
+1	Rickey's	Inn Marin250 Entrada Dr.Novato, CA 94949	13.0
+2	Rigolo	3465 California St.San Francisco, CA 94118	13.0
+3	Ristobar	2300 Chestnut St.San Francisco, CA 94123	13.0
+4	Robata Grill & Sushi	591 Redwood Hwy.Mill Valley, CA 949	13.0
+5	Roostertail	1963 Sutter St.San Francisco, CA 94115	13.0
+6	Rosa Mexicano	30 Mission St.San Francisco, CA 941	13.0
+7	Rose's Cafe	2298 Union St.San Francisco, CA 94123	13.0
+8	Roti Indian Bistro	53 W. Portal Ave.San Francisco, CA 941	13.0
+9	Roy's	575 Mission St.San Francisco, CA 94105	13.0
+0	Rudy's Can't Fail Cafe	4081 Hollis St.Emeryville, CA 94608	13.0
+1	Ruth's Chris Steak House	1601 Van Ness Ave.San Francisco, CA 94109	13.0
+2	Ruth's Chris Steak House	1553 Olympic Blvd.Walnut Creek, CA 94596	13.0
+3	Sabio on Main	501 Main St.Pleasanton, CA 945	13.0
+4	Saha	Hotel Carlton1075 Sutter St.San Francisco, CA 94109	13.0
+5	Salute E Vita Ristorante	1900 Esplanade Dr.Richmond, CA 94804	13.0
+6	Sam's Chowder House	4210 Cabrillo Hwy.Half Moon Bay, CA 94019	13.0
+7	Samovar Tea Lounge	Yerba Buena Gardens, Upper Level730 Howard St.San Francisco, CA 94103	13.0
+8	Sanraku at Metreon	Metreon101 Fourth St.San Francisco, CA 94103	13.0
+9	Sauce	131 Gough St.San Francisco, CA 94102	13.0
+0	Sausalito Seahorse	305 Harbor Dr.Sausalito , CA 949	13.0
+1	Schmidt's	2400 Folsom St.San Francisco, CA 94110	13.0
+2	Schroeder's	240 Front St.San Francisco, CA 94111	13.0
+3	Scoma's Sausalito	588 BridgewaySausalito, CA 94965	13.0
+4	Shangri-la	2026 Irving St.San Francisco, CA 94122	13.0
+5	Shen Hua	2914 College Ave.Berkeley, CA 947	13.0
+6	Skool	1725 Alameda St.San Francisco, CA 94103	13.0
+7	Sotto Mare	552 Green St.San Francisco, CA 94133	13.0
+8	South Park Cafe	108 S. Park St.San Francisco, CA 94107	13.0
+9	The Spinnaker	100 Spinnaker Dr.Sausalito, CA 94965	13.0
+0	Steam	209 University Ave.Palo Alto, CA 943	13.0
+1	The Stinking Rose	325 Columbus Ave.San Francisco, CA 941	13.0
+2	Sugata Restaurant	1105 Solano Ave.Albany, CA 94706	13.0
+3	Sundance the Steakhouse	1921 El Camino RealPalo Alto, CA 94306	13.0
+4	Suppenkuche	601 Hayes St.San Francisco, CA 94102	13.0
+5	Sushi to Dai For	816 Fourth St.San Rafael, CA 94901	13.0
+6	Sushi Hunter	1701 Powell St.San Francisco, CA 94133	13.0
+7	Sutro's 	The Cliff House1090 Point Lobos Ave.San Francisco, CA 94121	13.0
+8	Swan Oyster Depot	1517 Polk St.San Francisco, CA 941	13.0
+9	T-Rex Barbecue	1300 Tenth St.Berkeley, CA 94710	13.0
+0	Tacolicious	2250 Chestnut St.San Francisco, CA 94123	13.0
+1	Tadich Grill	240 California St.San Francisco, CA 94111	13.0
+2	Tai Pan	560 Waverly St.Palo Alto, CA 94301	13.0
+3	Taki	Pacheco Plaza452 Ignacio Blvd.Novato, CA 94947	13.0
+4	The Terrace Room	The Lake Merritt Hotel1800 Madison St.Oakland, CA 946	13.0
+5	Terrapin Crossroads	100 Yacht Club Dr.San Rafael, CA 949	13.0
+6	Thanh Long	4101 Judah St.San Francisco, CA 94122	13.0
+7	Thep Lela	Strawberry Village Shopping Center411 Strawberry VillageMill Valley, CA 94941	13.0
+8	ThirstyBear Brewing Company & Spanish Cuisine	661 Howard St.San Francisco, CA 94105	13.0
+9	Three Seasons	518 Bryant St.Palo Alto, CA 94301	13.0
+0	Tigerlily	1513 Shattuck Ave.Berkeley, CA 94709	13.0
+1	Toast	Hamilton Marketplace5800 Nave Dr.Novato, CA 94949	13.0
+2	Tommaso's	1042 Kearny St.San Francisco, CA 94133	13.0
+3	Tommy's	5929 Geary Blvd.San Francisco, CA 94121	13.0
+4	Top of the Mark	InterContinental Mark Hopkins San Francisco1 Nob HillSan Francisco, CA 94108	13.0
+5	Tosca Cafe	242 Columbus Ave.San Francisco, CA 94133	13.0
+6	Town	716 Laurel St.San Carlos, CA 94070	13.0
+7	Town's End Restaurant	2 Townsend St.San Francisco, CA 94107	13.0
+8	Townhouse Bar & Grill	5862 Doyle St.Emeryville, CA 94608	13.0
+9	Townie	1799 University Ave.Berkeley, CA 94703	13.0
+0	Trader Vic's	9 Anchor Dr.Emeryville, CA 94608	13.0
+1	Trattoria Contadina	1800 Mason St.San Francisco, CA 94133	13.0
+2	The Treasury	200 Bush St., Ste. 101San Francisco, CA 941	13.0
+3	Tres	130 Townsend St.San Francisco, CA 94107	13.0
+4	The Trident	558 BridgewaySausalito, CA 94965	13.0
+5	Tuba	1007 Guerrero St.San Francisco, CA 94110	13.0
+6	Twenty Five Lusk	25 Lusk St.San Francisco, CA 94107	13.0
+7	Uncle Yu's Szechuan	Magnolia Square2005 Crow Canyon Pl., Ste. 160San Ramon, CA 945	13.0
+8	Urban Tavern	Hilton San Francisco333 O'Farrell St.San Francisco, CA 94102	13.0
+9	Utopia Cafe	139 Waverly Pl.San Francisco, CA 94108	13.0
+0	The Van's Restaurant	815 Belmont Ave.Belmont, CA 94002	13.0
+1	Velvet Room	Clift495 Geary St.San Francisco, CA 94102	13.0
+2	Venticello	1257 Taylor St.San Francisco, CA 94108	13.0
+3	Venus	2327 Shattuck Ave.Berkeley, CA 94704	13.0
+4	Via Uno Cucina Italiana & Bar	2810 Cabrillo Hwy. N.Half Moon Bay, CA 94019	13.0
+5	Vivace	1910 Ralston Ave.Belmont, CA 94002	13.0
+6	Walnut Creek Yacht Club	1555 Bonanza St.Walnut Creek, CA 94596	13.0
+7	Wayfare Tavern	558 Sacramento St.San Francisco, CA 94111	13.0
+8	Whitechapel	Embassy Hotel600 Polk St.San Francisco, CA 941	13.0
+9	Wildfox	225 Alameda Del PradoNovato, CA 94949	13.0
+0	31st Union	5 S. Ellsworth Ave.San Mateo, CA 944	14.0
+1	5A5 Steak Lounge	244 Jackson St.San Francisco, CA 94111	14.0
+2	A16 Rockridge	5356 College Ave.Oakland, CA 94618	14.0
+3	Aatxe	Swedish American Hall2170 Market St.San Francisco, CA 941	14.0
+4	Absinthe Brasserie & Bar	398 Hayes St.San Francisco, CA 94102	14.0
+5	The Advocate	2635 Ashby Ave.Berkeley, CA 947	14.0
+6	Ajanta	1888 Solano Ave.Berkeley, CA 94707	14.0
+7	Alexander's Steakhouse	448 Brannan St.San Francisco, CA 94107	14.0
+8	All Spice	1602 S. El Camino RealSan Mateo, CA 94402	14.0
+9	Anchor Oyster Bar & Seafood Market	579 Castro St.San Francisco, CA 94114	14.0
+0	Aster	1001 Guerrero St.San Francisco, CA 941	14.0
+1	B44	44 Belden Pl.San Francisco, CA 94104	14.0
+2	Bar Bocce	1250 BridgewaySausalito, CA 949	14.0
+3	Cesar	4039 Piedmont Ave.Oakland, CA 94611	14.0
+4	Beso Bistro and Wine Bar	502 S. Palm Dr.Novato, CA 949	14.0
+5	Bistro Aix	3340 Steiner St.San Francisco, CA 94123	14.0
+6	Bistro Central Parc	560 Central Ave.San Francisco, CA 94117	14.0
+7	Bix	56 Gold St.San Francisco, CA 94133	14.0
+8	Bobo's	"1450 Lombard St.San Francisco, CA 94123 | Menu
+
+ |"	14.0
+9	Boca Tavern	340 Ignacio Blvd.Novato, CA 94949	14.0
+0	Bocadillos	710 Montgomery St.San Francisco, CA 94111	14.0
+1	Bocanova	55 Webster St.Oakland, CA 94607	14.0
+2	Bouche 	603 Bush St.San Francisco, CA 94108	14.0
+3	Bouli Bar	Ferry Building Market1 Ferry BuildingSan Francisco, CA 94111	14.0
+4	Bowl'd	1479  Solano Ave.Albany, CA 94706	14.0
+5	Boxing Room	399 Grove St.San Francisco, CA 94102	14.0
+6	Brasserie S&P;	Loews Regency San Francisco222 Sansome St.San Francisco, CA 941	14.0
+7	Bridges Restaurant & Bar	44 Church St.Danville, CA 94526	14.0
+8	The Brixton	2140 Union St.San Francisco, CA 94123	14.0
+9	Broadway Grill	1400 BroadwayBurlingame, CA 94010	14.0
+0	Buckeye Roadhouse	15 Shoreline Hwy.Mill Valley, CA 94941	14.0
+1	Butterfly Embarcadero	Pier 33 EmbarcaderoSan Francisco, CA 94111	14.0
+2	Cafe Chaat	320 Third St.San Francisco, CA 94107	14.0
+3	Cafe Claude	7 Claude Ln.San Francisco, CA 94108	14.0
+4	Café de la Presse	352 Grant Ave.San Francisco, CA 94108	14.0
+5	Cafe Eugene	1175 Solano Ave.Albany, CA 947	14.0
+6	Cafe Jacqueline	1454 Grant Ave.San Francisco, CA 94133	14.0
+7	Calavera	The Hive2337 BroadwayOakland, CA 946	14.0
+8	Californios	3115 22nd St.San Francisco, CA 941	14.0
+9	Capo's Chicago Pizza & Fine Italian Dinners	641 Vallejo St.San Francisco, CA 941	14.0
+0	Catch	2362 Market St.San Francisco, CA 94114	14.0
+1	Causwells	2346 Chestnut St.San Francisco, CA 94123	14.0
+2	The Cavalier	Hotel Zetta San Francisco360 Jessie St.San Francisco, CA 94103	14.0
+3	Cetrella	845 Main St.Half Moon Bay, CA 94019	14.0
+4	Chapeau!	126 Clement St.San Francisco, CA 94118	14.0
+5	Chaya Brasserie	132 EmbarcaderoSan Francisco, CA 94105	14.0
+6	Chez Maman	1401 18th St.San Francisco, CA 94107	14.0
+7	Chouchou	400 Dewey Blvd.San Francisco, CA 94116	14.0
+8	Comal	2020 Shattuck Ave.Berkeley, CA 94704	14.0
+9	Contigo	1320 Castro St.San Francisco, CA 94114	14.0
+0	Coqueta	"Pier 5, The EmbarcaderoSan Francisco, CA 94105 | Menu
+
+ |"	14.0
+1	DESTINO latin bistro/pisco bar	1815 Market St.San Francisco, CA 94103	14.0
+2	Dobbs Ferry Restaurant	409 Gough St.San Francisco, CA 94102	14.0
+3	Don Antonio Trattoria	114 Main St.Tiburon, CA 949	14.0
+4	Donato Enoteca	1041 Middlefield Rd.Redwood City, CA 94063	14.0
+5	Dosa	995 Valencia St.San Francisco, CA 94110	14.0
+6	Dosa on Fillmore	1700 Fillmore St.San Francisco, CA 94115	14.0
+7	Duende	468 19th St.Oakland, CA 94612	14.0
+8	E&O; Kitchen and Bar	314 Sutter St.San Francisco, CA 94108	14.0
+9	Ebisu	1283 Ninth Ave.San Francisco, CA 94122	14.0
+0	El Paseo	The Paseo17 Throckmorton Ave.Mill Valley, CA 94941	14.0
+1	El Techo de Lolinda	2518 Mission St.San Francisco, CA 94110	14.0
+2	EPIC Steak	369 The EmbarcaderoSan Francisco, CA 94105	14.0
+3	Faz Danville	600 Hartz Ave.Danville, CA 94526	14.0
+4	Faz Pleasanton	5121 Hopyard Rd.Pleasanton, CA 94588	14.0
+5	Firefly	4288 24th St.San Francisco, CA 94114	14.0
+6	Flea Street	3607 Alameda de las PulgasMenlo Park, CA 94025	14.0
+7	Flour + Water	2401 Harrison St.San Francisco, CA 941	14.0
+8	The Fly Trap	606 Folsom St.San Francisco, CA 94107	14.0
+9	Fog City	1300 Battery St.San Francisco, CA 94111	14.0
+0	Fogo de Chão	201 Third St., Ste. 100San Francisco, CA 941	14.0
+1	Fonda Solana	1501 Solano Ave.Albany, CA 94707	14.0
+2	Fondue Cowboy	1052 Folsom St.San Francisco, CA 94103	14.0
+3	Foreign Cinema	2534 Mission St.San Francisco, CA 94110	14.0
+4	Frascati	1901 Hyde St.San Francisco, CA 94109	14.0
+5	Fuki Sushi	4119 El Camino RealPalo Alto, CA 94306	14.0
+6	Garibaldis	347 Presidio Ave.San Francisco, CA 94115	14.0
+7	Gather	2200 Oxford St.Berkeley, CA 947	14.0
+8	Greens	Fort Mason204 Bay St., Bldg. ASan Francisco, CA 94123	14.0
+9	Hakkasan	One Kearny1 Kearny St.San Francisco, CA 94108	14.0
+0	Harris'	2100 Van Ness Ave.San Francisco, CA 94109	14.0
+1	Haven	44 Webster St.Oakland, CA 94607	14.0
+2	Hawker Fare	680 Valencia St.San Francisco, CA 941	14.0
+3	Hog Island Oyster Co.	Ferry Building Marketplace1 Ferry BuildingSan Francisco, CA 941	14.0
+4	Homestead	4029 Piedmont Ave.Oakland, CA 946	14.0
+5	Hong Kong Lounge	5322 Geary Blvd.San Francisco, CA 94121	14.0
+6	Hopscotch	1915 San Pablo Ave.Oakland, CA 94612	14.0
+7	House of Prime Rib	"1906 Van Ness Ave.San Francisco, CA 94109 | Menu
+
+ |"	14.0
+8	Il Davide	901 A St.San Rafael, CA 949	14.0
+9	Jackson Fillmore Trattoria	2506 Fillmore St.San Francisco, CA 94115	14.0
+0	Kabuto Sushi	5121 Geary Blvd.San Francisco, CA 94118	14.0
+1	Kamekyo	943 Cole St.San Francisco, CA 94117	14.0
+2	Kin Khao	Parc 55 San Francisco, A Hilton Hotel55 Cyril Magnin St.San Francisco, CA 941	14.0
+3	Koh Samui & the Monkey	415 Brannan St.San Francisco, CA 94107	14.0
+4	L'Olivier	465 Davis Ct.San Francisco, CA 94111	14.0
+5	La Costanera	8150 Cabrillo Hwy.Montara, CA 94037	14.0
+6	La Mar Cebicheria Peruana	Pier 1 1/2, The EmbarcaderoSan Francisco, CA 941	14.0
+7	La Toscana Ristorante & Bar	3751 Redwood Hwy.San Rafael, CA 949	14.0
+8	Lark Creek Walnut Creek	1360 Locust St.Walnut Creek, CA 94596	14.0
+9	Laurel Court Restaurant & Bar	Fairmont San Francisco950 Mason St.San Francisco, CA 94108	14.0
+0	Left Bank	Blue Rock Inn507 Magnolia Ave.Larkspur, CA 94939	14.0
+1	Lemongrass Thai	2348 Polk St.San Francisco, CA 941	14.0
+2	Limon Rotisserie	524 Valencia St.San Francisco, CA 94110	14.0
+3	Little Star Pizza	846 Divisadero St.San Francisco, CA 94117	14.0
+4	Lolinda	2518 Mission St.San Francisco, CA 94110	14.0
+5	Lord Stanley	2065 Polk St.San Francisco, CA 941	14.0
+6	Lungomare	One BroadwayOakland, CA  94607	14.0
+7	Lupa Trattoria	4109 24th St.San Francisco, CA 94114	14.0
+8	Mamacita	2317 Chestnut St.San Francisco, CA 94123	14.0
+9	Marche aux Fleurs	23 Ross CommonRoss, CA 94957	14.0
+0	Martins West Pub	831 Main St.Redwood City, CA 94063	14.0
+1	Mason Pacific	1358 Mason St.San Francisco, CA 94133	14.0
+2	Maybeck’s	3213 Scott St.San Francisco, CA 941	14.0
+3	Mezzaluna	459 Prospect WayHalf Moon Bay, CA 94019	14.0
+4	Michel Bistro	3343 Lakeshore Ave.Oakland, CA 94610	14.0
+5	MKT Restaurant – Bar	Four Seasons Hotel San Francisco757 Market St., Fifth FloorSan Francisco, CA 941	14.0
+6	Monsieur Benjamin	"451 Gough St.San Francisco, CA 94102 | Menu
+
+ |"	14.0
+7	Mourad	140 New Montgomery St.San Francisco, CA 941	14.0
+8	Namu Gaji	499 Dolores St.San Francisco, CA 94110	14.0
+9	Navio	The Ritz-Carlton, Half Moon BayOne Miramontes Pt. Rd.Half Moon Bay, CA 94019	14.0
+0	Nob Hill Club	InterContinental Mark Hopkins San Francisco999 California St.San Francisco, CA 941	14.0
+1	Nopa	560 Divisadero St.San Francisco, CA 94117	14.0
+2	Nopalito	306 Broderick St.San Francisco, CA 94117	14.0
+3	North Beach Restaurant	1512 Stockton St.San Francisco, CA 941	14.0
+4	Octavia	1701 Octavia St.San Francisco, CA 941	14.0
+5	Okane	669 Townsend St.San Francisco, CA 941	14.0
+6	Okoze	1207 Union St.San Francisco, CA 94109	14.0
+7	Old Bus Tavern	3193 Mission St.San Francisco, CA 941	14.0
+8	Oliveto	"Rockridge Market Hall5655 College Ave.Oakland, CA 94618 | Menu
+
+ | Photos
+
+ "	14.0
+9	Osteria	3277 Sacramento St.San Francisco, CA 94115	14.0
+0	Osteria Stellina	11285 Hwy. 1Point Reyes Station, CA 94956	14.0
+1	Outerlands	4001 Judah St.San Francisco, CA 94122	14.0
+2	Ozumo	161 Steuart St.San Francisco, CA 94105	14.0
+3	Pabu	101 California St.San Francisco, CA 94111	14.0
+4	Parada	7001 Sunne Ln.Walnut Creek, CA 945	14.0
+5	Park Grill	Le Méridien San Francisco333 Battery St.San Francisco, CA 94111	14.0
+6	Park Tavern	1652 Stockton St.San Francisco , CA 94133	14.0
+7	Picco	320 Magnolia Ave.Larkspur, CA 94939	14.0
+8	Piperade	1015 Battery St.San Francisco, CA 94111	14.0
+9	Pizzaiolo	5008 Telegraph Ave.Oakland, CA 94609	14.0
+0	Pizzeria Delfina	3611 18th St.San Francisco, CA 94110	14.0
+1	Pizzeria Delfina	2406 California St.San Francisco, CA 94115	14.0
+2	Plouf	40 Belden Pl.San Francisco, CA 94104	14.0
+3	Poggio Trattoria	777 BridgewaySausalito, CA 94965	14.0
+4	Postino	3565 Mt. Diablo Blvd.Lafayette, CA 94549	14.0
+5	Presidio Social Club	563 Ruger St.San Francisco, CA 94129	14.0
+6	Press Club	20 Yerba Buena Ln.San Francisco, CA 94103	14.0
+7	The Progress	1525 Fillmore St.San Francisco, CA 941	14.0
+8	Le P'tit Laurent	699 Chenery St.San Francisco, CA 94131	14.0
+9	Quattro Restaurant & Bar	Four Seasons Hotel2050 University Ave.East Palo Alto, CA 94303	14.0
+0	Ramen Shop	5812 College Ave.Oakland, CA 94618	14.0
+1	The Restaurant at Wente Vineyards	5050 Arroyo Rd.Livermore, CA 94550	14.0
+2	Restaurant LuLu	816 Folsom St.San Francisco, CA 94107	14.0
+3	Restaurant Soleil	The Westin Palo Alto675 El Camino RealPalo Alto, CA 94301	14.0
+4	Rich Table	199 Gough St.San Francisco, CA 94102	14.0
+5	The Richmond	615 Balboa St.San Francisco, CA 94118	14.0
+6	Ristorante Ideale	1309 Grant Ave.San Francisco, CA 94133	14.0
+7	Rivoli Restaurant	1539 Solano Ave.Berkeley, CA 94707	14.0
+8	Roka Akor	801 Montgomery St.San Francisco, CA 94133	14.0
+9	The Rotunda at Neiman Marcus	Neiman-Marcus150 Stockton St.San Francisco, CA 94108	14.0
+0	Salt House	545 Mission St.San Francisco, CA 94105	14.0
+1	Sanraku Four Seasons	704 Sutter St.San Francisco, CA 94109	14.0
+2	Sasa	1432 N. Main St.Walnut Creek, CA 94596	14.0
+3	Scala's Bistro	Sir Francis Drake Hotel432 Powell St.San Francisco, CA 94102	14.0
+4	Scoma's	Pier 47San Francisco, CA 94133	14.0
+5	The Sea By Alexander's Steakhouse	4269 El Camino RealPalo Alto, CA 94306	14.0
+6	Sessions at the Presidio	1 Letterman Dr.San Francisco, CA 941	14.0
+7	Seven Hills	1550 Hyde St.San Francisco, CA 94109	14.0
+8	Sociale	3665 Sacramento St.San Francisco, CA 941	14.0
+9	Soluna Cafe & Lounge	272 McAllister St.San Francisco, CA 941	14.0
+0	Sons & Daughters	708 Bush St.San Francisco, CA 94108	14.0
+1	The Speakeasy	504 Alameda del PradoNovato, CA 949	14.0
+2	Speisekammer	2424 Lincoln Ave.Alameda, CA 94501	14.0
+3	SPQR	"1911 Fillmore St.San Francisco, CA 94115 | Menu
+
+ |"	14.0
+4	Starbelly	3583 16th St.San Francisco, CA 94114	14.0
+5	State Bird Provisions	"1529 Fillmore St.San Francisco, CA 94115 | Menu
+
+ |"	14.0
+6	Stella Alpina Osteria	401 Primrose Rd.Burlingame, CA 94010	14.0
+7	Straits	1100 Burlingame Ave.Burlingame, CA 94010	14.0
+8	Straw	203 Octavia St.San Francisco, CA 94102	14.0
+9	Sushi Main Street   	696 Mill St.Half Moon Bay, CA 94019	14.0
+0	Sushi on North Beach Katsu	745 Columbus Ave.San Francisco, CA 94133	14.0
+1	Sushi Ran	107 Caledonia St.Sausalito, CA 94965	14.0
+2	Sushi Zone	1815 Market St., # 5San Francisco, CA 94103	14.0
+3	Tamarindo Antojeria Mexicana	468 Eighth St.Oakland, CA 94607	14.0
+4	Tamarine	546 University Ave.Palo Alto, CA 94301	14.0
+5	Tap 415	Westfield San Francisco Centre, 4th Floor 845 Market St.San Francisco, CA 941	14.0
+6	Thep Phanom	400 Waller St.San Francisco, CA 94117	14.0
+7	1300 on Fillmore 	Fillmore Heritage Center1300 Fillmore St.San Francisco, CA 941	14.0
+8	The Tipsy Pig	2231 Chestnut St.San Francisco, CA 94123	14.0
+9	Ton Kiang	5821 Geary Blvd.San Francisco, CA 94118	14.0
+0	Tony's Pizza Napoletana	1570 Stockton St.San Francisco, CA 94133	14.0
+1	TRACE	W San Francisco181 3rd St.San Francisco, CA 94103	14.0
+2	Tsunami	1306 Fulton St.San Francisco, CA 94117	14.0
+3	Uncle Yu's	999 Oak Hill Rd.Lafayette, CA 94549	14.0
+4	Universal Cafe	2814 19th St.San Francisco, CA 94110	14.0
+5	Urbano Latino	4307 Telegraph Ave.Oakland, CA 946	14.0
+6	Uva Enoteca	568 Haight St.San Francisco, CA 94117	14.0
+7	Uzen	5415 College Ave.Oakland, CA 946	14.0
+8	Va de Vi Bistro	1511 Mt. Diablo Blvd.Walnut Creek, CA 94596	14.0
+9	Vega	419 Cortland Ave.San Francisco, CA 941	14.0
+0	Waterbar	399 The EmbarcaderoSan Francisco, CA 94105	14.0
+1	Yank Sing	49 Stevenson St.San Francisco, CA 94105	14.0
+2	Yank Sing	Rincon Center101 Spear St.San Francisco, CA 94105	14.0
+3	Yuzuki Japanese Eatery	598 Guerrero St.San Francisco, CA 941	14.0
+4	Zarzuela	2000 Hyde St.San Francisco, CA 94109	14.0
+5	Zero Zero	826 Folsom St.San Francisco, CA 94107	14.0
+6	Zingari Ristorante	The Donatello501 Post St.San Francisco, CA 94102	14.0
+0	Acquerello	1722 Sacramento St.San Francisco, CA 94109	15.0
+1	AL's Place	1499 Valencia St.San Francisco, CA 941	15.0
+2	AQ Restaurant & Bar	1085 Mission St.San Francisco, CA 94103	15.0
+3	Aziza	5800 Geary St.San Francisco, CA 94121	15.0
+4	Bar Agricole	355 11th St.San Francisco, CA 94103	15.0
+5	Bar Tartine	561 Valencia St.San Francisco, CA 94110	15.0
+6	Campton Place Restaurant	Campton Place Hotel340 Stockton St.San Francisco, CA 941	15.0
+7	Chez Panisse Cafe	1517 Shattuck Ave.Berkeley, CA 94709	15.0
+8	Cotogna	"490 Pacific Ave.San Francisco, CA 94133
+ |"	15.0
+9	Da Flora	701 Columbus Ave.San Francisco, CA 941	15.0
+0	Dopo	4293 Piedmont Ave.Oakland, CA 94611	15.0
+1	THIS RESTAURANT IS CLOSED Fleur de Lys	777 Sutter St.San Francisco, CA 941	15.0
+2	Hamano Sushi	1332 Castro St.San Francisco, CA 94114	15.0
+3	Insalata's	120 Sir Francis Drake Blvd.San Anselmo, CA 94960	15.0
+4	Jardinière	"300 Grove St.San Francisco, CA 94102 | Menu
+
+ | Photos
+
+ "	15.0
+5	Kokkari	200 Jackson St.San Francisco, CA 94111	15.0
+6	La Ciccia	291 30th St.San Francisco, CA 94131	15.0
+7	Locanda Osteria & Bar	"557 Valencia St.San Francisco, CA 94110 | Menu
+
+ |"	15.0
+8	Luce	InterContinental San Francisco888 Howard St.San Francisco, CA 94103	15.0
+9	Madera	Rosewood Sand Hill2825 Sand Hill Rd.Menlo Park, CA 94025	15.0
+0	Parallel 37	The Ritz-Carlton, San Francisco600 Stockton St.San Francisco, CA 94108	15.0
+1	Perbacco Ristorante + Bar	230 California St.San Francisco, CA 94111	15.0
+2	Prima Ristorante	1522 N. Main St.Walnut Creek, CA 94596	15.0
+3	Prospect	Infinity Towers300 Spear St.San Francisco, CA 94105	15.0
+4	Range	842 Valencia St.San Francisco, CA 94110	15.0
+5	Restaurant Mitsunobu	325 Sharon Park Dr.Menlo Park, CA 94025	15.0
+6	RN74	"Millennium Tower301 Mission St.San Francisco, CA 94105 | Menu
+
+
+ "	15.0
+7	Slanted Door	Ferry Building Marketplace1 Ferry BuildingSan Francisco, CA 94111	15.0
+8	Sushi Sam's	218 E. Third Ave.San Mateo, CA 94401	15.0
+9	Terzo	3011 Steiner St.San Francisco, CA 94123	15.0
+0	Town Hall	342 Howard St.San Francisco, CA 94105	15.0
+1	Village Sake	19 Bolinas Rd.Fairfax, CA 949	15.0
+2	Zuni Cafe	1658 Market St.San Francisco, CA 94102	15.0
+0	Baume	201 S. California Ave. Palo Alto, CA 94306	16.0
+1	Benu	22 Hawthorne St.San Francisco, CA 94105	16.0
+2	Boulevard	1 Mission St.San Francisco, CA 94105	16.0
+3	Chez Panisse	1517 Shattuck Ave.Berkeley, CA 94709	16.0
+4	Commonwealth	2224 Mission St.San Francisco, CA 94110	16.0
+5	Delfina	3621 18th St.San Francisco, CA 94110	16.0
+6	La Folie	2316 Polk St.San Francisco, CA 941	16.0
+7	Michael Mina	"252 California St.San Francisco, CA 94111 | Menu
+
+ | Photos
+
+ "	16.0
+8	Omakase	665 Townsend St.San Francisco, CA 941	16.0
+9	One Market	"1 Market St.San Francisco, CA 94105 | Menu
+
+ |"	16.0
+0	Quince	470 Pacific Ave.San Francisco, CA 94133	16.0
+1	Spruce	3640 Sacramento St.San Francisco, CA 94118	16.0
+2	The Village Pub	2967 Woodside Rd.Woodside, CA 94062	16.0
+0	Atelier Crenn	"3127 Fillmore St.San Francisco, CA 94123 | Menu
+
+ | Photos
+
+ "	17.0
+1	Gary Danko	"800 North Point St.San Francisco, CA 94109 | Menu
+
+ | Photos
+
+ "	17.0
+0	Saison	"178 Townsend St.San Francisco, CA 94107 | Menu
+
+ |"	18.0

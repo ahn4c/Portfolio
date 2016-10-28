@@ -1,0 +1,1587 @@
+	Restaurant_Name	Address	Stars
+0	Noodle Pudding	38 Henry St., New York 11201	0.0
+1	Peter Luger	178 Broadway, New York 11211	1.0
+2	Vics	31 Great Jones St, New York 10012	0.0
+3	Gnocco	337 E. 10th St., New York 10009	0.0
+4	Hasaki	210 E. 9th St., New York 10003	0.0
+5	Hearth	403 E. 12th St., New York 10009	0.0
+6	Kanoyama	175 Second Ave., New York 10003	0.0
+7	The Mermaid Inn	96 Second Ave., New York 10003	0.0
+8	Soba-Ya	229 E. 9th St., New York 10003	0.0
+9	da Umberto	107 W. 17th St., New York 10011	0.0
+10	Rocking Horse Cafe	182 Eighth Ave., New York 10011	0.0
+11	Paradou	8 Little W. 12th St., New York 10014	0.0
+12	annisa	13 Barrow St., New York 10014	0.0
+13	BONDST	6 Bond St., New York 10014	0.0
+14	Gotham Bar and Grill	12 E. 12th St., New York 10003	1.0
+15	Le Gigot	18 Cornelia St., New York 10014	0.0
+16	Lupa	170 Thompson St., New York 10012	0.0
+17	Pearl Oyster Bar	18 Cornelia St., New York 10014	0.0
+18	HanGawi	12 E. 32nd St., New York 10016	0.0
+19	Phoenix Garden	242 E. 40th St., New York 10016	0.0
+20	Wolfgang's	4 Park Ave., New York 10016	0.0
+21	Il Cortile	125 Mulberry St., New York 10013	0.0
+22	Dim Sum Go Go	5 East Broadway, New York 10038	0.0
+23	Peking Duck House	28 Mott St., New York 10013	0.0
+0	Thái Soŉ	89 Baxter St., New York 10013	0.0
+1	Babbo	110 Waverly Pl., New York 10011	1.0
+2	Crispo	240 W. 14th St., New York 10011	0.0
+3	Mary's Fish Camp	64 Charles St., New York 10014	0.0
+4	Pó	31 Cornelia St., New York 10014	0.0
+5	Sevilla	62 Charles St., New York 10014	0.0
+6	MarkJoseph	261 Water St., New York 10038	0.0
+7	Nebraska Steakhouse	15 Stone St., New York 10004	0.0
+8	Daniel	60 E. 65th St., New York 10065	2.0
+9	Il Riccio	152 E. 79th St., New York 10021	0.0
+10	JoJo	160 E. 64th St., New York 10021	0.0
+11	Lusardi's	1494 Second Ave., New York 10021	0.0
+12	Orsay	1057 Lexington Ave., New York 10021	0.0
+13	Shanghai Pavilion	1378 Third Ave., New York 10021	0.0
+14	Sushi Seki	1143 First Ave., New York 10021	0.0
+15	Atlantic Grill	1341 Third Ave., New York 10021	0.0
+16	Aureole	135 W. 42nd St., New York 10036	1.0
+17	Café Boulud	20 E. 76th St., New York 10021	1.0
+18	Blue Water Grill	31 Union Sq. West, New York 10003	0.0
+19	Casa Mono	52 Irving Pl., New York 10003	1.0
+20	Craftbar	900 Broadway, New York 10003	0.0
+21	Craft	43 E. 19th St., New York 10003	0.0
+22	Eleven Madison Park	11 Madison Ave., New York 10010	3.0
+23	I Trulli	122 E. 27th St., New York 10016	0.0
+0	Periyali	35 W. 20th St., New York 10011	0.0
+1	Tocqueville	1 E. 15th St., New York 10003	0.0
+2	Turkish Kitchen	386 Third Ave., New York 10016	0.0
+3	Malagueta	25-35 36th Ave., Astoria 11106	0.0
+4	Taverna Kyclades	33-07 Ditmars Blvd., Astoria 11105	0.0
+5	Trattoria L'incontro	21-76 31st St., Astoria 11105	0.0
+6	Landmarc	179 West Broadway, New York 10013	0.0
+7	Tribeca Grill	375 Greenwich St., New York 10013	0.0
+8	Alcala	246 E. 44th St., New York 10017	0.0
+9	Aquavit	65 E. 55th St., New York 10022	2.0
+10	BLT Steak	106 E. 57th St., New York 10022	0.0
+11	Bobby Van's	230 Park Ave., New York 10169	0.0
+12	Lavagna	545 E. 5th St., New York 10009	0.0
+13	Momofuku Noodle Bar	171 First Ave., New York 10003	0.0
+14	Felidia	243 E. 58th St., New York 10022	0.0
+15	Jubilee	948 First Ave., New York 10022	0.0
+16	La Grenouille	3 E. 52nd St., New York 10022	0.0
+17	Mr Chow	324 E. 57th St., New York 10022	0.0
+18	P.J. Clarke's	915 Third Ave., New York 10022	0.0
+19	Sushi Yasuda	204 E. 43rd St., New York 10017	1.0
+20	Aquagrill	210 Spring St., New York 10012	0.0
+21	Blue Ribbon	97 Sullivan St., New York 10012	0.0
+22	Mercer Kitchen	99 Prince St., New York 10012	0.0
+23	Snack	105 Thompson St., New York 10012	0.0
+0	Balthazar	80 Spring St., New York 10012	0.0
+1	Giorgione	307 Spring St., New York 10012	0.0
+2	Le Bernardin	155 W. 51st St., New York 10019	3.0
+3	Becco	355 W. 46th St., New York 10036	0.0
+4	Brasserie 8 1/2	9 W. 57th St., New York 10019	0.0
+5	Osteria del Circo	120 W. 55th St., New York 10019	0.0
+6	Osteria al Doge	142 W. 44th St., New York 10036	0.0
+7	Per Se	10 Columbus Circle, New York 10019	3.0
+8	db Bistro Moderne	55 W. 44th St., New York 10036	0.0
+9	Petrossian	182 W. 58th St., New York 10019	0.0
+10	Remi	145 W. 53rd St., New York 10019	0.0
+11	The Sea Grill	19 W. 49th St., New York 10020	0.0
+12	EN Japanese Brasserie	435 Hudson St., New York 10014	0.0
+13	Spotted Pig	314 W. 11th St., New York 10014	1.0
+14	Wallsé	344 W. 11th St., New York 10014	1.0
+15	Good Enough to Eat	520 Columbus Ave., New York 10024	0.0
+16	Blue Hill	75 Washington Pl., New York 10011	1.0
+17	Osteria Laguna	209 E. 42nd St., New York 10017	0.0
+18	Pampano	209 E. 49th St., New York 10017	0.0
+19	Cho Dang Gol	55 W. 35th St., New York 10001	0.0
+20	Esca	402 W. 43rd St., New York 10036	0.0
+21	La Masseria	235 W. 48th St., New York 10036	0.0
+22	Masa	10 Columbus Circle, New York 10019	3.0
+23	21 Club	21 W. 52nd St., New York 10019	0.0
+0	Carol's Cafe	1571 Richmond Rd., New York 10304	0.0
+1	Estiatorio Milos	125 W. 55th St., New York 10019	0.0
+2	Frankie & Johnnie's	32 W. 37th St., New York 10018	0.0
+3	Hell's Kitchen	679 Ninth Ave., New York 10036	0.0
+4	Molyvos	871 Seventh Ave., New York 10019	0.0
+5	SushiAnn	38 E. 51st St., New York 10022	0.0
+6	Gramercy Tavern	42 E. 20th St., New York 10003	1.0
+7	Oriental Garden	14 Elizabeth St., New York 10013	0.0
+8	Jewel Bako	239 E. 5th St., New York 10003	1.0
+9	Nyonya	199 Grand St., New York 10013	0.0
+10	Locanda Vini e Olii	129 Gates Ave., New York 11238	0.0
+11	The Red Cat	227 Tenth Ave., New York 10011	0.0
+12	44 & X Hell's Kitchen	622 Tenth Ave., New York 10036	0.0
+13	Keens	72 W. 36th St., New York 10018	0.0
+14	Schiller's Liquor Bar	131 Rivington St., New York 10002	0.0
+15	Boathouse Central Park	The Lake at Central Park, New York 10021	0.0
+16	Cafe Sabarsky	1048 Fifth Ave., New York 10028	0.0
+17	Maz Mezcal	316 E. 86th St., New York 10028	0.0
+18	Nick's	1814 Second Ave., New York 10128	0.0
+19	Persepolis	1407 Second Ave., New York 10021	0.0
+20	Quatorze Bis	323 E. 79th St., New York 10021	0.0
+21	Sushi of Gari	402 E. 78th St., New York 10021	1.0
+22	Raoul's	180 Prince St., New York 10012	0.0
+23	Blue Ribbon Sushi	119 Sullivan St., New York 10012	0.0
+0	Eli's Table	1413 Third Ave., New York 10028	0.0
+1	Fig & Olive	808 Lexington Ave., New York 10021	0.0
+2	Jean-Georges	1 Central Park West, New York 10023	3.0
+3	Al di Là	248 Fifth Ave., New York 11215	0.0
+4	Stone Park Cafe	324 Fifth Ave., New York 11215	0.0
+5	The Pearl Room	8201 Third Ave., New York 11209	0.0
+6	The Odeon	145 West Broadway, New York 10013	0.0
+7	Blue Ribbon Bakery	35 Downing St., New York 10014	0.0
+8	Extra Virgin	259 W. 4th St., New York 10014	0.0
+9	Il Buco	47 Bond St., New York 10012	0.0
+10	Barbetta	321 W. 46th St., New York 10036	0.0
+11	Public	210 Elizabeth St., New York 10012	1.0
+12	Great N.Y. Noodletown	28 Bowery, New York 10013	0.0
+13	The Modern	9 W. 53rd St., New York 10019	2.0
+14	Gigino at Wagner Park	20 Battery Pl., New York 10004	0.0
+15	Bar Masa	10 Columbus Circle, New York 10019	0.0
+16	Del Frisco's	1221 Sixth Ave., New York 10020	0.0
+17	Golden Unicorn	18 East Broadway, New York 10002	0.0
+18	Smith & Wollensky	797 Third Ave., New York 10022	0.0
+19	Kurumazushi	7 E. 47th St., 2nd fl., New York 10017	0.0
+20	Prune	54 E. 1st St., New York 10003	0.0
+21	Mezzaluna	1295 Third Ave., New York 10021	0.0
+22	Beyoglu	1431 Third Ave., New York 10028	0.0
+23	Peasant	194 Elizabeth St., New York 10012	0.0
+0	Café Mogador	101 St. Marks Pl., New York 10009	0.0
+1	Roberto's	603 Crescent Ave., New York 10458	0.0
+2	BLT Prime	111 E. 22nd St., New York 10010	0.0
+3	New Leaf Café	1 Margaret Corbin Dr., New York 10040	0.0
+4	Eliá	8611 Third Ave., New York 11209	0.0
+5	Bottega del Vino	7 E. 59th St., New York 10022	0.0
+6	Aroma Kitchen & Wine Bar	36 E. 4th St., New York 10003	0.0
+7	The Stanton Social	99 Stanton St., New York 10002	0.0
+8	Café Jacqueline	1454 Grant Ave., San Francisco 94133	0.0
+9	Anchor Oyster Bar	579 Castro St., San Francisco 94114	0.0
+10	Absinthe	398 Hayes St., San Francisco 94102	0.0
+11	Jardinière	300 Grove St., San Francisco 94101	0.0
+12	Thep Phanom	400 Waller St., San Francisco 94101	0.0
+13	Zuni Café	1658 Market St., San Francisco 94101	0.0
+14	Angèle	540 Main St., Napa 94558	0.0
+15	Auberge du Soleil	180 Rutherford Hill Rd., Rutherford 94573	1.0
+16	Cindy's Backstreet Kitchen	1327 Railroad Ave., St. Helena 94574	0.0
+17	Cook St. Helena	1310 Main St., St. Helena 94574	0.0
+18	Bistro Jeanty	6510 Washington St., Yountville 94599	0.0
+19	Willow Wood Market Cafe	9020 Graton Rd., Graton 95444	0.0
+20	John Ash & Co.	4330 Barnes Rd., Santa Rosa 95403	0.0
+21	Cafe La Haye	140 E. Napa St., Sonoma 95476	0.0
+22	Della Santina's	133 E. Napa St., Sonoma 95476	0.0
+23	Fringale	570 4th St., San Francisco 94107	0.0
+0	Boulevard	1 Mission St., San Francisco 94105	0.0
+1	Barndiva	231 Center St., San Francisco 95448	0.0
+2	Hana	101 Golf Course Dr., Rohnert Park 94928	0.0
+3	Bistro Don Giovanni	4110 Howard Ln., Napa 94558	0.0
+4	Market	1347 Main St., St Helena 94574	0.0
+5	Wine Spectator Greystone	2555 Main St., St Helena 94574	0.0
+6	Press	587 St. Helena Hwy., St Helena 94574	0.0
+7	La Toque	1314 McKinstry St., Rutherford 94573	1.0
+8	Chez Panisse	1517 Shattuck Ave., Berkeley 94709	0.0
+9	Tacubaya	1788 4th St., Berkeley 94710	0.0
+10	À Côté	5478 College Ave., Oakland 94618	0.0
+11	Pizzaiolo	5008 Telegraph Ave., Oakland 94609	0.0
+12	Picco	320 Magnolia Ave., Larkspur 94939	0.0
+13	Bungalow 44	44 E. Blithedale Ave., Mill Valley 94941	0.0
+14	Insalata's	120 Sir Francis Drake Blvd., San Anselmo 94960	0.0
+15	Poggio	777 Bridgeway, Sausalito 94965	0.0
+16	Sushi Ran	107 Caledonia St., Sausalito 94965	0.0
+17	Left Bank	507 Magnolia Ave., Larkspur 94939	0.0
+18	Frantoio	152 Shoreline Hwy., Mill Valley 94941	0.0
+19	Marché aux Fleurs	23 Ross Common, Ross 94957	0.0
+20	Campton Place	340 Stockton St., San Francisco 94108	2.0
+21	Farallon	450 Post St., San Francisco 94102	0.0
+22	A16	2355 Chestnut St., San Francisco 94123	0.0
+23	Dragon Well	2142 Chestnut St., San Francisco 94123	0.0
+0	Florio	1915 Fillmore St., San Francisco 94115	0.0
+1	Greens	Building A, Fort Mason Center, San Francisco 94123	0.0
+2	Mamacita	2317 Chestnut St., San Francisco 94123	0.0
+3	Quince	470 Pacific Ave., San Francisco 94133	2.0
+4	Sociale	3665 Sacramento St., San Francisco 94118	0.0
+5	Delfina	3621 18th St., San Francisco 94110	0.0
+6	Pancho Villa Taqueria	3071 16th St., San Francisco 94103	0.0
+7	Range	842 Valencia St., San Francisco 94110	0.0
+8	Bar Tartine	561 Valencia St., San Francisco 94110	0.0
+9	La Folie	2316 Polk St., San Francisco 94109	0.0
+10	Oriental Pearl	760 Clay St., San Francisco 94108	0.0
+11	Albona	545 Francisco St., San Francisco 94133	0.0
+12	Gary Danko	800 North Point St., San Francisco 94109	1.0
+13	the house	1230 Grant Ave., San Francisco 94133	0.0
+14	Kokkari Estiatorio	200 Jackson St., San Francisco 94111	0.0
+15	Piperade	1015 Battery St., San Francisco 94111	0.0
+16	The Slanted Door	1 Ferry Building, San Francisco 94111	0.0
+17	Chapeau!	126 Clement St., San Francisco 94118	0.0
+18	Aziza	5800 Geary Blvd., San Francisco 94121	1.0
+19	Burma Superstar	309 Clement St., San Francisco 94118	0.0
+20	Khan Toke Thai House	5937 Geary Blvd., San Francisco 94121	0.0
+21	Pizzetta 211	211 23rd Ave., San Francisco 94121	0.0
+22	Sutro's	1090 Point Lobos Ave., San Francisco 94121	0.0
+23	Manora's Thai Cuisine	1600 Folsom St., San Francisco 94103	0.0
+0	Yank Sing	101 Spear St., San Francisco 94105	0.0
+1	Cookshop	156 Tenth Ave., New York 10011	0.0
+2	Cacio e Pepe	182 Second Ave., New York 10003	0.0
+3	Barbounia	250 Park Ave. South, New York 10003	0.0
+4	Koi Palace	365 Gellert Blvd., Daly City 94015	0.0
+5	Hong Kong Flower Lounge	51 Millbrae Ave., Millbrae 94030	0.0
+6	Evvia	420 Emerson St., Palo Alto 94301	0.0
+7	John Bentley's	2915 El Camino Real, Redwood City 94061	0.0
+8	Barbuto	775 Washington St., New York 10014	0.0
+9	Perry Street	176 Perry St., New York 10014	0.0
+10	Dinosaur Bar-B-Que	700 W. 125th St., New York 10027	0.0
+11	Katz's	205 E. Houston St., New York 10002	0.0
+12	Aburiya Kinnosuke	213 E. 45th St., New York 10017	0.0
+13	Rivoli	1539 Solano Ave., Berkeley 94707	0.0
+14	Oliveto	5655 College Ave., Oakland 94618	0.0
+15	El Dorado Kitchen	405 1st St. W., Sonoma 95476	0.0
+16	Valette	344 Center St., Healdsburg 95448	0.0
+17	Redd	6480 Washington St., Yountville 94599	0.0
+18	Mustards Grill	7399 St. Helena Hwy., Yountville 94558	0.0
+19	The French Laundry	6640 Washington St., Yountville 94599	3.0
+20	Brix	7377 St. Helena Hwy., Napa 94558	0.0
+21	Bouchon	6534 Washington St., Yountville 94599	1.0
+22	Terra	1345 Railroad Ave., St. Helena 94574	1.0
+23	Cole's Chop House	1122 Main St., Napa 94559	0.0
+0	Celadon	500 Main St., Ste. G, Napa 94559	0.0
+1	Sakagura	211 E. 43rd St., New York 10017	0.0
+2	Sip Sak	928 Second Ave., New York 10017	0.0
+3	BG	754 Fifth Ave., New York 10019	0.0
+4	Russian Samovar	256 W. 52nd St., New York 10019	0.0
+5	Saravanaas	81 Lexington Ave., New York 10016	0.0
+6	Antique Garage	41 Mercer St., New York 10013	0.0
+7	La Esquina	114 Kenmare St., New York 10012	0.0
+8	Maya	1191 First Ave., New York 10021	0.0
+9	Uva	1486 Second Ave., New York 10021	0.0
+10	Spiga	200 W. 84th St., New York 10024	0.0
+11	Frankies 457 Spuntino	457 Court St., Brooklyn 11231	0.0
+12	Blue Plate	3218 Mission St., San Francisco 94110	0.0
+13	One Market	1 Market St., San Francisco 94105	0.0
+14	Zuzu	829 Main St., Napa 94559	0.0
+15	Farmhouse Inn & Restaurant	7871 River Rd., Forestville 95436	1.0
+16	Manresa	320 Village Ln., Los Gatos 95030	3.0
+17	Chez TJ	938 Villa St., Mountain View 94041	1.0
+18	Tamarine	546 University Ave., Palo Alto 94301	0.0
+19	Plumed Horse	14555 Big Basin Way, Saratoga 95070	1.0
+20	The Village Pub	2967 Woodside Rd., Woodside 94062	1.0
+21	Alexander's Steakhouse	10330 N. Wolfe Rd., Cupertino 95014	0.0
+22	Fish	350 Harbor Dr., Sausalito 94965	0.0
+23	El Paseo	17 Throckmorton Ave., Mill Valley 94941	0.0
+0	Buckeye Roadhouse	15 Shoreline Hwy., Mill Valley 94941	0.0
+1	Nopa	560 Divisadero St., San Francisco 94117	0.0
+2	Bar Crudo	655 Divisadero St., San Francisco 94117	0.0
+3	Acquerello	1722 Sacramento St., San Francisco 94109	2.0
+4	Del Posto	85 Tenth Ave., New York 10011	1.0
+5	A Voce Madison	41 Madison Ave., New York 10010	0.0
+6	Blaue Gans	139 Duane St., New York 10013	0.0
+7	J.G. Melon	1291 Third Ave., New York 10021	0.0
+8	Brasserie Ruhlmann	45 Rockefeller Plaza, New York 10111	0.0
+9	El Parador	325 E. 34th St., New York 10016	0.0
+10	Frascati	1901 Hyde St., San Francisco 94109	0.0
+11	Beccofino	5704 Mosholu Ave., Bronx 10462	0.0
+12	Brisas del Caribe	1207 Castle Hill Ave., Bronx 10471	0.0
+13	Bayou	1072 Bay St., Staten Island 10305	0.0
+14	Vida	381 Van Duzer St., Staten Island 10304	0.0
+15	Boon Fly Café	4048 Sonoma Hwy., Napa 94559	0.0
+16	Coi	373 Broadway, San Francisco 94133	2.0
+17	Le Cirque	151 E. 58th St., New York 10022	0.0
+18	Harry's Cafe & Steak	1 Hanover Sq., New York 10004	0.0
+19	Degustation	239 E. 5th St., New York 10003	0.0
+20	Taboon	773 Tenth Ave., New York 10019	0.0
+21	Noche Mexicana II	842 Amsterdam Ave., New York 10025	0.0
+22	Miss Mamie's Spoonbread Too	366 W. 110th St./Cathedral Pkwy., New York 10025	0.0
+23	Perbacco	230 California St., San Francisco 94111	0.0
+0	Park Chow	1240 9th Ave., San Francisco 94122	0.0
+1	Salt House	545 Mission St., San Francisco 94105	0.0
+2	Bistro Liaison	1849 Shattuck Ave., Berkeley 94709	0.0
+3	Doña Tomás	5004 Telegraph Ave., Oakland 94609	0.0
+4	Wood Tavern	6317 College Ave., Oakland 94618	0.0
+5	Pasta Moon	315 Main St., Half Moon Bay 94019	0.0
+6	Ad Hoc	6476 Washington St., Yountville 94599	0.0
+7	FARM	4048 Sonoma Hwy., Napa 94559	0.0
+8	The Restaurant at Meadowood	900 Meadowood Ln., St. Helena 94574	3.0
+9	Rutherford Grill	1180 Rutherford Rd., Rutherford 94573	0.0
+10	Cucina Paradiso	114 Petaluma Blvd. N., Petaluma 94952	0.0
+11	LaSalette	452 1st St. E., Ste. H, Sonoma 95476	0.0
+12	Madrona Manor	1001 Westside Rd., Healdsburg 95448	1.0
+13	Monti's Rotisserie	714 Village Court, Santa Rosa 95405	0.0
+14	Willi's Seafood & Raw Bar	403 Healdsburg Ave., Healdsburg 95448	0.0
+15	Willi's Wine Bar	4404 Old Redwood Hwy., Santa Rosa 95403	0.0
+16	Enzo's of Arthur Ave	2339 Arthur Ave., Bronx 10458	0.0
+17	The Good Fork	391 Van Brunt St., Brooklyn 11231	0.0
+18	Ki Sushi	122 Smith St., Brooklyn 11201	0.0
+19	Pacificana	813 55th St., Brooklyn 11220	0.0
+20	Arharn Thai	32-05 36th Ave., Astoria 11106	0.0
+21	De Mole	45-02 48th Ave., Woodside 11377	0.0
+22	Gennaro	665 Amsterdam Ave., New York 10025	0.0
+23	Café Frida	368 Columbus Ave., New York 10024	0.0
+0	Barney Greengrass	541 Amsterdam Ave., New York 10024	0.0
+1	Sushi Sasabune	401 E. 73rd St., New York 10021	0.0
+2	Café el Portal	174 Elizabeth St., New York 10012	0.0
+3	Yakitori Totto	251 W. 55th St., New York 10019	0.0
+4	Utsav	1185 Sixth Ave., New York 10036	0.0
+5	Porter House	10 Columbus Circle, New York 10019	0.0
+6	Mandoo Bar	2 W. 32nd St., New York 10001	0.0
+7	Tsushima	210 E. 44th St., New York 10017	0.0
+8	Pera	303 Madison Ave., New York 10017	0.0
+9	Ricardo Steakhouse	2145 Second Ave., New York 10029	0.0
+10	Morandi	211 Waverly Pl., New York 10014	0.0
+11	The Little Owl	90 Bedford St., New York 10014	0.0
+12	Las Ramblas	170 W. 4th St., New York 10014	0.0
+13	Good	89 Greenwich Ave., New York 10014	0.0
+14	Cafe Cluny	284 W. 12th St., New York 10014	0.0
+15	Boqueria	53 W. 19th St., New York 10011	0.0
+16	Sigiri	91 First Ave., New York 10009	0.0
+17	Momofuku Ssäm Bar	207 Second Ave., New York 10003	0.0
+18	Luzzo's	211-13 First Ave., New York 10003	0.0
+19	Lil' Frankie's	19 First Ave., New York 10003	0.0
+20	Shanghai Café	100 Mott St., New York 10013	0.0
+21	Risibisi	154 Petaluma Blvd. N., Petaluma 94952	0.0
+22	Kyo Ya	94 E. 7th St., New York 10009	1.0
+23	15 East	15 E. 15th St., New York 10003	0.0
+0	Zoma	2084 Frederick Douglass Blvd., New York 10026	0.0
+1	Ed's Lobster Bar	222 Lafayette St., New York 10012	0.0
+2	Tra Di Noi	622 E. 187th St., Bronx 10458	0.0
+3	Diner	85 Broadway, New York 11211	0.0
+4	Melba's	300 W. 114th St., New York 10026	0.0
+5	Congee Village	100 Allen St., New York 10002	0.0
+6	Tori Shin	362 W. 53rd St., New York 10019	1.0
+7	Baci & Abbracci	204 Grand St., Brooklyn 11211	0.0
+8	Franny's	348 Flatbush Ave., Brooklyn 11238	0.0
+9	Sabry's	24-25 Steinway St., Astoria 11102	0.0
+10	Blossom	187 Ninth Ave., New York 10011	0.0
+11	Hill Country	30 W. 26th St., New York 10010	0.0
+12	Sobakoh	309 E. 5th St., New York 10003	0.0
+13	Hakata Tonton	61 Grove St., New York 10014	0.0
+14	Market Table	54 Carmine St., New York 10014	0.0
+15	Soto	357 Sixth Ave., New York 10014	2.0
+16	El Paso	1643 Lexington Ave., New York 10029	0.0
+17	Bacaro	136 Division St., New York 10002	0.0
+18	Toloache	251 W. 50th St., New York 10019	0.0
+19	Bar Boulud	1900 Broadway, New York 10023	0.0
+20	Momoya	427 Amsterdam Ave., New York 10024	0.0
+21	Estrellita Poblana III	2328 Arthur Ave., Bronx 10458	0.0
+22	zero otto nove	2357 Arthur Ave., Bronx 10458	0.0
+23	Alma	187 Columbia St., Brooklyn 11231	0.0
+0	Fushimi	2110 Richmond Rd., Staten Island 10306	0.0
+1	Lucky Eight	5204 Eighth Ave., Brooklyn 11220	0.0
+2	Maria's Bistro Mexicano	886 Fifth Ave., Brooklyn 11232	0.0
+3	Marlow & Sons	81 Broadway, Brooklyn 11211	0.0
+4	SPQR	1911 Fillmore St., San Francisco 94115	1.0
+5	Spruce	3640 Sacramento St., San Francisco 94118	1.0
+6	Taqueria Guadalajara	3146 24th St., San Francisco 94112	0.0
+7	Epic Steak	369 The Embarcadero, San Francisco 94105	0.0
+8	Luce	888 Howard St., San Francisco 94103	1.0
+9	Waterbar	399 The Embarcadero, San Francisco 94105	0.0
+10	Cascal	400 Castro St., Mountain View 94041	0.0
+11	Dio Deka	210 E. Main St., Los Gatos 95030	0.0
+12	Sakae	243 California Dr., Burlingame 94010	0.0
+13	Sushi Sam's	218 E. 3rd Ave., San Mateo 94401	0.0
+14	Azzurro	1260 Main St., Napa 94559	0.0
+15	La Taquiza	2007 Redwood Rd., Ste. 104, Napa 94558	0.0
+16	Solbar	755 Silverado Trail, Calistoga 94515	1.0
+17	Harvest Moon Cafe	487 1st St. W., Sonoma 95476	0.0
+18	Rosso	53 Montgomery Dr., Santa Rosa 95404	0.0
+19	Nan Xiang Xiao Long Bao	38-12 Prince St., Flushing 11354	0.0
+20	Momofuku Ko	8 Extra Pl., New York 10003	2.0
+21	Benoit	60 W. 55th St., New York 10019	0.0
+22	Scarlatto	250 W. 47th St., New York 10036	0.0
+23	Papatzul	55 Grand St., New York 10013	0.0
+0	Beso	11 Schuyler St., Staten Island 10301	0.0
+1	Zenkichi	77 N. 6th St., Brooklyn 11211	0.0
+2	2nd Avenue Deli	162 E. 33rd St., New York 10016	0.0
+3	Sushi Azabu	428 Greenwich St., New York 10013	1.0
+4	La Corneta	2834 Diamond St., San Francisco 94131	0.0
+5	Domo	511 Laguna St., San Francisco 94102	0.0
+6	Sugo	5 Petaluma Blvd. S., Petaluma 94952	0.0
+7	Beretta	1199 Valencia St., San Francisco 94110	0.0
+8	Bellanico	4238 Park Blvd., Oakland 94602	0.0
+9	Pampas	529 Alma St., Palo Alto 94301	0.0
+10	Curry-Ya	214 E. 10th St., New York 10003	0.0
+11	Supper	156 E. 2nd St., New York 10003	0.0
+12	Braai	329 W. 51st St., New York 10018	0.0
+13	Marc Forgione	134 Reade St., New York 10013	0.0
+14	Dovetail	103 W. 77th St., New York 10024	1.0
+15	The General Greene	229 DeKalb Ave., Brooklyn 11205	0.0
+16	Cheburechnaya	92-09 63rd Dr., Rego Park 11374	0.0
+17	Engeline's	58-28 Roosevelt Ave., Woodside 11377	0.0
+18	Himalayan Yak	72-20 Roosevelt Ave., Jackson Heights 11372	0.0
+19	Joe's Shanghai	136-21 37th Ave., Flushing 11354	0.0
+20	Nusara	82-80 Broadway, Elmhurst 11373	0.0
+21	Kiss	1700 Laguna St., San Francisco 94115	0.0
+22	Camino	3917 Grand Ave., Oakland 94610	0.0
+23	Corso	1788 Shattuck Ave., Berkeley 94709	0.0
+0	Le Garage	85 Liberty Ship Way, Ste.109, Sausalito 94965	0.0
+1	Santé	100 Boyes Blvd., Sonoma 95476	0.0
+2	El Quinto Pino	401 W. 24th St., New York 10011	0.0
+3	Tía Pol	205 Tenth Ave., New York 10011	0.0
+4	Txikito	240 Ninth Ave., New York 10001	0.0
+5	Kafana	116 Ave. C, New York 10009	0.0
+6	L'Artusi	228 W. 10th St., New York 10014	0.0
+7	Casellula	401 W. 52nd St., New York 10019	0.0
+8	Szechuan Gourmet	21 W. 39th St., New York 10018	0.0
+9	Macao Trading Co.	311 Church St., New York 10013	0.0
+10	Bin 71	237 Columbus Ave., New York 10023	0.0
+11	Jack the Horse	66 Hicks St., Brooklyn 11201	0.0
+12	No. 7	7 Greene Ave., Brooklyn 11238	0.0
+13	Katsuno	103-01 Metropolitan Ave., Forest Hills 11375	0.0
+14	Urubamba	86-20 37th Ave., Jackson Heights 11372	0.0
+15	Vesta Trattoria	21-02 30th Ave., Astoria 11102	0.0
+16	Buttermilk Channel	524 Court St., Brooklyn 11231	0.0
+17	Egg	109 N. Third St., Brooklyn 11249	0.0
+18	James	605 Carlton Ave., Brooklyn 11238	0.0
+19	La Superior	295 Berry St., Brooklyn 11211	0.0
+20	Vinegar Hill House	72 Hudson Ave., Brooklyn 11201	0.0
+21	Contigo	1320 Castro St., San Francisco 94114	0.0
+22	L'Ardoise	151 Noe St., San Francisco 94114	0.0
+23	Nopalito	306 Broderick St., San Francisco 94117	0.0
+0	Dosa	1700 Fillmore St., San Francisco 94115	0.0
+1	Chiaroscuro	550 Washington St., San Francisco 94111	0.0
+2	Riva Cucina	800 Heinz Ave., Berkeley 94710	0.0
+3	Marinitas	218 Sir Francis Drake Blvd., San Anselmo 94960	0.0
+4	Flea St. Café	3607 Alameda de las Pulgas, Menlo Park 94025	0.0
+5	Lucy	6526 Yount St., Yountville 94599	0.0
+6	Bottega	6525 Washington St., Yountville 94599	0.0
+7	Scopa	109A Plaza St., Healdsburg 95448	0.0
+8	New Malaysia	46-48 Bowery, New York 10013	0.0
+9	ChikaLicious	203 E. 10th St., New York 10003	0.0
+10	Rai Rai Ken	218 E. 10th St., New York 10003	0.0
+11	Panca	92 Seventh Ave. South, New York 10014	0.0
+12	Rockmeisha	11 Barrow St., New York 10014	0.0
+13	Macondo	157 E. Houston St., New York 10002	0.0
+14	Spitzer's Corner	101 Rivington St., New York 10002	0.0
+15	Bukhara Grill	217 E. 49th St., New York 10017	0.0
+16	Naya	1057 Second Ave., New York 10022	0.0
+17	Flex Mussels	174 E. 82nd St., New York 10028	0.0
+18	Christos	41-08 23rd Ave., Astoria 11105	0.0
+19	Hahm Ji Bach	40-11 149th Pl., Flushing 11355	0.0
+20	Parkside	107-01 Corona Ave., Corona 11368	0.0
+21	RN74	301 Mission St., San Francisco 94105	0.0
+22	Brown Sugar Kitchen	2534 Mandela Pkwy., Oakland 94607	0.0
+23	Hong Kong East Ocean	3199 Powell St., Emeryville 94608	0.0
+0	Ohgane	3915 Broadway, Oakland 94611	0.0
+1	Artisan Bistro	1005 Brown Ave., Lafayette 94549	0.0
+2	Kajitsu	125 E. 39th St., New York 10016	1.0
+3	Roberta's	261 Moore St., Brooklyn 11206	0.0
+4	Minetta Tavern	113 MacDougal St., New York 10012	1.0
+5	Marea	240 Central Park South, New York 10019	2.0
+6	Locanda Verde	377 Greenwich St., New York 10013	0.0
+7	The Farm on Adderley	1108 Cortelyou Rd., Brooklyn 11218	0.0
+8	Prime Meats	465 Court St., Brooklyn 11231	0.0
+9	Battambang	850 Broadway, Oakland 94607	0.0
+10	Grand Avenue Thai	384 Grand Ave., Oakland 94610	0.0
+11	Sahn Maru	4315 Telegraph Ave., Oakland 94609	0.0
+12	Sidebar	542 Grand Ave., Oakland 94610	0.0
+13	Commis	3859 Piedmont Ave., Oakland 94611	2.0
+14	Metro Lafayette	3524 Mt. Diablo Blvd., Lafayette 94549	0.0
+15	Prima	1522 N. Main St., Walnut Creek 94596	0.0
+16	Va de Vi	1511 Mt. Diablo Blvd., Walnut Creek 94596	0.0
+17	Crouching Tiger	2644 Broadway St., Redwood City 94063	0.0
+18	54 Mint	16 Mint Plaza, San Francisco 94103	0.0
+19	Aldea	31 W. 17th St., New York 10011	1.0
+20	Kesté Pizza & Vino	271 Bleecker St., New York 10014	0.0
+21	Standard Grill	848 Washington St., New York 10014	0.0
+22	Emporio	231 Mott St., New York 10012	0.0
+23	Brooklyn Star	593 Lorimer St., Brooklyn 11211	0.0
+0	Karczma	136 Greenpoint Ave., Brooklyn 11222	0.0
+1	Rye	247 S. 1st St., Brooklyn 11211	0.0
+2	Hunan House	137-40 Northern Blvd., Flushing 11354	0.0
+3	Clover Club	210 Smith St., Brooklyn 11201	0.0
+4	Mesa Coyoacán	372 Graham Ave., Brooklyn 11052	0.0
+5	Xe Lua	86 Mulberry St., New York 10013	0.0
+6	DBGB Kitchen & Bar	299 Bowery, New York 10003	0.0
+7	Diavola	21021 Geyserville Ave., Geyserville 95441	0.0
+8	FIVE	2086 Allston Way, Berkeley 94704	0.0
+9	Donato Enoteca	1041 Middlefield Rd., Redwood City 94063	0.0
+10	Madera	2825 Sand Hill Rd., Menlo Park 94025	0.0
+11	South Legend	1720 N. Milpitas Blvd., Milpitas 95035	0.0
+12	Sakoon	357 Castro St., Mountain View 94041	0.0
+13	flour + water	2401 Harrison St., San Francisco 94110	0.0
+14	Anteprima	5316 N. Clark St., Chicago 60640	0.0
+15	Alinea	1723 N. Halsted St., Chicago 60614	3.0
+16	Atwood	1 W. Washington St., Chicago 60602	0.0
+17	Bistro Campagne	4518 N. Lincoln Ave., Chicago 60625	0.0
+18	Boka	1729 N. Halsted St., Chicago 60614	1.0
+19	Bourgeois Pig Cafe	738 W. Fullerton Pkwy., Chicago 60614	0.0
+20	Cafe Spiaggia	980 N. Michigan Ave., Chicago 60611	0.0
+21	Café des Architectes	20 E. Chestnut St., Chicago 60611	0.0
+22	Coalfire Pizza	1321 W. Grand Ave., Chicago 60622	0.0
+23	Chicago Diner	3411 N. Halsted St., Chicago 60657	0.0
+0	David Burke's Primehouse	616 N. Rush St., Chicago 60611	0.0
+1	Demera	4801 N. Broadway, Chicago 60640	0.0
+2	Eleven City Diner	1112 S. Wabash Ave., Chicago 60605	0.0
+3	Greek Islands	200 S. Halsted St., Chicago 60661	0.0
+4	Green Zebra	1460 W. Chicago Ave., Chicago 60622	0.0
+5	Hopleaf	5148 N. Clark St., Chicago 60640	0.0
+6	Mindy's Hot Chocolate	1747 N. Damen Ave., Chicago 60647	0.0
+7	Lao Sze Chuan	2172 S. Archer Ave., Chicago 60616	0.0
+8	La Petite Folie	1504 E. 55th St., Chicago 60615	0.0
+9	Lula Cafe	2537 N. Kedzie Ave., Chicago 60647	0.0
+10	Les Nomades	222 E. Ontario St., Chicago 60611	0.0
+11	Mana Food Bar	1742 W. Division St., Chicago 60622	0.0
+12	Mercat a la Planxa	638 S. Michigan Ave., Chicago 60605	0.0
+13	mk	868 N. Franklin St., Chicago 60610	0.0
+14	Paramount Room	415 N. Milwaukee Ave., Chicago 60654	0.0
+15	Pho Xe Tang - Tank Noodle	4953-55 N. Broadway, Chicago 60640	0.0
+16	Ras Dashen	5846 N. Broadway, Chicago 60660	0.0
+17	Riva	700 E. Grand Ave., Chicago 60611	0.0
+18	The Rosebud	1500 W. Taylor St., Chicago 60607	0.0
+19	Sabri Nihari	2500-2502 W. Devon Ave., Chicago 60659	0.0
+20	Schwa	1466 N. Ashland Ave., Chicago 60662	1.0
+21	Spacca Napoli	1769 W. Sunnyside Ave., Chicago 60640	0.0
+22	Topolobampo	445 N. Clark St., Chicago 60654	1.0
+23	Tru	676 N. St. Clair St., Chicago 60611	1.0
+0	North Pond	2610 N. Cannon Dr., Chicago 60614	1.0
+1	Everest	440 S. LaSalle St., Chicago 60605	1.0
+2	Tipsy Parson	156 Ninth Ave., New York 10011	0.0
+3	Pylos	128 E. 7th St., New York 10009	0.0
+4	The Breslin	16 W. 29th St., New York 10001	1.0
+5	A Casa Fox	173 Orchard St., New York 10002	0.0
+6	Don's Bogam	17 E. 32nd St., New York 10016	0.0
+7	Soba Totto	211 E. 43rd St., New York 10017	0.0
+8	Madangsui	35 W. 35th St., New York 10001	0.0
+9	Oceana	120 W. 49th St., New York 10020	0.0
+10	Radiance Tea House	158 W. 55th St., New York 10019	0.0
+11	Brinkley's	406 Broome St., New York 10013	0.0
+12	Caravaggio	23 E. 74th St., New York 10021	0.0
+13	Community Food & Juice	2893 Broadway, New York 10025	0.0
+14	Taqueria Tlaxcalli	2103 Starling Ave., Bronx 10462	0.0
+15	El Almacen	557 Driggs Ave., Brooklyn 11211	0.0
+16	East Harbor Seafood Palace	714-726 65th St., Brooklyn 11220	0.0
+17	Fonda	434 Seventh Ave., Brooklyn 11215	0.0
+18	Mimi's Hummus	1209 Cortelyou Rd., Brooklyn 11218	0.0
+19	Miranda	80 Berry St., Brooklyn 11211	0.0
+20	Tanoreen	7523 Third Ave., Brooklyn 11209	0.0
+21	Imperial Palace	136-13 37th Ave., Flushing 11354	0.0
+22	Little Pepper	18-24 College Point Blvd., College Point 11356	0.0
+23	Main Street Imperial Taiwanese Gourmet	59-14A Main St., Flushing 11355	0.0
+0	Sik Gaek	161-29 Crocheron Ave., Flushing 11358	0.0
+1	Taiwanese Gourmet	84-02 Broadway, Elmhurst 11373	0.0
+2	Frances	3870 17th St., San Francisco 94114	0.0
+3	Starbelly	3583 16th St., San Francisco 94114	0.0
+4	Delarosa	2175 Chestnut St., San Francisco 94123	0.0
+5	Papalote	3409 24th St., San Francisco 94110	0.0
+6	Regalito	3481 18th St., San Francisco 94110	0.0
+7	Modern Thai	1247 Polk St., San Francisco 94109	0.0
+8	Encuentro	550 2nd St., Oakland 94607	0.0
+9	Esin	750 Camino Ramon, Danville 94526	0.0
+10	The Peasant & The Pear	267 Hartz Ave., Danville 94526	0.0
+11	La Costanera	8150 Cabrillo Hwy., Montara 94037	0.0
+12	Martins West	831 Main St., Redwood City 94063	0.0
+13	Sweet Basil	1473 Beach Park Blvd., Foster City 94404	0.0
+14	Viognier	222 E. 4th Ave., San Mateo 94401	0.0
+15	Quattro	2050 University Ave., East Palo Alto 94303	0.0
+16	Vung Tau	535 E. Santa Clara St., San Jose 95112	0.0
+17	Norman Rose Tavern	1401 1st St., Napa 94559	0.0
+18	Central Market	42 Petaluma Blvd. N., Petaluma 94952	0.0
+19	Arun's	4156 N. Kedzie Ave., Chicago 60618	0.0
+20	Belly Shack	1912 N. Western Ave., Chicago 60647	0.0
+21	Blackbird	619 W. Randolph St., Chicago 60661	1.0
+22	Indian Garden	247 E. Ontario St., Chicago 60611	0.0
+23	La Sardine	111 N. Carpenter St., Chicago 60607	0.0
+0	Le Bouchon	1958 N. Damen Ave., Chicago 60647	0.0
+1	Lou Mitchell's	565 W. Jackson Blvd., Chicago 60661	0.0
+2	Mexique	1529 W. Chicago Ave., Chicago 60622	0.0
+3	NAHA	500 N. Clark St., Chicago 60610	1.0
+4	Pelago	201 E. Delaware Pl., Chicago 60611	0.0
+5	Phoenix	2131 S. Archer Ave., Chicago 60616	0.0
+6	RL	115 E. Chicago Ave., Chicago 60611	0.0
+7	Sepia	123 N. Jefferson, Chicago 60661	1.0
+8	Southport Grocery	3552 N. Southport Ave., Chicago 60657	0.0
+9	Spiaggia	980 N. Michigan Ave., Chicago 60611	1.0
+10	The Bristol	2152 N. Damen Ave., Chicago 60647	0.0
+11	The Publican	837 W. Fulton Market, Chicago 60607	0.0
+12	Gene & Georgetti	500 N. Franklin St., Chicago 60610	0.0
+13	Piccolo Sogno	464 N. Halsted St., Chicago 60642	0.0
+14	Vermilion	10 W. Hubbard St., Chicago 60654	0.0
+15	ABC Kitchen	35 E. 18th St., New York 10014	0.0
+16	Maialino	2 Lexington Ave., New York 10010	0.0
+17	Laut	15 E. 17th St., New York 10003	0.0
+18	Tamba	103 Lexington Ave., New York 10016	0.0
+19	Mapo Tofu	338 Lexington Ave., New York 10016	0.0
+20	Print	653 Eleventh Ave., New York 10036	0.0
+21	Andre's Café	1631 Second Ave., New York 10028	0.0
+22	Purple Yam	1314 Cortelyou Rd., New York 11226	0.0
+23	Coco Pazzo	300 W. Hubbard St., Chicago 60654	0.0
+0	Prosecco	710 N. Wells St., Chicago 60610	0.0
+1	The Purple Pig	500 N. Michigan Ave., Chicago 60611	0.0
+2	Rosebud Prime	1 S. Dearborn St., Chicago 60603	0.0
+3	Bistrot Zinc	1131 N. State St., Chicago 60610	0.0
+4	Mirai	2020 W. Division St., Chicago 60622	0.0
+5	Smoke Daddy	1804 W. Division St., Chicago 60622	0.0
+6	Jaipur	847 W. Randolph St., Chicago 60607	0.0
+7	Chilam Balam	3023 N. Broadway, Chicago 60657	0.0
+8	DMK Burger Bar	2954 N. Sheffield Ave., Chicago 60657	0.0
+9	Frasca	3358 N. Paulina St., Chicago 60657	0.0
+10	Smoque BBQ	3800 N. Pulaski Rd., Chicago 60641	0.0
+11	Viceroy of India	2520 W. Devon Ave., Chicago 60659	0.0
+12	Novitá	102 E. 22nd St., New York 10010	0.0
+13	Má Pêche	15 W. 56th St., New York 10019	0.0
+14	Bamboo Garden	6409 Eighth Ave., Brooklyn 11220	0.0
+15	Chef's Table at Brooklyn Fare	200 Schermerhorn St., Brooklyn 11201	3.0
+16	Angelina's	399 Ellis St., Staten Island 10307	0.0
+17	Cafe Luna	31 Page Ave., Staten Island 10309	0.0
+18	Giuliana's	4105 Hylan Blvd., Staten Island 10308	0.0
+19	Jannah	1775 Fulton St., San Francisco 94117	0.0
+20	Piqueo's	830 Cortland Ave., San Francisco 94110	0.0
+21	Gather	2200 Oxford St., Berkeley 94704	0.0
+22	Cetrella	845 Main St., Half Moon Bay 94019	0.0
+23	Wakuriya	115 De Anza Blvd., San Mateo 94402	1.0
+0	Baumé	201 S. California Ave., Palo Alto 94306	2.0
+1	Farmstead	738 Main St., St. Helena 94574	0.0
+2	Mango on Main	1142 Main St., Napa 94559	0.0
+3	Bistro 29	620 5th St., Santa Rosa 95404	0.0
+4	Bangkok Jam	1892 Solano Ave., Berkeley 94707	0.0
+5	Thai House	254 Rose Ave., Danville 94526	0.0
+6	Osteria Stellina	11285 Hwy. 1, Point Reyes Station 94956	0.0
+7	R'Noh Thai	1000 Magnolia Ave., Larkspur 94939	0.0
+8	Bun Bo Hue An Nam	2060 Tully Rd., San Jose 95122	0.0
+9	DishDash	190 S. Murphy Ave., Sunnyvale 94086	0.0
+10	Hachi Ju Hachi	14480 Big Basin Way, Saratoga 95070	0.0
+11	Jang Su Jang	3561 El Camino Real, Ste.10, Santa Clara 95051	0.0
+12	Sawa Sushi	1042 E. El Camino Real, Sunnyvale 94087	0.0
+13	Sumika	236 Plaza Central, Los Altos 94022	0.0
+14	Thiên Long	3005 Silver Creek Rd., Ste.138, San Jose 95121	0.0
+15	Zeni	1320 Saratoga Ave., San Jose 95129	0.0
+16	C Casa	610 1st St., Napa 94559	0.0
+17	Oenotri	1425 1st St., Napa 94559	0.0
+18	Chinois	186 Windsor River Rd., Windsor 95492	0.0
+19	Robataya	231 E. 9th St., New York 10003	0.0
+20	Hecho en Dumbo	354 Bowery, New York 10012	0.0
+21	Yerba Buena Perry	1 Perry St., New York 10014	0.0
+22	Casa Lever	390 Park Ave., New York 10022	0.0
+23	Mercato	352 W. 39th St., New York 10018	0.0
+0	Balaboosta	214 Mulberry St., New York 10012	0.0
+1	1 or 8	66 S. 2nd St., Brooklyn 11211	0.0
+2	Thistle Hill Tavern	441 Seventh Ave., Brooklyn 11222	0.0
+3	Bahari estiatorio	31-14 Broadway, Astoria 11105	0.0
+4	Ornella	29-17 23rd Ave., Astoria 11105	0.0
+5	Takashi	456 Hudson St., New York 10014	0.0
+6	Roman's	243 DeKalb Ave., New York 11205	0.0
+7	Nick's Pizza	108-26 Ascan Ave., Forest Hills 11375	0.0
+8	Tuscany on Taylor	1014 W. Taylor St., Chicago 60607	0.0
+9	Hugo's Frog Bar & Fish House	1024 N. Rush St., Chicago 60611	0.0
+10	Fiesta Mexicana	2423 N. Lincoln Ave., Chicago 60614	0.0
+11	Pho 777	1063-65 W. Argyle St., Chicago 60640	0.0
+12	Flo	1434 W. Chicago Ave., Chicago 60642	0.0
+13	Taxim	1558 N. Milwaukee Ave., Chicago 60622	0.0
+14	deca	160 E. Pearson St., Chicago 60611	0.0
+15	Longman & Eagle	2657 N. Kedzie Ave., Chicago 60647	1.0
+16	Sticky Rice	4018 N. Western Ave., Chicago 60618	0.0
+17	Twin Anchors	1655 N. Sedgwick St., Chicago 60614	0.0
+18	La Casa De Samuel	2834 W. Cermak Rd., Chicago 60623	0.0
+19	Terzo Piano	159 E. Monroe St., Chicago 60603	0.0
+20	The Gage	24 S. Michigan Ave., Chicago 60603	0.0
+21	Benny's Chop House	444 N. Wabash Ave., Chicago 60611	0.0
+22	Joe's	60 E. Grand Ave., Chicago 60611	0.0
+23	Sable Kitchen & Bar	505 N. State St., Chicago 60654	0.0
+0	Sunda	110 W. Illinois St., Chicago 60654	0.0
+1	¡Hello Tacos! De Cero	816 W. Randolph St., Chicago 60607	0.0
+2	Le Relais de Venise (L'Entrecôte)	590 Lexington Ave., New York 10022	0.0
+3	El Porrón	1123 First Ave., New York 10065	0.0
+4	Paulie Gee's	60 Greenpoint Ave., Brooklyn 11222	0.0
+5	al Bustan	319 E. 53rd St., New York 10022	0.0
+6	Kirakuya	2 W. 32nd St., New York 10001	0.0
+7	Sons & Daughters	708 Bush St., San Francisco 94108	1.0
+8	Wayfare Tavern	558 Sacramento St., San Francisco 94111	0.0
+9	Bistro Aix	3340 Steiner St., San Francisco 94123	0.0
+10	Heirloom Café	2500 Folsom St., San Francisco 94110	0.0
+11	Saison	178 Townsend St., San Francisco 94107	3.0
+12	Prospect	300 Spear St., San Francisco 94105	0.0
+13	Kabab & Curry's	1498 Isabella St., Santa Clara 95050	0.0
+14	Spoonbar	219 Healdsburg Ave., Healdsburg 95448	0.0
+15	Girl & The Goat	809 W. Randolph St., Chicago 60607	0.0
+16	Connie's Pizza	2373 S. Archer Ave., Chicago 60616	0.0
+17	Merlo on Maple	16 W. Maple St., Chicago 60610	0.0
+18	Mon Ami Gabi	2300 N. Lincoln Park West, Chicago 60614	0.0
+19	Riccardo Trattoria	2119 N. Clark St., Chicago 60614	0.0
+20	Mixteco Grill	1601 W. Montrose Ave., Chicago 60613	0.0
+21	P.S. Bangkok	3345 N. Clark St., Chicago 60657	0.0
+22	Paprika	2547 W. Lawrence Ave., Chicago 60625	0.0
+23	Shokran Moroccan Grill	4027 W. Irving Park Rd., Chicago 60641	0.0
+0	Nana	3267 S. Halsted St., Chicago 60608	0.0
+1	Gilt Bar	230 W. Kinzie St., Chicago 60654	0.0
+2	Big Jones	5347 N. Clark St., Chicago 60640	0.0
+3	Ceres' Table	4882 N. Clark St., Chicago 60640	0.0
+4	Han 202	605 W. 31st St., Chicago 60616	0.0
+5	Big Star	1531 N. Damen Ave., Chicago 60622	0.0
+6	Coast Sushi Bar	2045 N. Damen Ave., Chicago 60647	0.0
+7	Cumin	1414 N. Milwaukee Ave., Chicago 60622	0.0
+8	Lillie's Q	1856 W. North Ave., Chicago 60622	0.0
+9	Ruxbin	851 N. Ashland Ave., Chicago 60622	0.0
+10	tocco	1266 N. Milwaukee Ave., Chicago 60622	0.0
+11	Kuma's Corner	2900 W. Belmont Ave., Chicago 60618	0.0
+12	Noon-O-Kabab	4661 N. Kedzie Ave., Chicago 60625	0.0
+13	Taste of Peru	6545 N. Clark St., Chicago 60626	0.0
+14	Chez Joël	1119 W. Taylor St., Chicago 60607	0.0
+15	DeCOLORES	1626 S. Halsted St., Chicago 60609	0.0
+16	Frances' Deli	2552 N. Clark St., Chicago 60614	0.0
+17	Giordano's	730 N. Rush St., Chicago 60611	0.0
+18	Frontera Grill	445 N. Clark St., Chicago 60654	0.0
+19	Legend Bar & Restaurant	88 Seventh Ave., New York 10011	0.0
+20	Trestle on Tenth	242 Tenth Ave., New York 10001	0.0
+21	Balade	208 First Ave., New York 10009	0.0
+22	Porsena	21 E. 7th St., New York 10003	0.0
+23	Hill Country Chicken	1123 Broadway, New York 10010	0.0
+0	Manzo	200 Fifth Ave., New York 10010	0.0
+1	Alta	64 W. 10th St, New York 10011	0.0
+2	Amma	246 E. 51st St., New York 10022	0.0
+3	Bistro Vendôme	405 E. 58th St., New York 10022	0.0
+4	Ardesia	510 W. 52nd St., New York 10019	0.0
+5	Danji	346 W. 52nd St., New York 10019	0.0
+6	The Lambs Club	132 W. 44th St., New York 10036	0.0
+7	New Wonjo	23 W. 32nd St., New York 10001	0.0
+8	Tamarind	99 Hudson St., New York 10013	0.0
+9	Cascabel Taqueria	1538 Second Ave., New York 10028	0.0
+10	Parlor Steakhouse	1600 Third Ave., New York 10128	0.0
+11	Tiella	1109 First Ave., New York 10065	0.0
+12	Wa Jeal	1588 Second Ave., New York 10028	0.0
+13	Fishtag	222 W. 79th St., New York 10024	0.0
+14	Lincoln	142 W. 65th St., New York 10023	0.0
+15	Jake's Steakhouse	6031 Broadway, Bronx 10471	0.0
+16	Enoteca on Court	347 Court St., Brooklyn 11231	0.0
+17	Fort Defiance	365 Van Brunt St., Brooklyn 11231	0.0
+18	Ayada	77-08 Woodside Ave., Elmhurst 11373	0.0
+19	Hunan Kitchen of Grand Sichuan	42-47 Main Street, Flushing 11355	0.0
+20	Lu Xiang Yuan	42-87 Main St., Flushing 11355	0.0
+21	Payag	51-34 Roosevelt Ave., Woodside 11377	0.0
+22	Dosa Garden	323 Victory Blvd., Staten Island 10301	0.0
+23	Lakruwana	668 Bay St., Staten Island 10304	0.0
+0	Michael Mina	252 California St., San Francisco 94102	1.0
+1	Viva Goa	2420 Lombard St., San Francisco 94123	0.0
+2	Atelier Crenn	3127 Fillmore St., San Francisco 94123	2.0
+3	Commonwealth	2224 Mission St., San Francisco 94110	1.0
+4	Papito	317 Connecticut St., San Francisco 94107	0.0
+5	Cotogna	490 Pacific Ave., San Francisco 94133	0.0
+6	Bar Agricole	355 11th St., San Francisco 94103	0.0
+7	Benu	22 Hawthorne St., San Francisco 94105	3.0
+8	Twenty Five Lusk	25 Lusk St., San Francisco 94107	0.0
+9	Una Pizza Napoletana	210 11th St., San Francisco 94103	0.0
+10	Zero Zero	826 Folsom St., San Francisco 94107	0.0
+11	Café Colucci	6427 Telegraph Ave., Oakland 94609	0.0
+12	Ippuku	2130 Center St., Berkeley 94704	0.0
+13	Zut Tavern	1820 4th St., Berkeley 94710	0.0
+14	All Spice	1602 El Camino Real, San Mateo 94402	0.0
+15	Ramen Dojo	805 S. B St., San Mateo 94401	0.0
+16	Taqueria El Metate	120 Harbor Blvd., Belmont 94002	0.0
+17	Taste In Mediterranean Food	1199 Broadway, Ste. 1, Burlingame 94010	0.0
+18	Fratello	1712 Meridian Ave., San Jose 95125	0.0
+19	Orenchi	3540 Homestead Rd., Santa Clara 95051	0.0
+20	Bui Bistro	976 Pearl St., Napa 94559	0.0
+21	Grace's Table	1400 2nd St., Napa 94559	0.0
+22	Luma	500 1st St., Petaluma 94952	0.0
+23	Sazón	1129 Sebastopol Rd., Santa Rosa 95407	0.0
+0	Saigon Sisters	567 W. Lake St., Chicago 60661	0.0
+1	Avec	615 W. Randolph St., Chicago 60661	0.0
+2	Chicago Curry House	899 S. Plymouth Ct., Chicago 60605	0.0
+3	MingHin	2168 S. Archer Ave., Chicago	0.0
+4	Stax Café	1401 W. Taylor St., Chicago 60607	0.0
+5	Three Aces	1321 W. Taylor St., Chicago 60607	0.0
+6	Chicago q	1160 N. Dearborn St., Chicago 60610	0.0
+7	Old Jerusalem	1411 N. Wells St., Chicago 60610	0.0
+8	Pizano's	864 N. State St., Chicago 60610	0.0
+9	Las Palmas	1835 W. North Ave., Chicago 60622	0.0
+10	Owen & Engine	2700 N. Western Ave., Chicago 60647	0.0
+11	Isla	2501 W. Lawrence Ave., Unit D, Chicago 60625	0.0
+12	Jin Ju	5203 N. Clark St., Chicago 60640	0.0
+13	Sol de Mexico	3018 N. Cicero Ave., Chicago 60641	0.0
+14	Dieci	228 E. 10th St., New York 10003	0.0
+15	The John Dory Oyster Bar	1196 Broadway, New York 10001	0.0
+16	Junoon	27 W. 24th St., New York 10010	1.0
+17	Buvette	42 Grove St., New York 10014	0.0
+18	Empellón Taqueria	230 W. 4th St., New York 10014	0.0
+19	Fedora	239 W. 4th St., New York 10014	0.0
+20	Joseph Leonard	170 Waverly Pl., New York 10014	0.0
+21	Miss Lily's	132 W. Houston St., New York 10012	0.0
+22	Red Rooster	310 Lenox Ave., New York 10027	0.0
+23	Clinton St. Baking Company	4 Clinton St., New York 10002	0.0
+0	Hide-Chan Ramen	248 E. 52nd St., New York 10022	0.0
+1	Tulsi	211 E. 46th St., New York 10017	1.0
+2	Burger & Barrel	25 W. Houston St., New York 10012	0.0
+3	Rouge et Blanc	48 MacDougal St., New York 10012	0.0
+4	Rubirosa	235 Mulberry St., New York 10012	0.0
+5	Bodrum	584 Amsterdam Ave., New York 10024	0.0
+6	Pine Bar & Grill	1634 Eastchester Rd., Bronx 10461	0.0
+7	Colonie	127 Atlantic Ave., Brooklyn 11201	0.0
+8	Java	455 Seventh Ave., Brooklyn 11215	0.0
+9	Tito Rad's Grill	49-10 Queens Blvd., Woodside 11377	0.0
+10	Bar Bocce	1250 Bridgeway, Sausalito 94965	0.0
+11	Boon Eat + Drink	16248 Main St., Guerneville 95446	0.0
+12	Rustic	300 Via Archimedes, Geyserville 95441	0.0
+13	Terrapin Creek	1580 Eastshore Rd., Bodega Bay 94923	1.0
+14	Arami	1829 W. Chicago Ave., Chicago 60622	0.0
+15	Bistronomic	840 N. Wabash Ave., Chicago 60611	0.0
+16	Chicago Kalbi	3752 W. Lawrence Ave., Chicago 60625	0.0
+17	Fish Bar	2956 N. Sheffield Ave., Chicago 60657	0.0
+18	Kanela	3231 N. Clark St., Chicago 60657	0.0
+19	Del Seoul	2568-2570 N. Clark St., Chicago 60614	0.0
+20	Chicago Cut	300 N. LaSalle St., Chicago 60654	0.0
+21	Hubbard Inn	110 W. Hubbard St., Chicago 60640	0.0
+22	Mastro's	520 N. Dearborn St., Chicago 60654	0.0
+23	Coppelia	207 W. 14th St., New York 10011	0.0
+0	Edi & The Wolf	102 Ave. C, New York 10009	0.0
+1	Momokawa	157 E. 28th St., New York 10016	0.0
+2	The Fat Radish	17 Orchard St., New York 10002	0.0
+3	Ai Fiori	400 Fifth Ave., New York 10018	1.0
+4	The Dutch	131 Sullivan St., New York 10012	0.0
+5	Jones Wood Foundry	401 E. 76th St., New York 10021	0.0
+6	San Matteo	1739 Second Ave., New York 10128	0.0
+7	B. Café West	566 Amsterdam Ave., New York 10024	0.0
+8	Joe's Place	1841 Westchester Ave., Bronx 10472	0.0
+9	900 Park	900 Morris Park Ave., Bronx 10462	0.0
+10	Aurora	70 Grand St., Brooklyn 11112	0.0
+11	Mile End	97A Hoyt St., Brooklyn 11217	0.0
+12	Strong Place	270 Court St., Brooklyn 11231	0.0
+13	Pachanga Patterson	33-17 31st Ave., Astoria 11103	0.0
+14	Salt & Fat	41-16 Queens Blvd., Sunnyside 11104	0.0
+15	Maizal	990 Bay St., Staten Island 10305	0.0
+16	Colicchio & Sons	85 Tenth Ave., New York 10011	0.0
+17	Brushstroke	30 Hudson St., New York 10013	1.0
+18	Helmand Palace	2424 Van Ness Ave., San Francisco 94109	0.0
+19	Kappou Gomi	5524 Geary Blvd., San Francisco 94121	0.0
+20	Locanda Positano	617 Laurel St., San Carlos 94070	0.0
+21	Salinas	136 Ninth Ave., New York 10011	0.0
+22	Nom Wah Tea Parlor	13 Doyers St., New York 10013	0.0
+23	Graffiti	224 E. 10th St., New York 10003	0.0
+0	Boulud Sud	20 W. 64th St., New York 10023	0.0
+1	Nougatine	1 Central Park West, New York 10023	0.0
+2	Liebman's	552 W. 235th St., Bronx 10463	0.0
+3	Anella	222 Franklin St., Brooklyn 11222	0.0
+4	Bread & Tulips	365 Park Ave. South, New York 10016	0.0
+5	Kunjip	9 W 32nd St., New York 10001	0.0
+6	El Mio Cid	50 Starr St., Brooklyn 11221	0.0
+7	Rucola	190 Dean St., Brooklyn 11217	0.0
+8	Saraghina	435 Halsey St., Brooklyn 11233	0.0
+9	Due Lire	4520 N. Lincoln Ave., Chicago 60625	0.0
+10	Bangers & Lace	1670 W. Division St., Chicago 60622	0.0
+11	Frontier	1072 N. Milwaukee Ave., Chicago 60642	0.0
+12	Royal Thai	2209 W. Montrose Ave., Chicago 60618	0.0
+13	Gemini Bistro	2075 N. Lincoln Ave., Chicago 60614	0.0
+14	Pequod's Pizza	2207 N. Clybourn Ave., Chicago 60614	0.0
+15	GT Fish & Oyster	531 N. Wells St., Chicago 60654	0.0
+16	Boxing Room	399 Grove St., San Francisco 94102	0.0
+17	Locanda	557 Valencia St., San Francisco 94110	0.0
+18	Piccino	1001 Minnesota St., San Francisco 94107	0.0
+19	Leopold's	2400 Polk St., San Francisco 94109	0.0
+20	Seven Hills	1550 Hyde St., San Francisco 94109	0.0
+21	Z & Y	655 Jackson St., San Francisco 94133	0.0
+22	Tony's Pizza Napoletana	1570 Stockton St., San Francisco 94113	0.0
+23	Boot and Shoe Service	3308 Grand Ave., Oakland 94609	0.0
+0	Hawker Fare	2300 Webster St., Oakland 94612	0.0
+1	Arun	385 Bel Marin Keys Blvd., Novato 94949	0.0
+2	Shalizaar	300 El Camino Real, Belmont 94002	0.0
+3	Peter Lowell's	7385 Healdsburg Ave., Sebastopol 95472	0.0
+4	the fig café	13690 Arnold Dr., Glen Ellen 95442	0.0
+5	Jin Thai	5458 N. Broadway, Chicago 60640	0.0
+6	Aquitaine	2221 N. Lincoln Ave., Chicago 60614	0.0
+7	Perennial Virant	1800 N. Lincoln Ave., Chicago 60614	0.0
+8	Maude's Liquor Bar	840 W. Randolph St., Chicago 60607	0.0
+9	La Encantada	3437 W. North Ave., Chicago 60647	0.0
+10	TAC Quick	3930 N. Sheridan Rd., Chicago 60613	0.0
+11	Fat Willy's	2416 W. Schubert St., Chicago 60647	0.0
+12	Cho Sun Ok	4200 N. Lincoln Ave., Chicago 60618	0.0
+13	Home Bistro	3404 N. Halsted St., Chicago 60657	0.0
+14	Union Sushi + Barbeque Bar	230 W. Erie St., Chicago 60654	0.0
+15	Socarrat	259 W. 19th St., New York 10011	0.0
+16	Hot Kitchen	104 Second Ave., New York 10003	0.0
+17	Prime & Beyond New York	90 E. 10th St., New York 10003	0.0
+18	Ramen Misoya	129 Second Ave., New York 10003	0.0
+19	Mari Vanna	41 E. 20th St., New York 10001	0.0
+20	Gradisca	126 W. 13th St., New York 10011	0.0
+21	Il Buco Alimentari e Vineria	53 Great Jones St., New York 10012	0.0
+22	Left Bank	117 Perry St., New York 10014	0.0
+23	Saxon + Parole	316 Bowery, New York 10012	0.0
+0	Tertulia	359 Sixth Ave., New York 10014	0.0
+1	Settepani	196 Lenox Ave., New York 10023	0.0
+2	Casa Nonna	310 W. 38th St., New York 10036	0.0
+3	Chez Napoléon	365 W. 50th St., New York 10023	0.0
+4	Don Antonio by Starita	309 W. 50th St., New York 10019	0.0
+5	Lan Sheng	60 W. 39th St., New York 10018	0.0
+6	Miss Korea	10 W. 32nd St., New York 10001	0.0
+7	pizzArte	69 W. 55th St., New York 10019	0.0
+8	Tang Pavilion	65 W. 55th St., New York 10019	0.0
+9	Jungsik	2 Harrison St., New York 10013	2.0
+10	Tiny's	135 West Broadway, New York 10013	0.0
+11	Andaz	1378 First Ave., New York 10021	0.0
+12	Café Mingala	1393B Second Ave., New York 10021	0.0
+13	Fatty Fish	406 E. 64th St., New York 10065	0.0
+14	Elizabeth's Neighborhood Table	680 Columbus Ave., New York 10025	0.0
+15	Sura	2656 Broadway, New York 10025	0.0
+16	Vai	429 Amsterdam Ave., New York 10024	0.0
+17	Battersby	255 Smith St., Brooklyn 11231	0.0
+18	Black Swan	1048 Bedford Ave., Brooklyn 11205	0.0
+19	Bozu	296 Grand St., Brooklyn 11211	0.0
+20	Café Steinhof	422 Seventh Ave., Brooklyn 11215	0.0
+21	Chavela's	736 Franklin Ave., Brooklyn 11238	0.0
+22	Forcella	485 Lorimer St., Brooklyn 11211	0.0
+23	Hibino	333 Henry St., Brooklyn 11201	0.0
+0	Jolie Cantina	241 Smith St., Brooklyn 11231	0.0
+1	Mill Basin Kosher Delicatessen	5823 Ave. T, Brooklyn 11234	0.0
+2	Mtskheta Café	2568 86th St., Brooklyn 11214	0.0
+3	Roebling Tea Room	143 Roebling St., Brooklyn 11211	0.0
+4	The Saint Austere	613 Grand St., Brooklyn 11211	0.0
+5	SoCo	509 Myrtle Ave., Brooklyn 11205	0.0
+6	Samurai Mama	205 Grand St., Brooklyn 11211	0.0
+7	St. Anselm	355 Metropolitan Ave., Brooklyn 11211	0.0
+8	Taci's Beyti	1953-1955 Coney Island Ave., Brooklyn 11223	0.0
+9	Agnanti	19-06 Ditmars Blvd., Astoria 11102	0.0
+10	Alobar	46-42 Vernon Blvd., Long Island City 11101	0.0
+11	Uncle Zhou	83-29 Broadway, Elmhurst 11373	0.0
+12	Keiko à Nob Hill	1250 Jones St., San Francisco 94109	1.0
+13	Hamro Aangan	856 San Pablo Ave., Albany 94706	0.0
+14	Haven	44 Webster St., Oakland 94607	0.0
+15	Nick's Cove	23240 Hwy. 1, Marshall 94940	0.0
+16	Cooking Papa	949 Edgewater Blvd., Ste. A, Foster City 94404	0.0
+17	Naschmarkt	384 E. Campbell Ave., Campbell 95008	0.0
+18	Smoking Pig BBQ	1144 N. 4th St., San Jose 95112	0.0
+19	Mateo's Cocina Latina	214 Healdsburg Ave., Healdsburg 95448	0.0
+20	Michael Jordan's	505 N. Michigan Ave., Chicago 60611	0.0
+21	Pump Room	1301 N. State Pkwy., Chicago 60610	0.0
+22	Greentea	2206 N. Clark St., Chicago 60614	0.0
+23	Roka Akor	456 N. Clark St., Chicago 60654	0.0
+0	Vera	1023 W. Lake St., Chicago 60607	0.0
+1	State Bird Provisions	1529 Fillmore St., San Francisco 94115	1.0
+2	Parallel 37	600 Stockton St., San Francisco 94108	0.0
+3	Park Tavern	1652 Stockton St., San Francisco 94133	0.0
+4	Sichuan Home	5037 Geary Blvd., San Francisco 94118	0.0
+5	AQ	1085 Mission St., San Francisco 94103	0.0
+6	El Huarache Loco	1803 Larkspur Landing Circle, Larkspur 94939	0.0
+7	Ark Grill	724 Main St., Half Moon Bay 94019	0.0
+8	Pastis	447 S. California Ave., Palo Alto 94306	0.0
+9	Redd Wood	6755 Washington St., Yountville 94599	0.0
+10	Yeti	14301 Arnold Dr., Ste. 19, Glen Ellen 95442	0.0
+11	Arti	7282 Sir Francis Drake Blvd., Lagunitas 94938	0.0
+12	Goosefoot	2656 W. Lawrence Ave., Chicago 60625	1.0
+13	Acadia	1639 S. Wabash Ave., Ste. 2F, Chicago 60616	2.0
+14	Cai	2100 S. Archer Ave., Chicago 60616	0.0
+15	Yusho	2853 N. Kedzie Ave., Chicago 60618	0.0
+16	Balena	1633 N. Halsted St., Chicago 60610	0.0
+17	RPM	52 W. Illinois St., Chicago 60654	0.0
+18	Sixteen	401 N. Wabash Ave., Chicago 60611	2.0
+19	Slurping Turtle	116 W. Hubbard St., Chicago 60654	0.0
+20	Au Cheval	800 W. Randolph St., Chicago 60607	0.0
+21	Co.	230 Ninth Ave., New York 10001	0.0
+22	Motorino	349 E. 12th St., New York 10003	0.0
+23	Inatteso Pizzabar Casano	28 West St., New York 10004	0.0
+0	North End Grill	104 North End Ave., New York 10282	0.0
+1	Almayass	24 E. 21st St., New York 10010	0.0
+2	Anjappar	116 Lexington Ave., New York 10016	0.0
+3	NoMad	1170 Broadway, New York 10001	1.0
+4	Kokum	106 Lexington Ave., New York 10016	0.0
+5	Acme	9 Great Jones St., New York 10012	0.0
+6	RedFarm	529 Hudson St., New York 10014	0.0
+7	Bettolona	3143 Broadway, New York 10027	0.0
+8	Jin Ramen	3183 Broadway, New York 10027	0.0
+9	Café China	13 E. 37th St., New York 10016	1.0
+10	Vitae	4 E. 46th St., New York 10017	0.0
+11	Añejo	668 Tenth Ave., New York 10036	0.0
+12	Benares	240 W. 56th St., New York 10022	0.0
+13	Hakkasan	311 W. 43rd St., New York 10036	0.0
+14	Kristalbelli	8 W. 36th St., New York 10018	0.0
+15	Lugo	1 Penn Plaza, New York 10119	0.0
+16	atera	77 Worth St., New York 10013	2.0
+17	Zutto	77 Hudson St., New York 10013	0.0
+18	Yefsi	1481 York Ave., New York 10079	0.0
+19	Caffè Storico	170 Central Park West, New York 10024	0.0
+20	Allswell	124 Bedford Ave., Brooklyn 11211	0.0
+21	Blanca	261 Moore St., Brooklyn 11206	2.0
+22	Bar Corvo	791 Washington Ave., Brooklyn 11238	0.0
+23	Gran Eléctrica	5 Front St., Brooklyn 11201	0.0
+0	Pok Pok Ny	117 Columbia St., Brooklyn 11231	1.0
+1	La Vara	268 Clinton St., Brooklyn 11201	1.0
+2	M Shanghai	292 Grand St., Brooklyn 11211	0.0
+3	Palo Santo	652 Union St., Brooklyn 11215	0.0
+4	Petit Oven	276 Bay Ridge Ave., Brooklyn 11220	0.0
+5	Talde	369 Seventh Ave., Brooklyn 11215	0.0
+6	Casa Enríque	5-48 49th Ave., Long Island City 11101	1.0
+7	Piccola Venezia	42-01 28th Ave., Astoria 11103	0.0
+8	Foragers City Table	300 W. 22nd St., New York 10011	0.0
+9	Sauce	78-84 Rivington St., New York 10002	0.0
+10	Yopparai	151 Rivington St., New York 10002	0.0
+11	Speedy Romeo	376 Classon Ave., Brooklyn 11238	0.0
+12	Enoteca Maria	27 Hyatt St., Staten Island 10301	0.0
+13	Mela Tandoori Kitchen	536 Golden Gate Ave., San Francisco 94102	0.0
+14	Gioia	2240 Polk St., San Francisco 94109	0.0
+15	Copita	739 Bridgeway, Sausalito 94965	0.0
+16	Rangoli	3695 Union Ave., San Jose 95124	0.0
+17	Grange Hall Burger Bar	844 W. Randolph St., Chicago 60607	0.0
+18	Nellcôte	833 W. Randolph St., Chicago 60607	0.0
+19	Chop-Shop	254 Tenth Ave., New York 10001	0.0
+20	Jukai	237 E. 53rd St., New York 10022	0.0
+21	Land of Plenty	204 E. 58th St., New York 10022	0.0
+22	Havana Café	3151 E. Tremont Ave., Bronx 10461	0.0
+23	Reynard	80 Wythe Ave., Brooklyn 11211	0.0
+0	Asian Jewels	133-30 39th Ave., Flushing 11354	0.0
+1	Basil Brick Oven Pizza	28-17 Astoria Blvd., Astoria 11102	0.0
+2	HinoMaru Ramen	33-18 Ditmars Blvd., Astoria 11105	0.0
+3	Natural Tofu & Noodles	40-06 Queens Blvd., Sunnyside 11104	0.0
+4	Bin 5	1233 Bay St., Staten Island 10305	0.0
+5	San Rasa	19 Corson Ave., Staten Island 10301	0.0
+6	Bo Ky	80 Bayard St., New York 10013	0.0
+7	Shanghai Heping	104 Mott St., New York 10013	0.0
+8	Tabaré	221 S. 1st St., Brooklyn 11211	0.0
+9	Comal	2020 Shattuck Ave., Berkeley 94706	0.0
+10	Pläj	333 Fulton St., San Francisco 94102	0.0
+11	Blackwood	2150 Chestnut St., San Francisco 94123	0.0
+12	Yuzuki	598 Guerrero St., San Francisco 94110	0.0
+13	Cosecha	907 Washington St., Oakland 94607	0.0
+14	Vesta	2022 Broadway St., Redwood City 94063	0.0
+15	Ca'Momi	610 1st St., Napa 94558	0.0
+16	Ombra	5310 N. Clark St., Chicago 60640	0.0
+17	Ada St.	1664 N. Ada St., Chicago 60622	0.0
+18	Antique Taco	1360 N. Milwaukee Ave., Chicago 60622	0.0
+19	Black Bull	1721 W. Division St., Chicago 60622	0.0
+20	Briciola	937 N. Damen Ave., Chicago 60622	0.0
+21	Red Door	2118 N. Damen Ave., Chicago 60647	0.0
+22	Trenchermen	2039 W. North Ave., Chicago 60647	0.0
+23	Yuzu	1715 W. Chicago Ave., Chicago 60622	0.0
+0	Bread & Wine	3732 W. Irving Park Rd., Chicago 60618	0.0
+1	Jam	3057 W. Logan Blvd., Chicago	0.0
+2	Bakin' & Eggs	3120 N. Lincoln Ave., Chicago 60657	0.0
+3	Wood	3335 N. Halsted St., Chicago 60657	0.0
+4	Pizzeria da Nella	1443 W. Fullerton Ave., Chicago 60614	0.0
+5	Farmhouse	228 W. Chicago Ave., Chicago	0.0
+6	Untitled Supper Club	111 W. Kinzie St., Chicago	0.0
+7	graham elliot Bistro	841 W. Randolph St., Chicago	0.0
+8	Kai Zan	2557 ½ W. Chicago Ave., Chicago	0.0
+9	EL Ideas	2419 W. 14th St., Chicago 60618	1.0
+10	Corner Social	321 Lenox Ave., New York 10027	0.0
+11	Norma's	119 W. 56th St., New York 10019	0.0
+12	Tavola	488 Ninth Ave., New York 10010	0.0
+13	Bistro SK	273 City Island Ave., Bronx 10464	0.0
+14	El Nuevo Bohío	791 E. Tremont Ave., Bronx 10460	0.0
+15	Mexicosina	503 Jackson Ave., Bronx 10455	0.0
+16	A-Wah	5 Catherine St., New York 10013	0.0
+17	Feast	102 Third Ave., New York 10003	0.0
+18	L'Apicio	13 E. 1st St., New York 10003	0.0
+19	Malai Marke	318 E. 6th St., New York 10003	0.0
+20	Mighty Quinn's	103 Second Ave., New York 10003	0.0
+21	Bhatti	100 Lexington Ave., New York 10016	0.0
+22	Bocca	39 E. 19th St., New York 10003	0.0
+23	Hanjan	36 W. 26th St., New York 10010	0.0
+0	Ootoya	8 W. 18th St., New York 10011	0.0
+1	Barraca	81 Greenwich Ave., New York 10014	0.0
+2	Le Philosophe	55 Bond St., New York 10012	0.0
+3	Murray's Cheese Bar	264 Bleecker St., New York 10014	0.0
+4	Maison Harlem	341 St. Nicholas Ave., New York 10027	0.0
+5	Cata	245 Bowery, New York 10002	0.0
+6	SakaMai	157 Ludlow St., New York 10002	0.0
+7	Caviar Russe	538 Madison Ave., New York 10022	1.0
+8	Crave Fishbar	945 Second Ave., New York 10022	0.0
+9	Obikà	590 Madison Ave., New York 10022	0.0
+10	Stella 34	151 W. 34th St., New York 10001	0.0
+11	Ciccio	190 Sixth Ave., New York 10013	0.0
+12	Cómodo	58 MacDougal St., New York 10012	0.0
+13	Pearl & Ash	220 Bowery, New York 10012	0.0
+14	FP Patisserie	1293 Third Ave., New York 10021	0.0
+15	Maison Kayser	1294 Third Ave., New York 10021	0.0
+16	Moti Mahal Delux	1149 First Ave., New York 10065	0.0
+17	The Nuaa	1122 First Ave., New York 10065	0.0
+18	Andanada	141 W. 69th St., New York 10023	1.0
+19	Neerob	2109 Starling Ave., Bronx 10462	0.0
+20	Ganso Ramen	25 Bond St., Brooklyn 11201	0.0
+21	Lulu & Po	154 Carlton Ave., Brooklyn 11205	0.0
+22	Nightingale 9	329 Smith St., Brooklyn 11231	0.0
+23	Prospect	773 Fulton St., Brooklyn 11217	0.0
+0	Ramen Yebisu	126 N. 6th St., Brooklyn 11211	0.0
+1	Runner & Stone	285 Third Ave., Brooklyn 11215	0.0
+2	Sottocasa	298 Atlantic Ave., Brooklyn 11201	0.0
+3	Zizi Limona	129 Havemeyer St., Brooklyn 11211	0.0
+4	John Brown Smokehouse	10-43 44th Dr., Long Island City 11101	0.0
+5	Zum Stammtisch	69-46 Myrtle Ave., Glendale 11385	0.0
+6	Maysville	17 W. 26th St., New York 10010	0.0
+7	Cull & Pistol	75 Ninth Ave., New York 10011	0.0
+8	Pastai	186 Ninth Ave., New York 10011	0.0
+9	Royal Seafood	103 Mott St., New York 10013	0.0
+10	Oda House	76 Ave. B, New York 10009	0.0
+11	Sushi Dojo	110 First Ave., New York 10009	0.0
+12	Trading Post	170 John St., New York 10038	0.0
+13	ABC Cocina	38 E. 19th St., New York 10003	0.0
+14	Carbone	181 Thompson St., New York 10003	1.0
+15	Lafayette	380 Lafayette St., New York 10003	0.0
+16	Malaparte	753 Washington St., New York 10014	0.0
+17	ABV	1504 Lexington Ave., New York 10029	0.0
+18	J. Restaurant Chez Asta	2479 Frederick Douglass Blvd., New York 10027	0.0
+19	Marcha Cocina	4055 Broadway, New York 10032	0.0
+20	Vinatería	2211 Frederick Douglass Blvd., New York 10026	0.0
+21	Sake Bar Hagi	152 W. 49th St., B1F, New York 10019	0.0
+22	Betony	41 W. 57th St., New York 10019	1.0
+23	The Musket Room	265 Elizabeth St., New York 10012	1.0
+0	Uncle Boons	7 Spring St., New York 10012	1.0
+1	Kaia	1614 Third Ave., New York 10128	0.0
+2	Tanoshi	1372 York Ave., New York 10021	0.0
+3	Ceetay	129 Alexander Ave., Bronx 10454	0.0
+4	Krolewskie Jadlo	694 Manhattan Ave., Brooklyn 11222	0.0
+5	Mayfield	688 Franklin Ave., Brooklyn 11238	0.0
+6	Mominette	221 Knickerbocker Ave., Brooklyn 11237	0.0
+7	Nargis Cafe	2818 Coney Island Ave., Brooklyn 11235	0.0
+8	River Styx	21 Greenpoint Ave., Brooklyn 11222	0.0
+9	Xixa	241 S. 4th St., Brooklyn 11211	0.0
+10	bún-ker	46-63 Metropolitan Ave., Ridgewood 11385	0.0
+11	Il Poeta	98-04 Metropolitan Ave., Forest Hills 11375	0.0
+12	Happy Family Hotpot	36-35 Main St., Flushing 11354	0.0
+13	MP Taverna	31-29 Ditmars Blvd., Astoria 11105	0.0
+14	Mythos	196-29 Northern Blvd., Flushing 11358	0.0
+15	Tang	196-50 Northern Blvd., Flushing 11358	0.0
+16	Ichimura	30 Hudson St., New York 10013	2.0
+17	Charlie Bird	5 King St., New York 10012	0.0
+18	Estela	47 E. Houston St., New York 10012	0.0
+19	Il Bacco	253-24 Northern Blvd., Little Neck 11362	0.0
+20	The Greek	458 Greenwich St., New York 10013	0.0
+21	Falansai	112 Harrison Pl., Brooklyn 11237	0.0
+22	ZZ's Clam Bar	169 Thompson St., New York 10012	1.0
+23	Luksus at Tørst	615 Manhattan Ave., Brooklyn 11222	1.0
+0	The Piggery	1625 W. Irving Park Rd., Chicago 60613	0.0
+1	Central Kitchen	3000 20th St., San Francisco 94110	0.0
+2	M. Y. China	845 Market St., San Francisco 94102	0.0
+3	Back A Yard	80 N. Market St., San Jose 95113	0.0
+4	Bravas	420 Center St., Healdsburg 95448	0.0
+5	Saru	3856 24th St., San Francisco 94114	0.0
+6	Kamdesh	346 14th St., Oakland 94612	0.0
+7	Mount Everest	2598 Telegraph Ave., Berkeley 94704	0.0
+8	Phnom Penh House	251 8th St., Oakland 94067	0.0
+9	Magda Luna	1199 Broadway, Ste. 2, Burlingame 94010	0.0
+10	Oren's Hummus Shop	261 University Ave., Palo Alto 94301	0.0
+11	The Sea	4269 El Camino Real, Palo Alto 94306	0.0
+12	Hakkasan	1 Kearny St., San Francisco 94108	0.0
+13	Goose & Gander	1245 Spring St., St. Helena 94574	0.0
+14	Backyard	6566 Front St., Forestville 95436	0.0
+15	Café Lucia	235 Healdsburg Ave., Ste. 105, Healdsburg 95448	0.0
+16	Campo Fina	330 Healdsburg Ave., Healdsburg 95448	0.0
+17	Glen Ellen Star	13648 Arnold Dr., Glen Ellen 95442	0.0
+18	gather	4539 N. Lincoln Ave., Chicago 60625	0.0
+19	Vincent	1475 W. Balmoral Ave., Chicago 60640	0.0
+20	Enso	1613 N. Damen Ave., Chicago 60647	0.0
+21	Oiistar	1385 N. Milwaukee Ave., Chicago 60622	0.0
+22	Takito Kitchen	2013 W. Division St., Chicago 60622	0.0
+23	Homestyle Taste	3205 S. Halsted St., Chicago 60608	0.0
+0	Elizabeth	4835 N. Western, Unit D, Chicago 60625	1.0
+1	ATK	946 W. Wellington Ave., Chicago 60657	0.0
+2	Milt's Barbecue for the Perplexed	3411 N. Broadway, Chicago 60657	0.0
+3	Rickshaw Republic	2312 N. Lincoln Ave., Chicago 60614	0.0
+4	Pl-zeň	1519 W. 18th St., Chicago 60608	0.0
+5	Bavette's Bar & Boeuf	218 W. Kinzie St., Chicago 60654	0.0
+6	Bub City	435 N. Clark St., Chicago 60654	0.0
+7	The Lobby	108 E. Superior St., Chicago 60611	0.0
+8	Tortoise Club	350 N. State St., Chicago 60654	0.0
+9	bellyQ	1400 W. Randolph St., Chicago 60607	0.0
+10	Embeya	564 W. Randolph St., Chicago 60661	0.0
+11	Grace	652 W. Randolph St., Chicago 60661	3.0
+12	Little Goat Diner	820 W. Randolph St., Chicago 60607	0.0
+13	Rich Table	199 Gough St., San Francisco 94102	0.0
+14	Coqueta	Pier 5, San Francisco 94111	0.0
+15	1601 Bar & Kitchen	1601 Howard St., San Francisco 94103	0.0
+16	Miss Ollie's	901 Washington St., Oakland 94607	0.0
+17	Sir and Star	10000 Sir Francis Drake Blvd., Olema 94950	0.0
+18	Nick's Next Door	11 College Ave., Los Gatos 95030	0.0
+19	Ramen Shop	5812 College Ave., Oakland 94618	0.0
+20	Tribune Tavern	401 13th St., Oakland 94607	0.0
+21	The Pear	720 Main St., Napa 95559	0.0
+22	Chalkboard	29 North St., Healdsburg 95448	0.0
+23	Spinster Sisters	401 S. A St., Santa Rosa 95401	0.0
+0	Nando Milano Trattoria	2114 W. Division St., Chicago 60622	0.0
+1	Fat Rice	2957 W. Diversey Ave., Chicago 60647	0.0
+2	Parson's Chicken & Fish	2952 W. Armitage Ave., Chicago 60647	0.0
+3	Table, Donkey and Stick	2728 W. Armitage Ave., Chicago 60647	0.0
+4	Bar Pastoral	2947 N. Broadway, Chicago 60657	0.0
+5	The Boarding House	720 N. Wells St., Chicago 60654	0.0
+6	Brindille	534 N. Clark St., Chicago 60654	0.0
+7	Siena Tavern	51 W. Kinzie St., Chicago 60654	0.0
+8	Sumi Robata Bar	702 N. Wells St., Chicago 60654	0.0
+9	Sushi Dokku	823 W. Randolph St., Chicago 60607	0.0
+10	Duende	468 19th St., Oakland 94612	0.0
+11	Barrel House Tavern	660 Bridgeway, Sausalito 94965	0.0
+12	Fey	1368 El Camino Real, Menlo Park 94025	0.0
+13	Tanto	1063 E. El Camino Real, Sunnyvale 94087	0.0
+14	Lolinda	2518 Mission St., San Francisco 94110	0.0
+15	Mason Pacific	1358 Mason St., San Francisco 94133	0.0
+16	Padrecito	901 Cole St., San Francisco 94117	0.0
+17	En Hakkore	1840 N. Damen Ave., Chicago 60647	0.0
+18	L' Patron	2815 W. Diversey Ave., Chicago 60647	0.0
+19	Mott St.	1401 N. Ashland Ave., Chicago 60622	0.0
+20	Beatrix	519 N Clark St., Chicago 60654	0.0
+21	Tre Soldi	212 E. Ohio St., Chicago 60611	0.0
+22	La Sirena Clandestina	954 W. Fulton Market, Chicago 60607	0.0
+23	Taketei	1111 W. Berwyn Ave., Chicago 60640	0.0
+0	County	1352 W. Taylor St., Chicago 60607	0.0
+1	Travelle	330 N. Wabash Ave., Chicago 60611	0.0
+2	NEXT	953 W Fulton Market, Chicago 60607	0.0
+3	Kurah	1355 S. Michigan Ave., Chicago 60605	0.0
+4	Joe & MissesDoe	45 E. 1st St., New York 10003	0.0
+5	East 12th Osteria	197 First Ave., New York 10003	0.0
+6	Pagani	289 Bleecker St., New York 10014	0.0
+7	Armani Ristorante	717 5th Ave., New York 10022	0.0
+8	Emilio's Ballato	55 E. Houston St., New York 10012	0.0
+9	Khe-Yo	157 Duane St., New York 10013	0.0
+10	Atrium	15 Main St., Brooklyn 11201	0.0
+11	Tong Sam Gyup Goo Yi	162-23 Depot Rd., Flushing 11358	0.0
+12	Toro	85 Tenth Ave., New York 10011	0.0
+13	Narcissa	21 Cooper Sq., New York 10005	0.0
+14	I Sodi	105 Christopher St., New York 10014	0.0
+15	Piora	430 Hudson St., New York 10014	1.0
+16	Sushi Nakazawa	23 Commerce St., New York 10014	0.0
+17	Barawine	200 Lenox Ave., New York 10027	0.0
+18	The Cecil	210 W. 118th St., New York 10026	0.0
+19	Clement	700 Fifth Ave., New York 10019	0.0
+20	Larb Ubol	480 Ninth Ave., New York 10018	0.0
+21	East Pole	133 E. 65th St., New York 10021	0.0
+22	Gastronomia Culinaria	53 W. 106th St., New York 10025	0.0
+23	Aita	132 Greene Ave., Brooklyn 11238	0.0
+0	Dover	412 Court St., Brooklyn 11231	0.0
+1	Take Root	187 Sackett St., Brooklyn 11231	1.0
+2	M. Wells Steakhouse	43-15 Crescent St., Long Island City 11101	1.0
+3	Venturo Osteria & Wine Bar	44-07 Queens Blvd., Long Island City 11104	0.0
+4	Cafe Katja	79 Orchard St., New York 10002	0.0
+5	Contra	138 Orchard St., New York 10002	0.0
+6	Fung Tu	22 Orchard St., New York 10002	0.0
+7	Wallflower	235 W. 12th St., New York 10014	0.0
+8	Morgan's BBQ	267 Flatbush Ave., Brooklyn 11217	0.0
+9	Sociale	72 Henry St., Brooklyn 11201	0.0
+10	Kang Ho Dong Baekjeong	152-12 Northern Blvd., Flushing 11354	0.0
+11	Cagen	414 E. 9th St., New York 10009	1.0
+12	Somtum Der	85 Ave A., New York 10009	1.0
+13	Cafe El Presidente	30 W. 24th St., New York 10010	0.0
+14	The Gander	15 W. 18th St., New York 10011	0.0
+15	Flat Top	1241 Amsterdam Ave., New York 10027	0.0
+16	Gallagher's	228 W. 52nd St., New York 10019	0.0
+17	Mozzarella & Vino	33 W. 54th St., New York 10019	0.0
+18	Hirohisa	73 Thompson St., New York 10012	1.0
+19	The Regency Bar & Grill	540 Park Ave., New York 10065	0.0
+20	Ristorante Morini	1167 Madison Ave., New York 10028	0.0
+21	Tessa	349 Amsterdam Ave., New York 10024	0.0
+22	Gladys	788 Franklin Ave., Brooklyn 11238	0.0
+23	Lea	1022 Cortelyou Rd., Brooklyn 11218	0.0
+0	The River Café	1 Water St., Brooklyn 11201	1.0
+1	Shalom Japan	301 S. 4th St., Brooklyn 11211	0.0
+2	Snack EOS	522 Ninth Ave., New York 10018	0.0
+3	Delaware and Hudson	135 N. 5th St., Brooklyn 11249	1.0
+4	Wasan	108 E. 4th St., New York 10003	0.0
+5	Gato	324 Lafayette St., New York 10012	0.0
+6	Margaux	5 W. 8th St., New York 10011	0.0
+7	Ivan Ramen	25 Clinton St., New York 10002	0.0
+8	The Simone	151 E. 82nd St., New York 10028	0.0
+9	French Louie	320 Atlantic Ave., Brooklyn 11201	0.0
+10	Bar Primi	325 Bowery, New York 10013	0.0
+11	The Eddy	342 E. 6th St., New York 10003	0.0
+12	Flinders Lane	162 Ave. A, New York 10009	0.0
+13	Huertas	107 First Ave., New York 10003	0.0
+14	Baker & Co.	259 Bleecker St., New York 10014	0.0
+15	Navy	137 Sullivan St., New York 10012	0.0
+16	Bâtard	239 West Broadway, New York 10013	1.0
+17	Racines NY	94 Chambers St., New York 10013	0.0
+18	Il Salumaio	1731 Second Ave., New York 10028	0.0
+19	Awadh	2588 Broadway, New York 10025	0.0
+20	Colonia Verde	219 DeKalb Ave., Brooklyn 11205	0.0
+21	El Born	651 Manhattan Ave., Brooklyn 11222	0.0
+22	Lucky Luna	167 Nassau Ave., Brooklyn 11222	0.0
+23	Meadowsweet	149 Broadway, Brooklyn 11212	1.0
+0	Pickle Shack	256 Fourth Ave., Brooklyn 11215	0.0
+1	Sushi Katsuei	210 Seventh Ave., Brooklyn 11215	0.0
+2	Uma	92-07 Rockaway Beach Blvd., Far Rockaway 11693	0.0
+3	Houdini Kitchen Laboratory	15-63 Decatur St., Ridgewood 11385	0.0
+4	Spicy Lanka	159-23 Hillside Ave., Jamaica 11432	0.0
+5	Hatsuhana	17 E. 48th St., New York 10017	0.0
+6	La Ciccia	291 30th St., San Francisco 94131	0.0
+7	Mama Ji's	4416 18th St., San Francisco 94114	0.0
+8	Alta CA	1420 Market St., San Francisco 94102	0.0
+9	Brenda's	652 Polk St., San Francisco 94102	0.0
+10	Nico	3228 Sacramento St., San Francisco 94115	1.0
+11	1760	1760 Polk St., San Francisco 94109	0.0
+12	Cuisinett	1105 San Carlos Ave., San Carlos 94070	0.0
+13	aliment	786 Bush St., San Francisco 94108	0.0
+14	Stones Throw	1896 Hyde St., San Francisco 94109	0.0
+15	Tosca Café	242 Columbus Ave., San Francisco 94133	0.0
+16	Trattoria da Vittorio	150 W. Portal Ave., San Francisco 94127	0.0
+17	The Cavalier	360 Jessie St., San Francisco 94103	0.0
+18	China Village	1335 Solano Ave., Albany 94706	0.0
+19	Cholita Linda	4923 Telegraph Ave., Oakland 94609	0.0
+20	Desco	499 9th St., Oakland 94607	0.0
+21	Homestead	4029 Piedmont Ave., Oakland 94611	0.0
+22	Hopscotch	1915 San Pablo Ave., Oakland 94612	0.0
+23	Iyasare	1830 4th St., Berkeley 94710	0.0
+0	Osmanthus	6048 College Ave., Oakland 94618	0.0
+1	Oak & Rye	303 N. Santa Cruz Ave., Los Gatos 95030	0.0
+2	Zona Rosa	1411 The Alameda, San Jose 95126	0.0
+3	La Viga	1772 Broadway, Redwood City 94063	0.0
+4	LV Mar	2042 Broadway, Redwood City 94063	0.0
+5	New England Lobster Company	824 Cowan Rd., Burlingame 94010	0.0
+6	Sichuan Chong Qing	211 S. San Mateo Dr., San Mateo 94401	0.0
+7	Vespucci	147 E. 3rd St., San Mateo 94401	0.0
+8	Ciccio	6770 Washington St., Yountville 94599	0.0
+9	Torc	1140 Main St., Napa 94559	0.0
+10	zazu kitchen + farm	6770 McKinley St., Ste. 150, Sebastopol 95472	0.0
+11	Akiko's	431 Bush St., San Francisco 94108	0.0
+12	Kusakabe	584 Washington St., San Francisco 94111	1.0
+13	Ichi Sushi + Ni Bar	3282 Mission St., San Francisco 94110	0.0
+14	Maruya	2931 16th St., San Francisco 94103	0.0
+15	Hong Kong Lounge II	3300 Geary Blvd., San Francisco 94118	0.0
+16	Trou Normand	140 New Montgomery St., San Francisco 94105	0.0
+17	Nido	444 Oak St., Oakland 94607	0.0
+18	Molina	17 Madrona St., Mill Valley 94941	0.0
+19	Café Capistrano	523 Church St., Half Moon Bay 94019	0.0
+20	Liquid Bread	379 E. Campbell Ave., Campbell 95008	0.0
+21	The Table	1110 Willow St., San Jose 95125	0.0
+22	Archetype	1429 Main St., Saint Helena 94574	0.0
+23	Aveline	490 Geary St., San Francisco 94102	0.0
+0	Gaspar	185 Sutter St., San Francisco 94104	0.0
+1	Kin Khao	55 Cyril Magnin, San Francisco 94102	1.0
+2	Lavash	511 Irving St., San Francisco 94122	0.0
+3	alaMar	100 Grand Ave., Ste. 111, Oakland 94612	0.0
+4	Pathos	2430 Shattuck Ave., Berkeley 94704	0.0
+5	The Kenwood	9900 Sonoma Hwy., Kenwood 95452	0.0
+6	Seaside Metal	16222 Main St., Guerneville 95446	0.0
+7	Great China	2190 Bancroft Way, Berkeley 94704	0.0
+8	Kingston 11	2270 Telegraph Ave., Oakland 94601	0.0
+9	Michel Bistro	3343 Lakeshore Ave., Oakland 94601	0.0
+10	4505 Burgers & BBQ	705 Divisadero St., San Francisco 94117	0.0
+11	Monsieur Benjamin	451 Gough St., San Francisco 94102	0.0
+12	Pabu	101 California St., San Francisco 94102	0.0
+13	Wako	211 Clement St., San Francisco 94118	1.0
+14	Shakewell	3407 Lakeshore Dr., Oakland 94610	0.0
+15	The Dawson	730 W. Grand Ave., Chicago 60654	0.0
+16	Nico Osteria	1015 Rush St., Chicago 60611	0.0
+17	Vora	1028 N Clarks St., Chicago 60610	0.0
+18	Dusek's (Board & Beer)	1227 W. 18th St., Chicago 60608	1.0
+19	Gino's East	162 E. Superior St., Chicago 60611	0.0
+20	A10	1462 E. 53rd St., Chicago 60615	0.0
+21	42 Grams	4662 N. Broadway, Chicago 60640	2.0
+22	TWO	1132 W. Grand Ave., Chicago 60642	0.0
+23	Fulton Market Kitchen	311 N. Sangamon St., Chicago 60607	0.0
+0	Herb	5424 N. Broadway, Chicago 60640	0.0
+1	Masada	2206 N. California Ave., Chicago 60647	0.0
+2	Osteria Langhe	2824 W. Armitage Ave., Chicago 60647	0.0
+3	Parachute	3500 N. Elston Ave., Chicago 60618	1.0
+4	The Radler	N. 2375 Milwaukee Ave., Chicago 60647	0.0
+5	Summer House Santa Monica	1954 N. Halsted St., Chicago 60614	0.0
+6	Bottlefork	441 N. Clark St., Chicago 60654	0.0
+7	Celeste	111 W. Hubbard St., Chicago 60622	0.0
+8	Ramen-san	59 W. Hubbard St., Chicago 60654	0.0
+9	Root & Bone	200 E. 3rd St., New York 10009	0.0
+10	The Clocktower	5 Madison Ave., New York 10010	0.0
+11	Babbalucci	331 Lenox Ave., New York 10027	0.0
+12	Chefs Club	275 Mulberry St., New York 10012	0.0
+13	Tuome	536 E. 5th St., New York 10009	0.0
+14	Kiin Thai	36 E. 8th St., New York 10003	0.0
+15	Haldi	102 Lexington Ave., New York 10016	0.0
+16	Aldo Sohm Wine Bar	151 W. 51st St., New York 10019	0.0
+17	Faro	436 Jefferson St., Brooklyn 11237	0.0
+18	Al Seabu	383 Fifth Ave., Brooklyn 11215	0.0
+19	Pier A	22 Battery Pl., New York 10280	0.0
+20	Marta	29 E. 29th St., New York 10016	0.0
+21	Houseman	508 Greenwich St., New York 10018	0.0
+22	Krupa Grocery	231 Prospect Park West, Brooklyn 11215	0.0
+23	Pippali	129 E. 27th St., New York 10016	0.0
+0	Sessanta	60 Thompson St., New York 10012	0.0
+1	Salt + Charcoal	171 Grand St., Brooklyn 11211	0.0
+2	Mar's	34-21 34th Ave., Astoria 11106	0.0
+3	Blenheim	283 W. 12th St., New York 10014	0.0
+4	BLVD Bistro	239 Lenox Ave., New York 10027	0.0
+5	Iki Japanese	133-42 39th Ave., Flushing 10354	0.0
+6	Samudra	75-18 37th Ave., Jackson Heights 11372	0.0
+7	Via Carota	51 Grove St., New York 10014	0.0
+8	Tre Otto	1410 Madison Ave., New York 10029	0.0
+9	Bocelli	1250 Hylan Blvd., Staten Island 10305	0.0
+10	Mario's	1657 Richmond Rd., Staten Island 10304	0.0
+11	cocoron	61 Delancey St., New York 10002	0.0
+12	Patricia's	1082 Morris Park Ave., Bronx 10461	0.0
+13	Louie and Chan	303 Broome St., New York 10002	0.0
+14	Il Gattopardo	13 W. 54th St., New York 10019	0.0
+15	Le Fond	105 Norman Ave., Brooklyn 11222	0.0
+16	Anassa Taverna	200 E. 60th St., New York 10022	0.0
+17	Limani	45 Rockefeller Plaza, New York 10111	0.0
+18	Kao Soy	283 Van Brunt St., Brooklyn 11231	0.0
+19	Semilla	160 Havemeyer St., No. 5, Brooklyn 11211	1.0
+20	Au Za'atar	188 Ave. A, New York 10009	0.0
+21	Bowery Meat Company	9 E. 1st St., New York 10003	0.0
+22	Noreetuh	128 First Ave., New York 10009	0.0
+23	Little Park	85 West Broadway, New York 10007	0.0
+0	Dumpling Galaxy	42-35 Main St., Flushing 11355	0.0
+1	The Bao	13 St. Marks Pl., New York 10003	0.0
+2	Donostia	155 Ave. B, New York 10009	0.0
+3	Dojo Izakaya	38 Ave. B., New York 10009	0.0
+4	Dirt Candy	86 Allen St., New York 10002	0.0
+5	Jora	47-46 11th St, Long Island City 11101	0.0
+6	O Lavrador	138-40 101st Ave., Jamaica 11435	0.0
+7	Risotteria Melotti	309 E. 5th St., New York 10003	0.0
+8	Virginia's	647 E. 11 St., New York 10009	0.0
+9	Wassail	162 Orchard St., New York 10002	0.0
+10	Loi Estiatorio	132 W. 58th St., New York 10019	0.0
+11	Shuko	47 E. 12th St., New York 10003	0.0
+12	O Ya	120 E. 28th St., New York 10016	0.0
+13	Cosme	35 E. 21st St., New York 10010	0.0
+14	Yuzu	350 Lenox Ave., New York 10027	0.0
+15	Eugene & Co.	397 Tompkins Ave., Brooklyn 11216	0.0
+16	Malaysian Kitchen	21 South End Ave., New York 10280	0.0
+17	Untitled	99 Gansevoort St., New York 10014	0.0
+18	The Little Beet Table	333 Park Ave. South, New York 10010	0.0
+19	Gabriel Kreuther	41 W. 42nd St., New York 10036	1.0
+20	The Finch	212 Greene Ave., Brooklyn 11238	1.0
+21	Bricolage	162 Fifth Ave., Brooklyn 11217	0.0
+22	Park Avenue	360 Park Ave. South, New York 10010	0.0
+23	Rebelle	218 Bowery, New York 10012	1.0
+0	L'Antagoniste	238 Malcom X Blvd., Brooklyn 11221	0.0
+1	Park Asia	6521 Eighth Ave., Brooklyn 11220	0.0
+2	Upland	345 Park Ave. South, New York 10019	0.0
+3	Donguri	309 E. 83rd St., New York 10028	0.0
+4	Gastroteca	33-02 34th Ave., Astoria 11106	0.0
+5	Mundo	37-06 36th St., Long Island City 11101	0.0
+6	Santina	820 Washington St., New York 10014	0.0
+7	The Ribbon	20 W. 72nd St., New York 10023	0.0
+8	Nocciola	237 E. 116th St., New York 10029	0.0
+9	Sweet Yummy House	83-13 Broadway, Elmhurst 11373	0.0
+10	Tempura Matsui	222 E. 39th St., New York 10158	1.0
+11	Thai Rock	375 Beach 92nd St., Far Rockaway 11693	0.0
+12	Balvanera	152 Stanton St., New York 10002	0.0
+13	Trattoria Romana da Vittorio	1476 Hylan Blvd., Staten Island 10305	0.0
+14	Dirty French	180 Ludlow St., New York 10002	0.0
+15	Nerai	55 E. 54th St., New York 10022	0.0
+16	Arrogant Swine	173 Morgan Ave., Brooklyn 11237	0.0
+17	Greenpoint Fish & Lobster Co.	114 Nassau Ave., Brooklyn 11222	0.0
+18	Lupulo	835 Sixth Ave., New York 10001	0.0
+19	Russ & Daughters Cafe	127 Orchard St., New York 10002	0.0
+20	Kang Suh	1250 Broadway, New York 10001	0.0
+21	Hometown Bar-B-Que	454 Van Brunt St., Brooklyn 11231	0.0
+22	Okonomi	150 Ainslie St., Brooklyn 11211	0.0
+23	Cherche Midi	282 Bowery, New York 10012	0.0
+0	Casa del Chef Bistro	39-06 64th St., Woodside 11377	0.0
+1	Kura	130 St. Marks Pl., New York 10009	0.0
+2	Streetbird Rotisserie	2149 Frederick Douglass Blvd., New York 10027	0.0
+3	Patroon	160 E. 46th St., New York 10017	0.0
+4	Sushi Yasaka	251 W. 72nd St., New York 10024	0.0
+5	Gregory's 26 Corner Taverna	26-02 23rd Ave., Astoria 11105	0.0
+6	Mu Ramen	12-09 Jackson Ave., Long Island City 11101	0.0
+7	The Black Ant	60 Second Ave., New York 10003	0.0
+8	Oiji	119 First Ave., New York 10003	0.0
+9	Thelma on Clinton	29A Clinton St., New York 10002	0.0
+10	Kung Fu Little Steamed Buns Ramen	811 Eighth Ave., New York 10019	0.0
+11	Kitchen 79	37-70 79th St., Jackson Heights 11372	0.0
+12	Paet Rio	81-10 Broadway, Elmhurst 11373	0.0
+13	Huxley	846 Geary Blvd., San Francisco 94109	0.0
+14	Babushka	1475 Newell Ave., Walnut Creek 94596	0.0
+15	Aster	1001 Guerrero St., San Francisco 94110	1.0
+16	Swaad	498 N. 13th St., San Jose 95112	0.0
+17	Zola	565 Bryant St., Palo Alto 94301	0.0
+18	Dragon Beaux	5700 Geary Blvd., San Francisco 94121	0.0
+19	The Progress	1525 Fillmore St., San Francisco 94115	0.0
+20	Aatxe	2174 Market St., San Francisco 94114	0.0
+21	Mama Papa Lithuania	1241 Park St., Alameda 94501	0.0
+22	Pazzo	1179 Laurel St., San Carlos 94070	0.0
+23	Gintei	235 El Camino Real, San Bruno 94066	0.0
+0	Trestle	531 Jackson St., San Francisco 94133	0.0
+1	Lord Stanley	2065 Polk St., San Francisco 94109	1.0
+2	Cobani	8 W. 25th Ave., San Mateo 94403	0.0
+3	Sushi Yoshizumi	325 E. 4th Ave., San Mateo 94401	1.0
+4	Longbranch Saloon	2512 San Pablo Ave., Berkeley 94702	0.0
+5	Farmhouse Kitchen Thai	710 Florida St., San Francisco 94110	0.0
+6	Outerlands	4001 Judah St., San Francisco 94122	0.0
+7	wonderful	270 Broadway, Millbrae 94030	0.0
+8	398 Brasserie	398 Geary St., San Francisco 94012	0.0
+9	Izakaya Rintaro	82 14th St., San Francisco 94103	0.0
+10	Chilli Padi	366 8th St., Oakland 94607	0.0
+11	Oso	9 E. Napa St., Sonoma 95476	0.0
+12	Millennium	5912 College Ave., Oakland 94618	0.0
+13	Lau Hai San	2597 Senter Rd., San Jose 95111	0.0
+14	Al's Place	1499 Valencia St., San Francisco 94110	1.0
+15	Paprika	3324 24th St., San Francisco 94110	0.0
+16	Imm Thai Street Food	2068 University Ave., Berkeley 94704	0.0
+17	Los Cilantros	3105 Shattuck Ave., Berkeley 94705	0.0
+18	Thai Aroi-Dee	1518 4th St., San Rafael 94901	0.0
+19	Sam's Social Club	1712 Lincoln Ave., Calistoga 94515	0.0
+20	Shizen	370 14th St., San Francisco 94103	0.0
+21	Delizie	1107 San Carlos Ave., San Carlos 94070	0.0
+22	Trabocco	2213 South Shore Center, Alameda 94501	0.0
+23	Orexi	243 W. Portal Ave., San Francisco 94127	0.0
+0	Rusty's Southern	750 Ellis St., San Francisco 94109	0.0
+1	Taqueria San Bruno	1045 San Mateo Ave., San Bruno 94066	0.0
+2	Carmel Pizza Company	2826 Jones St., San Francisco 94133	0.0
+3	Cockscomb	564 4th St., San Francisco 94107	0.0
+4	Tycoon	620 O’Farrell St., San Francisco 94109	0.0
+5	Yi Yuan	1711 El Camino Real, Millbrae 94030	0.0
+6	Tin Vietnamese	937 Howard St., San Francisco 94103	0.0
+7	Octavia	1701 Octavia St., San Francisco 94109	1.0
+8	INDO	3295 El Camino Real, Palo Alto 94306	0.0
+9	Californios	3115 22nd St., San Francisco 94110	1.0
+10	Liholiho Yacht Club	871 Sutter St., San Francisco 94109	0.0
+11	Bradley's Fine Diner	1165 Merill St., Menlo Park 94025	0.0
+12	Walia	2208 Business Cir., San Jose 95128	0.0
+13	STEM Kitchen & Garden	499 Illinois St., San Francisco 94158	0.0
+14	Rose Pistola	532 Columbus Ave., San Francisco 94133	0.0
+15	Bounty Hunter	975 First St., Napa 94559	0.0
+16	Prabh	24 Sunnyside Ave., Mill Valley 94941	0.0
+17	Kitchen Istanbul	349 Clement St., San Francisco 94118	0.0
+18	Flavas Jamaican Grill	314 Linden Ave., South San Francisco 94080	0.0
+19	Myriad	2491 Mission St., San Francisco 94110	0.0
+20	Amoura	713 Linden Ave., South San Francisco 94080	0.0
+21	Rasoi	1425 Burlingame Ave., Burlingame 94010	0.0
+22	Happy Sichuan	1055 El Camino Real, Millbrae 94030	0.0
+23	Belga	2000 Union St., San Francisco 94123	0.0
+0	Il Casaro	348 Columbus Ave., San Francisco 94133	0.0
+1	Mitsunobu	325 Sharon Park Dr., Ste. 2a, Menlo Park 95024	0.0
+2	Orchard City Kitchen	1875 S Bascom Ave., Ste. 190, Campbell 95008	0.0
+3	Omakase	665 Townsend St., San Francisco 94103	1.0
+4	Per Diem	43 Sutter St., San Francisco 94101	0.0
+5	Evangeline	1226 Washington St., Calistoga 94515	0.0
+6	Café Romanat	462 Santa Clara Ave., Oakland 94610	0.0
+7	Valenti & Co.	337 San Anselmo Ave., San Anselmo 94960	0.0
+8	The Commissary	101 Montgomery St., San Francisco 94129	0.0
+9	Lazy Bear	3416 19th St., San Francisco 94110	1.0
+10	High Peaks Kitchen	5299 College Ave., Oakland 94618	0.0
+11	Ramen Gaijin	6948 Sebastopol Ave., Sebastopol 95472	0.0
+12	Kemuri Japanese Barú	2616 Broadway, Redwood City 94063	0.0
+13	Burmatown	60 Corte Madera Ave., Corte Madera 94925	0.0
+14	Harvest Table	1 Main St., Saint Helena 94574	0.0
+15	Prubechu	2847 Mission St., San Francisco 94110	0.0
+16	Infinite Thai Eatery	4301 Piedmont Ave., Oakland 94611	0.0
+17	Royal Indian Grill	629 San Ramon Valley Blvd., Danville 94526	0.0
+18	Dry Creek Kitchen	317 Healdsburg Ave., Healdsburg 95448	0.0
+19	Tuba	1007 Guerrero St., San Francisco 94110	0.0
+20	Doc Ricketts	124 Columbus Ave., San Francisco 94133	0.0
+21	Rasa	209 Park Rd., Burlingame 94010	1.0
+22	Baan	726 San Anselmo Ave., San Anselmo 94960	0.0
+23	Belcampo	1998 Polk St., San Francisco 94109	0.0
+0	San Tung	1031 Irving St., San Francisco 94122	0.0
+1	Tadu	484 Ellis St., San Francisco 94102	0.0
+2	Mourad	140 New Montgomery St., San Francisco 94105	1.0
+3	Oak + Char	217 W. Huron St., Chicago 60654	0.0
+4	Salero	621 W. Randolph St., Chicago 60661	0.0
+5	RPM Steak	66 W. Kinzie St., Chicago 60654	0.0
+6	High Five Ramen	112 N. Green St., Chicago 60607	0.0
+7	ampersand wine bar	4845 N. Damen Ave., Chicago 60625	0.0
+8	Via Lima	4024 N. Lincoln Ave., Chicago 60618	0.0
+9	Ixcateco Grill	3402 W. Montrose Ave., Chicago 60618	0.0
+10	The Blanchard	1935 N. Lincoln Park W., Chicago 60614	0.0
+11	Remington's	20 N. Michigan Ave., Chicago 60602	0.0
+12	NoMI Kitchen	800 N. Michigan Ave., Chicago 60611	0.0
+13	C Chicago	20 W. Kinzie St., Chicago 60654	0.0
+14	Gogi	6240 N.California Ave., Chicago 60659	0.0
+15	Miku Sushi	4514 N. Lincoln Ave., Chicago 60625	0.0
+16	White Oak Tavern & Inn	1200 W. Webster Ave., Chicago 60614	0.0
+17	The Angry Crab	5665 N. Lincoln Ave., Chicago 60659	0.0
+18	Dove's Luncheonette	1545 N. Damen Ave., Chicago 60622	0.0
+19	Community Tavern	4038 N. Milwaukee Ave., Chicago 60641	0.0
+20	mfk.	432 W. Diversey Pkwy., Chicago 60614	0.0
+21	Acanto	18 S. Michigan Ave., Chicago 60602	0.0
+22	Ssyal Ginseng House	4201 W. Lawrence Ave., Chicago 60630	0.0
+23	Bascule Wine Bar	1421 W. Taylor St., Chicago 60607	0.0
+0	Cochon Volant	100 W. Monroe St., Chicago 60603	0.0
+1	Labriola	535 N. Michigan Ave., Chicago 60611	0.0
+2	The Kitchen	316 N. Clark St., Chicago 60654	0.0
+3	Momotaro	820 W. Lake St., Chicago 60607	0.0
+4	Honky Tonk BBQ	1800 S. Racine Ave., Chicago 60608	0.0
+5	Side Door	100 E. Ontario St., Chicago 60611	0.0
+6	Taste of Thai Town	4461 N. Pulaski Rd., Chicago 60630	0.0
+7	Pearl's Southern Comfort	5352 N. Broadway, Chicago 60640	0.0
+8	de Quay	2470 N. Lincoln Ave., Chicago 60614	0.0
+9	Prime & Provisions	222 N. LaSalle St., Chicago 60601	0.0
+10	Bohemian House	11 W. Illinois St., Chicago 60654	0.0
+11	Friendship	2830 N. Milwaukee Ave., Chicago 60618	0.0
+12	Dolce	127 W. Huron St., Chicago 60654	0.0
+13	Arya Bhavan	2508 W. Devon Ave., Chicago 60659	0.0
+14	Izakaya Mita	1960 N. Damen Ave., Chicago 60647	0.0
+15	Staropolska	3030 N. Milwaukee Ave., Chicago 60618	0.0
+16	Charlatan	1329 W. Chicago Ave., Chicago 60642	0.0
+17	Ahjoomah's Apron	218 W. Cermak Rd., Chicago 60616	0.0
+18	Taus Authentic	1846 W. Division St., Chicago 60622	0.0
+19	Juno	2638 N. Lincoln Ave., Chicago 60614	0.0
+20	Luella's Southern Kitchen	4609 N. Lincoln Ave., Chicago 60625	0.0
+21	La Plena	2617 W. Division St., Chicago 60622	0.0
+22	The Franklin Room	675 N. Franklin St., Chicago 60654	0.0
+23	The Promontory	5311 S. Lake Park Ave. West, Chicago 60615	0.0
+0	The Duck Inn	2701 S. Eleanor St., Chicago 60608	0.0
+1	Rural Society	455 N. Park Dr., Chicago 60611	0.0

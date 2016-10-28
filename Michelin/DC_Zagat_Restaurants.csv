@@ -1,0 +1,361 @@
+	title	cuisine	cost	price_level	food_rating	decor_rating	service_rating
+0	Monocacy Crossing Restaurant	American	43.0	M	4.8	4.1	4.6
+1	Rasika West End	Indian	52.0	E	4.8	4.5	4.5
+2	Fiola	Italian	89.0	E	4.8	4.7	4.7
+3	Corduroy		89.0	E	4.8	4.5	4.6
+4	Rasika	Indian	52.0	M	4.8	4.5	4.5
+5	Lucky Corner Vietnamese Cuisine	Vietnamese		M	4.8	3.9	4.3
+6	L'Auberge Chez Francois	French	84.0	VE	4.7	4.6	4.7
+7	Fogo de Chão Brazilian Steakhouse	Brazilian	66.0	E	4.7	4.4	4.4
+8	Tosca	Italian	71.0	E	4.7	4.4	4.6
+9	Chima Brazilian Steakhouse	Steakhouse	69.0	E	4.7	4.7	4.6
+10	Minibar by José Andrés	Eclectic	325.0	VE	4.7	4.7	4.7
+11	The Lafayette	American	80.0	VE	4.7	4.8	4.6
+12	The Bombay Club	Indian	54.0	E	4.7	4.6	4.5
+13	Prime Rib	Steakhouse	90.0	E	4.7	4.5	4.7
+14	Pupatella	Pizza	17.0	M	4.7	3.5	3.8
+15	Marcel's by Robert Wiedmaier	Belgian	103.0	VE	4.7	4.6	4.6
+16	Red Hen	Italian	50.0	M	4.7	4.5	4.4
+17	Zaytinya	Mediterranean	40.0	M	4.7	4.4	4.3
+18	Rose's Luxury		64.0	M	4.7	4.6	4.6
+19	The Inn at Little Washington		180.0	VE	4.7	4.8	4.7
+20	Plume		109.0	VE	4.6	4.8	4.9
+21	Rappahannock Oyster Bar		34.0	M	4.6	3.9	4.2
+22	Menomale	Pizza	20.0	I	4.6	4.1	4.3
+23	Kabob Palace	Middle Eastern	15.0	I	4.6	3.4	3.8
+24	Florida Avenue Grill	Soul Food	17.0	M	4.6	3.2	4.1
+25	Mintwood Place	American	48.0	M	4.6	4.1	4.4
+26	Ruth's Chris Steak House	Steakhouse	66.0	E	4.6	4.4	4.5
+27	Ruth's Chris Steak House	Steakhouse	66.0	E	4.6	4.4	4.5
+28	Donburi	Japanese	16.0	I	4.6	4.1	4.3
+29	SEI	Sushi	41.0	E	4.6	4.6	4.2
+30	Lightfoot	American	52.0	M	4.6	4.7	4.5
+31	Central Michel Richard	French	50.0	E	4.6	4.2	4.4
+32	Ayse Meze Lounge	Mediterranean	36.0	E	4.6	4.3	4.4
+33	Restaurant Eve	New American	98.0	VE	4.6	4.5	4.5
+34	The Tasting Room	American	52.0	E	4.6	4.1	4.4
+35	RT's Restaurant	Cajun	40.0	M	4.6	3.7	4.4
+36	Dutch's Daughter	American	43.0	M	4.6	4.5	4.5
+37	The Oval Room	New American	69.0	E	4.6	4.3	4.5
+38	Brabo	Belgian	64.0	E	4.6	4.3	4.3
+39	BlackSalt Fish Market &amp; Restaurant	Seafood	57.0	E	4.6	4.0	4.2
+40	Izakaya Seki	Japanese	55.0	M	4.6	3.8	4.4
+41	Mike's American	American	30.0	M	4.6	4.4	4.5
+42	Duke's Grocery	British	22.0	I	4.6	4.5	4.1
+43	Ruth's Chris Steak House	Steakhouse	66.0	E	4.6	4.4	4.5
+44	Ruth's Chris Steak House	Steakhouse	66.0	E	4.6	4.4	4.5
+45	SUNdeVICH	Sandwich Shop	14.0	I	4.6	4.0	4.1
+46	Maple Ave Restaurant	American	40.0	M	4.6	3.8	4.4
+47	The Oceanaire Seafood Room	Seafood	64.0	E	4.6	4.4	4.4
+48	Peking Gourmet Inn	Chinese	36.0	M	4.6	3.7	4.2
+49	Ray's The Steaks	Steakhouse	53.0	E	4.6	3.7	4.3
+50	Villa Mozart	Italian	49.0	E	4.6	4.1	4.5
+51	Trummer's On Main		64.0	E	4.6	4.6	4.4
+52	Al Tiramisu	Italian	45.0	E	4.6	4.1	4.4
+53	Ruth's Chris Steak House	Steakhouse	66.0	E	4.6	4.4	4.5
+54	Komi	Greek	176.0	VE	4.6	4.2	4.6
+55	Sushi Taro	Japanese	90.0	E	4.6	4.2	4.4
+56	Little Serow	Thai	68.0	E	4.6	4.0	4.4
+57	IL Pizzico	Italian	43.0	M	4.6	4.1	4.4
+58	Acqua Al 2	Italian	59.0	E	4.6	4.3	4.3
+59	Ruth's Chris Steak House	Steakhouse	66.0	E	4.6	4.4	4.5
+60	Casa Luca	Italian	58.0	M	4.6	4.5	4.6
+61	SUNdeVICH	Sandwich Shop	14.0	I	4.6	4.0	4.1
+62	Tuscarora Mill Restaurant	American	50.0	M	4.6	4.4	4.4
+63	Fiola Mare	Seafood	97.0	E	4.6	4.7	4.6
+64	Blue Duck Tavern	American	70.0	E	4.6	4.5	4.6
+65	Daikaya - Ramen (1F), Izakaya (2F)	Japanese	29.0	M	4.6	4.1	4.2
+66	Nostos Restaurant	Greek	55.0	E	4.6	4.3	4.3
+67	Palm Restaurant	Steakhouse	65.0	E	4.5	4.1	4.5
+68	Restaurant Nora	Organic	80.0	E	4.5	4.3	4.4
+69	Beau Thai Mount Pleasant	Thai	23.0	I	4.5	4.0	4.2
+70	El Pollo Rico	Peruvian	13.0	I	4.5	3.1	4.0
+71	Morton's The Steakhouse		68.0	E	4.5	4.3	4.4
+72	Family Meal		29.0	M	4.5	4.1	4.4
+73	Bonchon		19.0	I	4.5	3.7	4.0
+74	Bonchon Chicken	Korean	19.0	I	4.5	3.7	4.0
+75	Sweetwater Tavern	Southern American	28.0	M	4.5	4.2	4.4
+76	Pho 75	Vietnamese	13.0	I	4.5	3.1	3.8
+77	Sweetwater Tavern	Tex-Mex	28.0	M	4.5	4.2	4.4
+78	Cava Mezze	Greek	28.0	I	4.5	4.0	4.2
+79	Sweetwater Tavern	American	28.0	M	4.5	4.2	4.4
+80	Joe's Seafood, Prime Steak &amp; Stone Crab	Seafood	72.0	E	4.5	4.4	4.4
+81	Granville Moore's		28.0	M	4.5	4.1	4.1
+82	Amsterdam Falafelshop	Middle Eastern	10.0	I	4.5	3.4	4.0
+83	Duangrat's Thai Restaurant	Thai	31.0	M	4.5	4.2	4.4
+84	Montmartre	French	50.0	E	4.5	4.0	4.2
+85	Pearl Dive Oyster Palace	Brunch	35.0	M	4.5	4.2	4.1
+86	Bamian Restaurant	Afghani	22.0	M	4.5	3.9	4.3
+87	Palm Restaurant	Steakhouse	65.0	E	4.5	4.1	4.5
+88	A&amp;J; Restaurant	Chinese	16.0	I	4.5	3.2	3.9
+89	Joe's Noodle House	Chinese	18.0	M	4.5	3.2	3.8
+90	Fleming's Prime Steakhouse &amp; Wine Bar	Steakhouse	55.0	E	4.5	4.2	4.4
+91	PassionFish	Seafood	56.0	E	4.5	4.3	4.3
+92	Bazin's on Church	New American	47.0	E	4.5	4.2	4.3
+93	2941 Restaurant	American	63.0	E	4.5	4.5	4.5
+94	Bombay Bistro	Indian	24.0	M	4.5	3.5	4.0
+95	El Pollo Rico	Latin American	13.0	I	4.5	3.1	4.0
+96	CAVA Mezze Restaurant Rockville	Mediterranean	28.0	I	4.5	4.0	4.2
+97	Black Market Bistro	American	39.0	M	4.5	4.3	4.4
+98	Lost Dog Cafe		19.0	M	4.5	4.1	4.1
+99	REINA modern latin bistro	Latin American	43.0	M	4.5	4.4	4.4
+100	Morton's The Steakhouse		68.0	E	4.5	4.3	4.4
+101	BLT Steak		70.0	E	4.5	4.2	4.3
+102	Morton's The Steakhouse		68.0	E	4.5	4.3	4.4
+103	Ravi Chatkhara	Pakistani		I	4.5	2.8	3.4
+104	Chuy's	Tex-Mex	19.0	I	4.5	4.3	4.2
+105	Chuy's	Tex-Mex	19.0	I	4.5	4.3	4.2
+106	Thai Basil	Thai	20.0	M	4.5	3.2	4.0
+107	G by Mike Isabella	Italian	30.0	M	4.5	4.0	4.2
+108	Vidalia	American	71.0	E	4.5	4.3	4.3
+109	Equinox		69.0	E	4.5	4.1	4.4
+110	A&amp;J;	Chinese	16.0	M	4.5	3.2	3.9
+111	The Capital Grille		61.0	E	4.5	4.3	4.4
+112	1789 Restaurant	American	69.0	E	4.5	4.5	4.6
+113	Vermilion	American	55.0	E	4.5	4.3	4.4
+114	Pho75	Vietnamese	13.0	I	4.5	3.1	3.8
+115	Lost Dog Cafe		19.0	M	4.5	4.1	4.1
+116	Osteria Morini	Italian	49.0	M	4.5	4.4	4.1
+117	Pho 75	Vietnamese	13.0	I	4.5	3.1	3.8
+118	Kotobuki	Japanese	27.0	M	4.5	3.0	3.8
+119	Mandalay Restaurant &amp; Cafe	Burmese	31.0	M	4.5	3.5	4.0
+120	Morton's The Steakhouse		68.0	E	4.5	4.3	4.4
+121	El Pollo Rico	Peruvian	13.0	I	4.5	3.1	4.0
+122	Amsterdam Falafelshop	Falafel	10.0	I	4.5	3.4	4.0
+123	BonChon Chicken	Chicken	20.0	M	4.5	3.7	3.9
+124	Lost Dog Cafe	American	19.0	M	4.5	4.1	4.1
+125	Beau Thai - Shaw	Thai	23.0	I	4.5	4.0	4.2
+126	Amsterdam Falafelshop	Middle Eastern	10.0	I	4.5	3.4	4.0
+127	Chuy's Tex-Mex To Go	Tex-Mex	19.0	I	4.5	4.3	4.2
+128	BonChon Chicken	Korean	19.0	M	4.5	3.7	4.0
+129	Plaka Grill	Greek	15.0	I	4.5	3.6	4.2
+130	Chuy's	Tex-Mex	19.0	I	4.5	4.3	4.2
+131	Obelisk	Italian	87.0	VE	4.5	3.9	4.5
+132	Bayou Bakery, Coffee Bar &amp; Eatery		17.0	M	4.5	4.2	4.1
+133	Water &amp; Wall Restaurant	New American	39.0	M	4.5	4.2	4.3
+134	Bibiana	Italian	50.0	E	4.5	4.3	4.3
+135	Orchard Restaurant	Eclectic	29.0	M	4.5	4.2	4.5
+136	The Capital Grille		61.0	E	4.5	4.3	4.4
+137	The Capital Grille		61.0	E	4.5	4.3	4.4
+138	Thai Square	Thai	27.0	M	4.5	3.5	4.0
+139	701 Restaurant	American	53.0	E	4.5	4.4	4.5
+140	El Chucho - Cocina Superior	Mexican	22.0	I	4.5	4.1	4.0
+141	Carlyle	American	33.0	M	4.5	4.3	4.4
+142	Filomena Ristorante	Italian	47.0	M	4.5	4.4	4.4
+143	It's About Thyme	European	54.0	M	4.5	4.2	4.4
+144	2 Amys	Pizza	25.0	M	4.5	3.7	4.0
+145	Taco Bamba	Mexican	14.0	I	4.5	3.1	4.0
+146	Isabella's Taverna &amp; Tapas Bar	Spanish	32.0	M	4.5	4.1	4.3
+147	Lost Dog Cafe	Pizza	19.0	M	4.5	4.1	4.1
+148	Co Co. Sala	Eclectic	34.0	M	4.5	4.4	4.2
+149	7th Hill Pizza - Palisades	Pizza	19.0	M	4.5	3.4	4.0
+150	PassionFish Bethesda	Seafood	56.0	E	4.5	4.3	4.3
+151	Shamshiry	Persian	21.0	M	4.5	3.1	3.8
+152	Cava Mezze	Greek	28.0	M	4.5	4.0	4.2
+153	Bistro Bis	French	54.0	E	4.5	4.2	4.3
+154	Le Diplomate	French	52.0	M	4.5	4.6	4.3
+155	Bistro Provence	French	80.0	E	4.5	4.4	4.2
+156	Ris	American	56.0	E	4.5	4.3	4.5
+157	Bonchon Chicken	Korean	20.0	M	4.5	3.7	3.9
+158	Plaka Grill	Greek	15.0	M	4.5	3.6	4.2
+159	Morton's The Steakhouse		68.0	E	4.5	4.3	4.4
+160	Pacci's Neapolitan Pizzeria	Pizza	26.0	M	4.5	3.6	4.2
+161	Magnolias at the Mill	American	35.0	M	4.5	4.5	4.4
+162	Bistrot Lepic &amp; Wine Bar	French	51.0	E	4.5	4.1	4.3
+163	Four Sisters Restaurant	Vietnamese	26.0	M	4.5	4.2	4.3
+164	Brasserie Beck	Belgian	49.0	E	4.5	4.2	4.3
+165	Bangkok Golden	Laotian	25.0	M	4.5	3.7	4.2
+166	Bonchon Arlington	Chicken	19.0	I	4.5	3.7	4.0
+167	Amsterdam Falafelshop	Falafel	10.0	I	4.5	3.4	4.0
+168	BonChon Woodbridge	Chicken	19.0	I	4.5	3.7	4.0
+169	Bayou Bakery, Coffee Bar &amp; Eatery		17.0	M	4.5	4.2	4.1
+170	Volt	American	83.0	VE	4.5	4.4	4.5
+171	Table	European	52.0	E	4.5	4.2	4.2
+172	Estadio	Spanish	48.0	M	4.5	4.3	4.2
+173	Toki Underground	Asian	23.0	M	4.5	4.0	4.0
+174	Ruan Thai	Thai	21.0	M	4.5	3.4	4.0
+175	Bistro L'Hermitage	French	53.0	E	4.5	4.4	4.5
+176	BOURBON STEAK	Steakhouse	94.0	E	4.5	4.4	4.5
+177	Jaleo	Spanish	42.0	M	4.4	4.2	4.2
+178	Banh Mi DC Sandwich	Vietnamese	11.0	I	4.4	3.3	3.7
+179	La Canela	Peruvian	35.0	M	4.4	4.4	4.3
+180	Legal Sea Foods	Seafood	37.0	M	4.4	4.0	4.2
+181	Proof	American	45.0	E	4.4	4.2	4.3
+182	Compass Rose	Eclectic	36.0	M	4.4	4.2	4.3
+183	&amp;pizza;	Pizza	13.0	I	4.4	3.8	4.1
+184	Rural Society	Argentinean	83.0	M	4.4	4.3	4.4
+185	Cava Grill	Mediterranean	12.0	I	4.4	3.8	4.1
+186	Trapezaria Mediterranian Kuzina	Greek	37.0	M	4.4	4.2	4.2
+187	Legal Sea Foods	Seafood	37.0	M	4.4	4.0	4.2
+188	Ravi Kabob House II	Pakistani	15.0	M	4.4	2.7	3.8
+189	Indique	Indian	33.0	M	4.4	3.8	4.0
+190	Five Guys Burgers and Fries	Fast Food	11.0	I	4.4	3.4	4.1
+191	Sakedokoro Makoto	Japanese	115.0	E	4.4	4.0	4.1
+192	&amp;pizza;	Pizza	13.0	I	4.4	3.8	4.1
+193	Kazan Restaurant	Turkish	51.0	M	4.4	3.5	4.3
+194	Kapnos	Greek	52.0	M	4.4	4.2	4.1
+195	Thunder Burger &amp; Bar	Burger	22.0	M	4.4	4.1	4.1
+196	Mellow Mushroom	Pizza	19.0	M	4.4	4.0	4.0
+197	The Partisan	American	53.0	M	4.4	4.3	4.3
+198	The Liberty Tavern	American	30.0	M	4.4	4.1	4.1
+199	Jackson's Mighty Fine Food and Lucky Lounge	American	28.0	M	4.4	4.1	4.3
+200	Chart House		49.0	E	4.4	4.4	4.2
+201	Cafe Bonaparte	Cafe	22.0	M	4.4	4.0	4.2
+202	The Wine Kitchen	American	44.0	M	4.4	4.3	4.3
+203	Masala Art	Indian	39.0	M	4.4	3.8	4.1
+204	T.H.A.I. In Shirlington	Thai	23.0	M	4.4	3.9	4.2
+205	Bistro Cacao	French	36.0	E	4.4	4.2	4.3
+206	Cava Grill	Greek	12.0	I	4.4	3.8	4.1
+207	Cubano's	Cuban	25.0	M	4.4	4.0	4.2
+208	Masala Art	Indian	39.0	M	4.4	3.8	4.1
+209	Burger Tap &amp; Shake	Burger	15.0	I	4.4	3.7	4.1
+210	Haandi Indian Cuisine	Indian	31.0	M	4.4	3.6	4.1
+211	&amp;pizza;	Pizza	13.0	I	4.4	3.8	4.1
+212	Cafe Nola	American	27.0	M	4.4	4.0	4.2
+213	Belga Café	Belgian	37.0	M	4.4	3.9	4.0
+214	Campono	Sandwich Shop	18.0	I	4.4	3.9	4.1
+215	Doi Moi	Asian	49.0	M	4.4	4.3	3.9
+216	Eat the Rich	Oyster Bar	37.0	I	4.4	4.5	4.3
+217	&amp;pizza;	Pizza	13.0	I	4.4	3.8	4.1
+218	Pizzeria Orso	Pizza	24.0	M	4.4	3.7	4.1
+219	MoCo's Founding Farmers	American	32.0	M	4.4	4.2	4.1
+220	Hank's Oyster Bar	Oyster Bar	32.0	M	4.4	4.0	4.2
+221	Mark's Duck House	Chinese	27.0	M	4.4	2.9	3.5
+222	Leopold's Kafe	Cafe	36.0	M	4.4	4.3	4.0
+223	Grapeseed	New American	46.0	M	4.4	4.1	4.3
+224	Hong Kong Palace	Chinese	18.0	M	4.4	3.5	3.6
+225	Mellow Mushroom	Pizza	19.0		4.4	4.0	4.0
+226	Le Grenier	French	37.0	M	4.4	4.3	4.4
+227	Siroc Restaurant	Italian	46.0	E	4.4	3.9	4.1
+228	Society Fair			I	4.4	4.6	0.0
+229	Beuchert’s Saloon	American	39.0	E	4.4	4.3	4.3
+230	El Mariachi Restaurant	Mexican	24.0	M	4.4	3.7	4.3
+231	Legal Sea Foods	Seafood	37.0	M	4.4	4.0	4.2
+232	La Bergerie	French	60.0	E	4.4	4.2	4.3
+233	Legal Sea Foods	Seafood	37.0	M	4.4	4.0	4.2
+234	Ghibellina	Italian	35.0	M	4.4	4.3	4.3
+235	Dukem Ethiopian Restaurant	Ethiopian	30.0	M	4.4	3.3	3.9
+236	Cacique Restaurant	Spanish	28.0	M	4.4	4.0	4.3
+237	Sushi Damo	Japanese	37.0	M	4.4	4.1	4.0
+238	&amp;pizza;	Pizza	13.0	I	4.4	3.8	4.1
+239	Me Jana	Middle Eastern	37.0	M	4.4	4.2	4.3
+240	Cava Grill	Greek	12.0	I	4.4	3.8	4.1
+241	Mitsitam Native Foods Café	Cafe	20.0	M	4.4	3.9	3.5
+242	Ravi Kabob House	Pakistani	15.0	M	4.4	2.7	3.8
+243	&amp;pizza;	Pizza	13.0	I	4.4	3.8	4.1
+244	Cava Grill	Mediterranean	12.0	I	4.4	3.8	4.1
+245	Lupo Verde	Italian	39.0	M	4.4	4.3	4.2
+246	Hank's Oyster Bar	Oyster Bar	32.0	M	4.4	4.0	4.2
+247	Piola	Pizza	22.0	M	4.4	4.0	4.1
+248	Toro Toro	Latin American	38.0	E	4.4	4.2	3.9
+249	Cava Grill	Mediterranean	12.0	I	4.4	3.8	4.1
+250	Wiseguy NY Pizza	Pizza	12.0	I	4.4	3.5	3.8
+251	Oyamel Cocina Mexicana	Mexican	42.0	M	4.4	4.3	4.2
+252	Yuan Fu Vegetarian	Chinese	20.0	M	4.4	3.2	4.0
+253	Jaleo	Spanish	42.0	M	4.4	4.2	4.2
+254	Lincoln	American	31.0	M	4.4	4.5	4.3
+255	Iron Gate Restaurant	Mediterranean	51.0	M	4.4	4.5	4.2
+256	KAZ Sushi Bistro	Sushi	57.0	E	4.4	3.4	3.9
+257	Piola		22.0	I	4.4	4.0	4.1
+258	Bastille	French	52.0	E	4.4	3.9	4.2
+259	Cava Grill	Mediterranean	12.0	I	4.4	3.8	4.1
+260	Sakuramen Ramen Bar	Ramen	18.0	M	4.4	3.8	4.0
+261	Founding Farmers DC	American	32.0	M	4.4	4.2	4.1
+262	Taqueria Nacional	Mexican	12.0	I	4.4	3.9	3.8
+263	Hank's Oyster Bar	Oyster Bar	32.0	M	4.4	4.0	4.2
+264	Le Refuge Restaurant	French	48.0	E	4.4	4.0	4.3
+265	Et Voila!	Belgian	42.0	M	4.4	3.5	4.0
+266	Sunflower Vegetarian Restaurant	Vegetarian	19.0	M	4.4	3.5	4.3
+267	PHO DC	Vietnamese	23.0	M	4.4	3.9	4.2
+268	Bangkok 54	Thai	26.0	M	4.4	4.0	4.2
+269	Cork Wine Bar	American	44.0	M	4.4	4.1	4.1
+270	YUZU Japanese Dining	Japanese	46.0	M	4.4	4.0	4.1
+271	Jaleo	Spanish	42.0	M	4.4	4.2	4.2
+272	Good Stuff Eatery	American	16.0	I	4.4	3.8	3.9
+273	Ozzie's Good Eats	Italian	25.0	M	4.4	4.3	4.5
+274	Flight Wine Bar	Italian	28.0	E	4.4	4.5	4.6
+275	&amp;pizza;	Pizza	13.0	I	4.4	3.8	4.1
+276	Cava Grill	Greek	12.0	I	4.4	3.8	4.1
+277	Cava Grill	Mediterranean	12.0	I	4.4	3.8	4.1
+278	Founding Farmers Tysons	American	32.0	M	4.4	4.2	4.1
+279	Cava Grill	Greek	12.0	I	4.4	3.8	4.1
+280	Wiseguy New York Pizza	Pizza	12.0	I	4.4	3.5	3.8
+281	&amp;pizza;	Pizza	13.0	I	4.4	3.8	4.1
+282	Acadiana Restaurant	Contemporary Louisiana	45.0	E	4.4	4.3	4.3
+283	Sunflower Vegetarian Restaurant	Vegetarian	19.0	M	4.4	3.5	4.3
+284	The Source	Asian	67.0	E	4.4	4.2	4.2
+285	Del Campo	Latin American	62.0	E	4.4	4.1	4.0
+286	Boqueria Washington DC	Spanish	37.0	M	4.4	4.3	4.0
+287	La Chaumiere	French	59.0	E	4.4	4.2	4.3
+288	Coastal Flats	Seafood	30.0	M	4.4	4.2	4.3
+289	Green Pig Bistro	American	35.0	M	4.4	4.1	4.2
+290	Oohh's &amp; Aahh's	Soul Food	19.0	M	4.4	2.8	3.8
+291	La Ferme Restaurant	French	56.0	E	4.4	4.6	4.4
+292	Charlie Palmer Steak	American	68.0	E	4.4	4.4	4.3
+293	Coastal Flats	American	30.0	M	4.4	4.2	4.3
+294	I Ricchi	Italian	72.0	E	4.4	4.1	4.2
+295	Dolce Vita Cucina Italiana	Italian	30.0	M	4.4	3.9	4.3
+296	Smoke &amp; Barrel	Barbecue	29.0	M	4.4	3.9	4.0
+297	Ford's Fish Shack	Seafood	27.0	M	4.4	4.0	4.3
+298	Wildwood Kitchen	American	60.0	E	4.4	4.1	4.2
+299	La Limena	Peruvian	31.0	M	4.4	3.9	4.2
+300	Mia's Pizzas	Pizza	19.0	M	4.4	3.9	3.8
+301	Mykonos Grill	Greek	35.0	M	4.4	4.2	4.1
+302	Cava Grill	Greek	12.0	I	4.4	3.8	4.1
+303	Samantha's Restaurant	Mexican	29.0	M	4.4	3.3	4.2
+304	Good Stuff Eatery	Burger	16.0	I	4.4	3.8	3.9
+305	Good Stuff Eatery	Burger	16.0	M	4.4	3.8	3.9
+306	&amp;pizza;	Pizza	13.0	I	4.4	3.8	4.1
+307	Fords Fish Shack - South Riding	Seafood	27.0	M	4.4	4.0	4.3
+308	Mellow Mushroom	Pizza	19.0		4.4	4.0	4.0
+309	Cava Grill	Mediterranean	12.0	I	4.4	3.8	4.1
+310	Artie's	American	33.0	M	4.4	4.1	4.4
+311	Cava Grill	Greek	12.0	I	4.4	3.8	4.1
+312	Tachibana Japanese Restaurant	Japanese	36.0	M	4.4	3.5	3.8
+313	Il Canale	Italian	34.0	M	4.4	3.7	4.0
+314	Burger Tap &amp; Shake Foggy Bottom	Burger	15.0	I	4.4	3.7	4.1
+315	Coastal Flats	Seafood	30.0	M	4.4	4.2	4.3
+316	Cafe Divan	Turkish	25.0	M	4.4	4.0	4.1
+317	the Wine Kitchen on the Creek	New American	44.0	M	4.4	4.3	4.3
+318	sweetgreen	Salad Shop	12.0	I	4.3	3.6	4.1
+319	sweetgreen	Salad Shop	12.0	I	4.3	3.6	4.1
+320	Sea Catch Restaurant	Seafood	48.0	M	4.3	4.2	4.1
+321	Surfside	Mexican	19.0	I	4.3	3.6	3.9
+322	Lebanese Taverna	Lebanese	27.0	M	4.3	3.9	4.0
+323	Four Sisters Grill	Vietnamese	18.0	I	4.3	3.8	4.1
+324	We, The Pizza	Pizza	13.0	M	4.3	3.7	3.9
+325	TaKorean | The Yards DC	Barbecue	12.0	I	4.3	3.6	3.9
+326	Lyon Hall	French	30.0	M	4.3	4.0	4.1
+327	Lebanese Taverna Cafe	Lebanese	27.0	M	4.3	3.9	4.0
+328	Al Dente Italian Restaurant D.C.	Italian	45.0	E	4.3	3.7	3.5
+329	Etto	Italian	38.0	M	4.3	4.0	4.1
+330	Ledo Pizza	Pizza		M	4.3	3.5	4.0
+331	Lebanese Taverna	Lebanese	27.0	M	4.3	3.9	4.0
+332	Mari Vanna DC	Russian	42.0	E	4.3	4.5	4.1
+333	matchbox	American	29.0	M	4.3	4.1	4.1
+334	Pi Pizzeria	Pizza	19.0	I	4.3	4.0	3.7
+335	Banana Cafe &amp; Piano Bar	Cuban	25.0	M	4.3	3.8	4.1
+336	matchbox	American	29.0	M	4.3	4.1	4.1
+337	Big Bear Cafe	Coffee Shop	16.0	M	4.3	4.3	4.0
+338	Honey Pig Gooldaegee Korean BBQ	Korean	24.0	M	4.3	3.2	3.7
+339	Pi Pizzeria - DC	Pizza	19.0	M	4.3	4.0	3.7
+340	Georgia Brown's	American	44.0	M	4.3	4.1	4.2
+341	Mandu	Korean	34.0	M	4.3	3.9	4.1
+342	Rakuya	Japanese	32.0	M	4.3	3.8	4.0
+343	Ardeo + Bardeo	New American	44.0	M	4.3	4.0	4.2
+344	Sichuan Jin River	Chinese	16.0	M	4.3	3.3	3.8
+345	RANGE	American	65.0	E	4.3	4.0	3.9
+346	Fire Works Pizza - Courthouse	Pizza	22.0	M	4.3	3.9	4.1
+347	Tavira Restaurant	Portuguese	45.0	E	4.3	4.2	4.1
+348	Bar Pilar	American	33.0	M	4.3	4.1	4.2
+349	Woodward Table	American	45.0	M	4.3	4.2	4.1
+350	Minerva Indian Cuisine	Indian	18.0	M	4.3	3.4	3.7
+351	Ledo Pizza	Pizza		M	4.3	3.5	4.0
+352	Lebanese Taverna Restaurant Pentagon	Lebanese	27.0	M	4.3	3.9	4.0
+353	Lebanese Taverna	Lebanese	27.0	M	4.3	3.9	4.0
+354	Fire Works	Pizza	22.0	M	4.3	3.9	4.1
+355	Bobby Van's Grill	American	56.0	M	4.3	4.1	4.2
+356	Raku	Asian	32.0	M	4.3	3.8	4.0
+357	McCormick &amp; Schmick's Seafood &amp; Steaks		42.0	E	4.3	4.1	4.1
+358	Bond 45	Italian	80.0	E	4.3	4.4	4.2
+359	sweetgreen	Salad Shop	12.0	I	4.3	3.6	4.1

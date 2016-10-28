@@ -1,0 +1,419 @@
+	Restaurant_Name	Address	Rating
+0	Abbey Pub	3420 W. Grace St.Chicago, IL 60618	12.0
+1	Adobo Grill	1610 N. Wells St.Chicago, IL 60610	12.0
+2	Agami	4712 N. Broadway St.Chicago, IL 60640	12.0
+3	Allgauer's	Hilton Lisle/Naperville3003 Corporate West Dr.Lisle, IL 60532	12.0
+4	Amarind's	6822 W. North Ave.Chicago, IL 60707	12.0
+5	Antico Posto	Oakbrook Center118 Oakbrook Ctr.Oak Brook, IL 60523	12.0
+6	Artopolis Bakery Cafe & Agora	306 S. Halsted St.Chicago, IL 60661	12.0
+7	Athena Greek Restaurant	212 S. Halsted St.Chicago, IL 60661	12.0
+8	Bacchanalia	2413 S. Oakley Ave.Chicago, IL 60608	12.0
+9	Bar Takito	201 N. Morgan St.Chicago, IL 606	12.0
+0	Bella Bacino's	75 E. Wacker Dr.Chicago, IL 60601	12.0
+1	BellyQ	1400 W. Randolph St.Chicago, IL 60607	12.0
+2	The Berghoff	17 W. Adams St.Chicago, IL 60603	12.0
+3	Bin 36	161 N. Jefferson St.Chicago, IL 60661	12.0
+4	Birch River Grill	75 W. Algonquin Rd.Arlington Heights, IL 60005	12.0
+5	Bistro Campagne	4518 N. Lincoln Ave.Chicago, IL 60625	12.0
+6	Bistrot Zinc	1131 N. State St.Chicago, IL 60610	12.0
+7	Blue Fin Sushi Bar	1952 W. North Ave.Chicago, IL 60622	12.0
+8	The Boarding House	720 N. Wells St.Chicago, IL 60654	12.0
+9	Bob Chinn's Crab House	393 S. Milwaukee Ave.Wheeling, IL 60090	12.0
+0	Butcher & The Burger	1021 W. Armitage Ave.Chicago, IL 60614	12.0
+1	Cafe Ba-Ba-Reeba!	2024 N. Halsted St.Chicago, IL 60614	12.0
+2	Cafe Selmarie	4729 N. Lincoln Ave.Chicago, IL 60625	12.0
+3	Cafe Spiaggia	One Magnificent Mile Building980 N. Michigan Ave.Chicago, IL 60611	12.0
+4	California Pizza Kitchen	551 Oak Brook CenterOak Brook, IL 60521	12.0
+5	California Pizza Kitchen	52 E. Ohio St.Chicago, IL 60611	12.0
+6	California Pizza Kitchen	Arlington Town Square3 S. EvergreenArlington Heights, IL 60005	12.0
+7	California Pizza Kitchen	Cantera28258 Diehl Rd.Warrenville, IL 60555	12.0
+8	California Pizza Kitchen	Westfield Old Orchard4999 Old Orchard CenterSkokie, IL 60077	12.0
+9	California Pizza Kitchen	Deer Park Town Center20502 North Rand Rd.Deer Park, IL 60010	12.0
+0	California Pizza Kitchen	Geneva Commons1202 Commons Dr.Geneva, IL 60134	12.0
+1	California Pizza Kitchen	Woodfield Village Green1550 E. Golf Rd.Schaumburg, IL 60173	12.0
+2	Cape Cod Room	The Drake Hotel140 E. Walton St.Chicago, IL 60611	12.0
+3	Carson's The Place for Ribs	612 N. Wells St.Chicago, IL 60654	12.0
+4	Catch 35	Leo Burnett Building35 W. Wacker Dr.Chicago, IL 60601	12.0
+5	Chama Gaucha	3008 Finley Rd.Downers Grove, IL 60515	12.0
+6	The Cheesecake Factory	The John Hancock Center875 N. Michigan Ave.Chicago, IL 60611	12.0
+7	Chicago Chop House	60 W. Ontario St.Chicago, IL 60610	12.0
+8	Club Lucky	1824 W. Wabansia Ave.Chicago, IL 60622	12.0
+9	The Clubhouse	298 Oakbrook CenterOak Brook, IL 60523	12.0
+0	CoCoRo	668 N. Wells St.Chicago, IL 60654	12.0
+1	Cucina Paradiso	814 North Blvd.Oak Park, IL 60302	12.0
+2	Daily Bar & Grill	4560 N. Lincoln Ave.Chicago, IL 60657	12.0
+3	Demera Ethiopian Restaurant	4801 N. Broadway St.Chicago, IL 60640	12.0
+4	Dine	Crowne Plaza Hotel Chicago Metro733 W. Madison St.Chicago, IL 60661	12.0
+5	D&J; Bistro	First Bank Plaza466 S. Rand Rd.Lake Zurich, IL 60047	12.0
+6	Dolce Italian	The Godfrey Hotel Chicago127 W. Huron St.Chicago, IL 606	12.0
+7	Don Juan in Edison Park	6730 North Northwest HighwayChicago, IL 60631	12.0
+8	E + O Food and Drink	125 Randhurst Village Dr.Mount Prospect, IL 60056	12.0
+9	EJ's Place	10027 N. Skokie Blvd.Skokie, IL 60077	12.0
+0	El Nandu	2731 W. Fullerton St.Chicago, IL 60647	12.0
+1	Emilio's Tapas Bar & Restaurant	4100 Roosevelt Rd.Hillside, IL 601	12.0
+2	Emilio's Tapas Sol y Nieve	215 E. Ohio St.Chicago, IL 606	12.0
+3	Erie Cafe	536 W. Erie St.Chicago, IL 60654	12.0
+4	Fadó	100 W. Grand Ave.Chicago, IL 60654	12.0
+5	Fish Bar	2956 N. Sheffield Ave.Chicago, IL 60657	12.0
+6	Fogo de Chão	661 N. LaSalle St.Chicago, IL 60654	12.0
+7	Franco's Ristorante	300 W. 31st St.Chicago, IL 60616	12.0
+8	Geja's Cafe	340 W. Armitage Ave.Chicago, IL 60614	12.0
+9	Gene & Georgetti	500 N. Franklin St.Chicago, IL 60654	12.0
+0	Geppetto's	113 N. Oak Park Ave.Oak Park, IL 60301	12.0
+1	Goose Island Brewery	1800 N. Clybourn St.Chicago, IL 606	12.0
+2	Grand Lux Cafe	600 N. Michigan Ave.Chicago, IL 60611	12.0
+3	The Grill on the Alley	The Westin Michigan Avenue Chicago909 N. Michigan Ave.Chicago, IL 60611	12.0
+4	Gusto Italiano	Carillon Shopping Center1470 Waukegan Rd.Glenview, IL 60025	12.0
+5	Hackney's on Harms	1241 Harms Rd.Glenview, IL 60025	12.0
+6	Harry Caray's	33 W. Kinzie St.Chicago, IL 60654	12.0
+7	Harry Caray's	Holiday Inn & Suites10233 W. Higgins Rd.Rosemont, IL 60018	12.0
+8	Heaven on Seven	Garland Building, Seventh Floor111 N. Wabash Ave.Chicago, IL 60602	12.0
+9	Heaven on Seven on Rush	600 N. Michigan Ave.Chicago, IL 606	12.0
+0	House of Emperor	1212 S. Naper Blvd., Ste. 123Naperville, IL 60540	12.0
+1	Il Poggiolo	8 E. First St.Hinsdale, IL 60521	12.0
+2	Indian Garden	2546 W. Devon Ave.Chicago, IL 60659	12.0
+3	Irazu	1865 N. Milwaukee Ave.Chicago, IL 60647	12.0
+4	The Irish Oak	3511 N. Clark St.Chicago, IL 60657	12.0
+5	Jack's on Halsted	3201 N. Halsted St.Chicago, IL 60657	12.0
+6	Jake Melnick's Corner Tap	41 E. Superior St.Chicago, IL 60611	12.0
+7	Kamehachi	1320 Shermer Rd.Northbrook, IL 60062	12.0
+8	Kamehachi	1531 N. Wells St.Chicago, IL 60610	12.0
+9	Katsu Japanese Restaurant	2651 W. Peterson Ave.Chicago, IL 606	12.0
+0	The Kerryman 	661 N. Clark St.Chicago, IL 606	12.0
+1	Kohan Japanese Restaurant	730 W. Maxwell St.Chicago, IL 60607	12.0
+2	L'Anne	281 Town SquareWheaton, IL 60189	12.0
+3	La Petite Folie	Hyde Park Shopping Center1504 East 55th St.Chicago, IL 60615	12.0
+4	La Sardine	111 N. Carpenter St.Chicago, IL 606	12.0
+6	Lawry's The Prime Rib	100 E. Ontario St.Chicago, IL 60611	12.0
+7	Maki Sushi	12 S. Northwest Hwy.Park Ridge, IL 60068	12.0
+8	Maple Tree Inn	13301 S. Western Ave.Blue Island, IL 60406	12.0
+9	Marrakech Cuisine	1413 N. Ashland Ave.Chicago, IL 60622	12.0
+0	Maya Del Sol	144 S. Oak Park Ave.Oak Park, IL 60302	12.0
+1	McCormick & Schmick's	41 E. Chestnut St.Chicago, IL 60611	12.0
+2	Mercadito	108 W. Kinzie St.Chicago, IL 60654	12.0
+3	Mia Francesca	3311 N. Clark St.Chicago, IL 60657	12.0
+4	Mirabell	3454 W. Addison Ave.Chicago, IL 60618	12.0
+5	Mirai Sushi	2020 W. Division St.Chicago, IL 60622	12.0
+6	Mity Nice Bar & Grill	Water Tower Place835 N. Michigan Ave.Chicago, IL 60611	12.0
+7	Mythos	2030 W. Montrose Ave.Chicago, IL 606	12.0
+8	Nacional 27	325 W. Huron St.Chicago, IL 60654	12.0
+9	Nando Milano Trattoria	2114 W. Division St.Chicago, IL 606	12.0
+0	Nick's Fishmarket	10275 West Higgins Rd.Rosemont, IL 60018	12.0
+1	Northdown Cafe & Taproom	3244 N. Lincoln Ave.Chicago, IL 60657	12.0
+2	Nosh	211 James St.Geneva, IL 60134	12.0
+3	Parthenon	314 S. Halsted St.Chicago, IL 60661	12.0
+4	Penny's Noodle Shop	3400 N. Sheffield Ave.Chicago, IL 60657	12.0
+5	Penny's Noodle Shop	950 W. Diversey Pkwy.Chicago, IL 60614	12.0
+6	Pho Xe Tang	4953 N. Broadway St.Chicago, IL 60640	12.0
+7	Phoenix	2131 S. Archer Ave.Chicago, IL 60616	12.0
+8	Prasino	93 S. La Grange Rd.La Grange, IL 60525	12.0
+9	Reza's Restaurant	Oak Brook Tower40 N. Tower Rd.Oak Brook, IL 60523	12.0
+0	Rivers	The Chicago Mercantile Exchange30 S. Wacker Dr.Chicago, IL 60606	12.0
+1	Rockit Bar & Grill	22 W. Hubbard St.Chicago, IL 60654	12.0
+2	Roots Handmade Pizza	1924 W. Chicago Ave.Chicago, IL 60622	12.0
+3	Rose Angelis	1314 W. Wrightwood Ave.Chicago, IL 60614	12.0
+4	Rosebud Theater District	3 First National Plaza70 W. Madison St.Chicago, IL 60602	12.0
+5	RPM Italian	"52 W. Illinois St.Chicago, IL 60654 | Menu
+
+ |"	12.0
+6	Russian Tea Time	77 E. Adams St.Chicago, IL 60603	12.0
+7	Sai Cafe	2010 N. Sheffield Ave.Chicago, IL 60614	12.0
+8	Santorini	800 W. Adams St.Chicago, IL 60607	12.0
+9	Seven Lions	130 S. Michigan Ave.Chicago, IL 606	12.0
+0	Shula's Steak House	Sheraton Grand Chicago301 E. North Water St.Chicago, IL 60611	12.0
+1	Siam Cafe	4712 N. Sheridan Rd.Chicago, IL 60640	12.0
+2	Simply It	2269 N. Lincoln Ave.Chicago, IL 60614	12.0
+3	Sluggers World Class Sports Bar & Grill	3540 N. Clark St.Chicago, IL 60657	12.0
+4	Smith & Wollensky	Marina City318 N. State St.Chicago, IL 60654	12.0
+5	South Water Kitchen	Hotel Monaco225 N. Wabash Ave.Chicago, IL 60601	12.0
+6	STK Chicago	Museum of Broadcast Communications9 W. Kinzie St.Chicago, IL  606	12.0
+7	Sullivan's Steakhouse	415 N. Dearborn St.Chicago, IL 60654	12.0
+8	Sushi Para II	2256 N. Clark St.Chicago, IL 60614	12.0
+9	Tanoshii Sushi Mike's	720 W. Randolph St.Chicago, IL 606	12.0
+0	Tavern at the Park	130 E. Randolph St.Chicago, IL 60601	12.0
+1	Texas de Brazil	Woodfield Mall5 Woodfield MallSchaumburg, IL 60173	12.0
+2	Thai Pastry & Restaurant	4925 N. Broadway St.Chicago, IL 60640	12.0
+3	312 Chicago	Hotel Allegro Chicago136 N. LaSalle St.Chicago, IL 60602	12.0
+4	Tiny Lounge	4352 N. Leavitt St.Chicago, IL 606	12.0
+5	Tre Kronor	3258 W. Foster Ave.Chicago, IL 60625	12.0
+6	Tuscany	550 S. Milwaukee Ave.Wheeling, IL 60090	12.0
+7	Twin Anchors Restaurant & Tavern	1655 N. Sedgwick St.Chicago, IL 60614	12.0
+8	Twisted Spoke	501 N. Ogden Ave.Chicago, IL 60622	12.0
+9	Union Sushi + Barbeque Bar	230 W. Erie St.Chicago, IL 60654	12.0
+0	A Tavola	2148 W. Chicago Ave.Chicago, IL 60622	13.0
+1	Abigail's American Bistro	493 Roger Williams Ave.Highland Park, IL 60035	13.0
+2	Acanto	18 S. Michigan Ave.Chicago, IL 60603	13.0
+3	Azucar 	2647 N. Kedzie Ave.Chicago, IL 60647	13.0
+4	Bangers & Lace	1670 W. Division St.Chicago, IL 606	13.0
+5	Benny’s Chop House	444 N. Wabash Ave.Chicago, IL 606	13.0
+6	Big Star	1531 N. Damen Ave.Chicago, IL 606	13.0
+7	Bistro Monet	462 N. Park Blvd.Glen Ellyn, IL 60137	13.0
+8	Bodhi Thai Bistro	6211 Roosevelt Rd.Berwyn, IL 60402	13.0
+9	Bricks Pizza	1909 N. Lincoln Ave.Chicago, IL 60614	13.0
+0	Cafe Absinthe	1954 W. North Ave.Chicago, IL 60622	13.0
+1	Campagnola	815 Chicago Ave.Evanston, IL 60202	13.0
+2	The Capital Grille	Wyndham Chicago Hotel633 N. St. Clair St.Chicago, IL 60611	13.0
+3	Carlucci Rosemont	MB Financial Building6111 N. River Rd.Rosemont, IL 60018	13.0
+4	Carmine's	1043 N. Rush St.Chicago, IL 60611	13.0
+5	Chez Joel	1119 W. Taylor St.Chicago, IL 60607	13.0
+6	Chicago Cut Steakhouse	"300 N. LaSalle St.Chicago, IL 60654 | Menu
+
+ |"	13.0
+7	Chicago Kalbi Restaurant	3752 W. Lawrence Ave.Chicago, IL 60625	13.0
+8	Cindy's	Chicago Athletic Association Hotel12 S. Michigan Ave.Chicago, IL 606	13.0
+9	Coco Pazzo Cafe	636 N. St. Clair St.Chicago, IL 60611	13.0
+0	Cooper’s	1232 W. Belmont Ave.Chicago, IL 60657	13.0
+1	de cero	814 W. Randolph St.Chicago, IL 60607	13.0
+2	Del Frisco’s Double Eagle Steak House	Esquire Theater58 E. Oak St.Chicago, IL 60611	13.0
+3	Di Pescara	Northbrook Court2124 Northbrook Ct.Northbrook, IL 60062	13.0
+4	Ditka's	Tremont Hotel100 E. Chestnut St.Chicago, IL 60611	13.0
+5	DMK Burger Bar	2954 N. Sheffield Ave.Chicago, IL 60657	13.0
+6	D.O.C.	2602 N. Clark St.Chicago, IL 606	13.0
+7	Double A	108 W. Kinzie St.Chicago, IL 60654	13.0
+8	Emperor's Choice	2238 S. Wentworth Ave.Chicago, IL 60616	13.0
+9	ENO	InterContinental Chicago Magnificent Mile505 N. Michigan Ave.Chicago, IL 60611	13.0
+0	Filini	Radisson Blu Aqua Hotel Chicago221 N. Columbus Dr.Chicago, IL 60601	13.0
+1	Fleming's Prime Steakhouse & Wine Bar	25 E. Ohio St.Chicago, IL 606	13.0
+2	Fleming's Prime Steakhouse & Wine Bar	960 Milwaukee Ave.Lincolnshire, IL 60069	13.0
+3	Found Kitchen & Social House	1631 Chicago Ave.Evanston, IL 60201	13.0
+4	Francesca’s Amici	174 N. York Rd.Elmhurst, IL 60126	13.0
+5	Francesca's on Taylor	1400 W. Taylor St.Chicago, IL 60607	13.0
+6	Frasca Pizzeria & Wine Bar	3358 N. Paulina St.Chicago, IL 60657	13.0
+7	GreenRiver	Northwestern Medicine259 E. Erie St., 18th floorChicago, IL 606	13.0
+8	The Grille on Laurel	181 E. Laurel Ave.Lake Forest, IL 60045	13.0
+9	Hoyt's	Wyndham Grand Chicago Riverfront71 E. Wacker Dr.Chicago, IL 60601	13.0
+0	Hugo's Frog Bar & Fish House	55 S. Main St.Naperville, IL 60540	13.0
+1	Hugo's Frog Bar & Fish House	1024 N. Rush St.Chicago, IL 60611	13.0
+2	Imperial Lamian	6 W. Hubbard St.Chicago, IL 606	13.0
+3	Indie Cafe	5951 N. Broadway St.Chicago, IL 60660	13.0
+4	The J. Parker	1816 N. Clark St., 13th FloorChicago, IL 60614	13.0
+5	Jin Ju	5203 N. Clark St.Chicago, IL 60640	13.0
+6	Joe's Seafood Prime Steak & Stone Crab	60 E. Grand Ave.Chicago, IL 60611	13.0
+7	Kanela Breakfast Club	3231 N. Clark St.Chicago, IL 60657	13.0
+8	Kinzie Chophouse	400 N. Wells St.Chicago, IL 60610	13.0
+9	La Sirena Clandestina	954 W. Fulton MarketChicago, IL 60607	13.0
+0	La Taberna Tapas	1301 S. Halsted St.Chicago, IL 60607	13.0
+1	Las Palmas	1835 W. North Ave.Chicago, IL 60622	13.0
+2	Le Bouchon	1958 N. Damen Ave.Chicago, IL 60647	13.0
+3	Le Colonial	937 N. Rush St.Chicago, IL 60611	13.0
+4	Lillie's Q	1856 W. North Ave.Chicago, IL 60622	13.0
+5	The Lucky Monk	105 Hollywood Blvd.South Barrington, IL 60010	13.0
+6	LuxBar	18 E. Bellevue Pl.Chicago, IL 60611	13.0
+7	Macarena Tapas	618 S. Rte. 59Naperville, IL 60540	13.0
+8	Makisu Sushi Lounge & Grill	Village Crossing Shopping Center7150 Carpenter Rd.Skokie, IL 60077	13.0
+9	Mon Ami Gabi	Oakbrook Shopping Center260 Oakbrook Ctr.Oak Brook, IL 60523	13.0
+0	Mon Ami Gabi	The Belden Stratford2300 N. Lincoln Park W.Chicago, IL 60614	13.0
+1	MorSo	340 W. Armitage Ave.Chicago, IL 60614	13.0
+2	Morton's The Steakhouse	65 E. Wacker Pl.Chicago, IL 60601	13.0
+3	Morton's The Steakhouse	1751 Freedom Dr.Naperville, IL 60563	13.0
+4	Morton's The Steakhouse	699 Skokie Blvd.Northbrook, IL 60062	13.0
+5	Morton's The Steakhouse	Columbia Centre III9525 W. Bryn Mawr Ave.Rosemont, IL 60018	13.0
+6	Morton's The Steakhouse	1470 McConnor Pkwy.Schaumburg, IL 60173	13.0
+7	Morton's The Steakhouse	Newberry Plaza1050 N. State St.Chicago, IL 60610	13.0
+8	Mrs. Murphy & Sons Irish Bistro	3905 N. Lincoln Ave.Chicago, IL 60613	13.0
+9	Mundial Cocina Mestiza	1640 W. 18th St.Chicago, IL 60608	13.0
+0	Nellcote	833 W. Randolph St.Chicago, IL 60607	13.0
+1	Nieto’s	429 Temple Ave.Highland Park, IL 60035	13.0
+2	Oceanique	505 Main St.Evanston, IL 60202	13.0
+3	Old Town Social	455 W. North Ave.Chicago, IL 60610	13.0
+4	Osteria Via Stato	620 N. State St.Chicago, IL 60610	13.0
+5	The Palm	Swissôtel Chicago323 E. Wacker Dr.Chicago, IL 60601	13.0
+6	Petterino's	150 N. Dearborn St.Chicago, IL 60601	13.0
+7	Piece	1927 W. North Ave.Chicago, IL 60622	13.0
+8	Pingpong	3322 N. Broadway Ave.Chicago, IL 606	13.0
+9	Pops for Champagne	Tree Studios601 N. State St.Chicago, IL 60610	13.0
+0	Public Landing	200 W. Eighth St.Lockport, IL 60441	13.0
+1	The Purple Pig	"500 N. Michigan Ave.Chicago, IL 60611 | Menu
+
+ | Photos
+
+ "	13.0
+2	Quartino	626 N. State St.Chicago, IL 60654	13.0
+3	Ramen-San	59 W. Hubbard St.Chicago, IL 60654	13.0
+4	Rebar	Trump International Hotel & Tower Chicago401 N. Wabash Ave.Chicago, IL 606	13.0
+5	Red Door	2118 N. Damen Ave.Chicago, IL 606	13.0
+6	Reno	2607 N. Milwaukee Ave.Chicago, IL 60647	13.0
+7	Revolution Brewing	2323 N. Milwaukee Ave.Chicago, IL 60647	13.0
+8	Rise Sushi & Sake Lounge	3401 N. Southport Ave.Chicago, IL 60657	13.0
+9	Riva	Navy Pier700 E. Grand Ave.Chicago, IL 60611	13.0
+0	RL	115 E. Chicago Ave.Chicago, IL 60611	13.0
+1	Rosebud on Rush	720 N. Rush St.Chicago, IL 60611	13.0
+2	Rosebud Steakhouse	192 E. Walton St.Chicago, IL 60611	13.0
+3	RPM Steak	66 W. Kinzie St.Chicago, IL 60654 	13.0
+4	Ruth's Chris Steak House	431 N. Dearborn St.Chicago, IL 60610	13.0
+5	Salero	621 W. Randolph St.Chicago, IL 606	13.0
+6	Shaw's Crab House	21 E. Hubbard St.Chicago, IL 60611	13.0
+7	Siena Tavern	51 W. Kinzie St.Chicago, IL 60654	13.0
+8	Signature Room at the 95th	John Hancock Center875 N. Michigan Ave.Chicago, IL 60611	13.0
+9	Sola	3868 N. Lincoln Ave.Chicago, IL 60613	13.0
+0	Sono Wood Fired	1582 N. Clybourn Ave.Chicago, IL 606	13.0
+1	Southport Grocery & Cafe	3552 N. Southport Ave.Chicago, IL 60657	13.0
+2	Stella Barra Pizzeria	"1954 N. Halsted St.Chicago, IL 60614 | Menu
+
+
+ "	13.0
+3	SugarToad	Hotel Arista2139 City Gate Ln.Naperville, IL 60563	13.0
+4	Sumi Robata Bar	702 N. Wells St.Chicago, IL 606	13.0
+5	Sun Wah B-B-Q Restaurant	5041 N. Broadway St.Chicago, IL 60640	13.0
+6	Swift & Sons	1000 W. Fulton MarketChicago, IL 606	13.0
+7	Table Fifty-Two	52 W. Elm St.Chicago, IL 60610	13.0
+8	Taus Authentic Food & Drink	1846 W. Division St.Chicago, IL 606	13.0
+9	Thalia Spice	833 W. Chicago Ave.Chicago, IL 60642	13.0
+0	Tin Fish	18201 Harlem Ave.Tinley Park, IL 60477	13.0
+1	Tokio Pub	Streets of Woodfield1900 E. Higgins Rd.Schaumburg, IL 60173	13.0
+2	Top Notch Beefburgers	2116 W. 95th St.Chicago, IL 606	13.0
+3	Topo Gigio	1516 N. Wells St.Chicago, IL 606	13.0
+4	Trattoria Trullo	4767 N. Lincoln Ave.Chicago, IL 60625	13.0
+5	Tuscany	1014 W. Taylor St.Chicago, IL 60607	13.0
+6	Vera Chicago	1023 W. Lake St.Chicago, IL 60607	13.0
+7	Vinci	1732 N. Halsted St.Chicago, IL 60614	13.0
+8	Vines on Clark	3554 N. Clark St.Chicago, IL 60657	13.0
+9	Vivo	838 W. Randolph St.Chicago, IL 60607	13.0
+0	White Fence Farm	11700 Joliet Rd.Lemont, IL 60439	13.0
+1	Wildfire	159 W. Erie St.Chicago, IL 60654	13.0
+2	Wildfish	730 Waukegan Rd.Deerfield, IL 600	13.0
+3	ZED451	739 N. Clark St.Chicago, IL 60654	13.0
+0	Ada St.	1664 N. Ada St.Chicago, IL 60642	14.0
+1	Anteprima	5316 N. Clark St.Chicago, IL 60640	14.0
+2	Arun's	4156 N. Kedzie Ave.Chicago, IL 60618	14.0
+3	Au Cheval	"800 W. Randolph St.Chicago, IL 60707 | Menu
+
+ |"	14.0
+4	Autre Monde Cafe & Spirits	6727 W. Roosevelt Rd.Berwyn, IL 60402	14.0
+5	The Aviary	955 W. Fulton MarketChicago, IL 606	14.0
+6	Bar Toma	110 E. Pearson St.Chicago, IL 60611	14.0
+7	Bavette's Bar & Boeuf	"218 W. Kinzie St.Chicago, IL 60654 | Menu
+
+ |"	14.0
+8	The Bedford	1612 W. Division St.Chicago, IL 60622	14.0
+9	Big Jones	5347 N. Clark St.Chicago, IL 60640	14.0
+0	Bistronomic	840 N. Wabash Ave.Chicago, IL 60611	14.0
+1	Bohemian House	11 W. Illinois St.Chicago, IL 606	14.0
+2	Brindille	534 N. Clark St.Chicago, IL 60654	14.0
+3	Café des Architectes	Sofitel Chicago Water Tower20 E. Chestnut St.Chicago, IL 60611	14.0
+4	Chicago q	1160 N. Dearborn St.Chicago, IL 60610	14.0
+5	Chilam Balam	3023 N. Broadway St.Chicago, IL 60657	14.0
+6	Coast Sushi Bar	2045 N. Damen Ave.Chicago, IL 60647	14.0
+7	Cumin	1414 N. Milwaukee Ave.Chicago, IL 60622	14.0
+8	Davanti Enoteca	1359 W. Taylor St.Chicago, IL 60607	14.0
+9	Fat Rice	"2957 W. Diversey Ave.Chicago, IL 60647 | Menu
+
+ |"	14.0
+0	Fountainhead	1970 W. Montrose Ave.Chicago, IL 606	14.0
+1	Frontier	1072 N. Milwaukee Ave.Chicago, IL 60642 	14.0
+2	Gemini Bistro	2075 N. Lincoln Ave.Chicago, IL 60614	14.0
+3	Gibsons Bar & Steakhouse	1028 N. Rush St.Chicago, IL 60611	14.0
+4	Gibsons Bar & Steakhouse	5464 N. River Rd.Rosemont, IL 60018	14.0
+5	Gilt Bar	230 W. Kinzie St.Chicago, IL 60654	14.0
+6	Gioco	1312 S. Wabash St.Chicago, IL 60605	14.0
+7	Girl & The Goat	"809 W. Randolph St.Chicago, IL 60607 | Menu
+
+ |"	14.0
+8	GT Fish & Oyster	"531 N. Wells St.Chicago, IL 60654 | Menu
+
+ | Photos
+
+ "	14.0
+9	HotChocolate	1747 N. Damen Ave.Chicago, IL 60647	14.0
+0	Inovasi	28 E. Center Ave.Lake Bluff, IL 60044	14.0
+1	Jam	3057 W. Logan Blvd.Chicago, IL 60647	14.0
+2	Kama Indian Bistro	9 S. La Grange Rd.La Grange, IL 60525	14.0
+3	Kiki's Bistro	900 N. Franklin St.Chicago, IL 60610	14.0
+4	Kuma's Corner	2900 W. Belmont Ave.Chicago, IL 60618	14.0
+5	Little Goat Diner	820 W. Randolph St.Chicago, IL 60607	14.0
+6	Lockwood	Palmer House Hilton17 E. Monroe St., Lobby levelChicago, IL 60603	14.0
+7	Longman & Eagle	2657 N. Kedzie Ave.Chicago, IL 60647	14.0
+8	Lovells of Lake Forest	915 S. Waukegan Rd.Lake Forest, IL 60045	14.0
+9	Masada	2206 N. California Ave.Chicago, IL 606	14.0
+0	Maude’s Liquor Bar	840 W. Randolph St.Chicago, IL 60607	14.0
+1	Mercat a la Planxa	The Renaissance Blackstone Chicago638 S. Michigan Ave.Chicago, IL 60605	14.0
+2	Mexique	1529 W. Chicago Ave.Chicago, IL 60642	14.0
+3	Michael Jordan's Steak House	InterContinental Chicago Magnificent Mile505 N. Michigan Ave.Chicago, IL 60611	14.0
+4	Naha	500 N. Clark St.Chicago, IL 60610	14.0
+5	Nico Osteria	Thompson Chicago1015 N. Rush St.Chicago, IL 60610	14.0
+6	Old Oak Tap	2109 W. Chicago Ave.Chicago, IL 60622	14.0
+7	Ombra	5310 N. Clark St.Chicago, IL 606	14.0
+8	Osteria La Madia	59 W. Grand Ave.Chicago, IL 60654	14.0
+9	Osteria Langhe	2824 W. Armitage Ave.Chicago, IL 606	14.0
+0	Owen & Engine	2700 N. Western Ave.Chicago, IL 60647	14.0
+1	Parachute	3500 N. Elston Ave.Chicago, IL 60618	14.0
+2	Piccolo Sogno	464 N. Halsted St.Chicago, IL 60642	14.0
+3	The Portage	3938 N. Central Ave.Chicago, IL 60634	14.0
+4	Prosecco	710 N. Wells St.Chicago, IL 60610	14.0
+5	River Roast	315 N. LaSalle St.Chicago, IL 606	14.0
+6	Roy's	One Superior Place720 N. State St.Chicago, IL 60654	14.0
+7	Rural Society	Loews Chicago Hotel455 North Park Dr.Chicago, IL 606	14.0
+8	Ruxbin	851 N. Ashland Ave.Chicago, IL 60622	14.0
+9	Sable Kitchen & Bar	Hotel Palomar Chicago505 N. State St.Chicago, IL 60654	14.0
+0	Salpicon	1252 N. Wells St.Chicago, IL 60610	14.0
+1	Slurping Turtle	116 W. Hubbard St.Chicago, IL 60654	14.0
+2	The Tavern	519 N. Milwaukee Ave.Libertyville, IL 60048	14.0
+3	Taxim	1558 N. Milwaukee Ave.Chicago, IL 60622	14.0
+4	Tocco	1266 N. Milwaukee Ave.Chicago, IL 60622	14.0
+5	Trattoria No. 10	10 N. Dearborn St.Chicago, IL 60602	14.0
+6	Trenchermen	2039 W. North Ave.Chicago, IL 60647	14.0
+7	Vermilion	10 W. Hubbard St.Chicago, IL 60610	14.0
+8	The Violet Hour	1520 N. Damen Ave.Chicago, IL 606	14.0
+9	Vivere	The Italian Village, 1st Floor71 W. Monroe St.Chicago, IL 60603	14.0
+0	White Oak Tavern & Inn	1200 W. Webster Ave.Chicago, IL 606	14.0
+1	Yusho	2853 N. Kedzie Ave.Chicago, IL 60618	14.0
+0	Acadia	1639 S. Wabash Ave.Chicago, IL 60616	15.0
+1	avec	615 W. Randolph St.Chicago, IL 60661	15.0
+2	Balena	"1633 N. Halsted St.Chicago, IL 60614 | Menu
+
+ |"	15.0
+3	Blackbird	"619 W. Randolph St.Chicago, IL 60661 | Menu
+
+ |"	15.0
+4	The Bristol	2152 N. Damen Ave.Chicago, IL 60647	15.0
+5	Coco Pazzo	300 W. Hubbard St.Chicago, IL 60610	15.0
+6	CURRENT	W Chicago - Lakeshore644 N. Lake Shore Dr.Chicago, IL 60611	15.0
+7	Frontera Grill	"445 N. Clark St.Chicago, IL 60610 | Menu
+
+
+ "	15.0
+8	Goosefoot	2656 W. Lawrence Ave.Chicago, IL 60625	15.0
+9	Green Zebra	1460 W. Chicago Ave.Chicago, IL 60622	15.0
+0	mk	868 N. Franklin St.Chicago, IL 60610	15.0
+1	Momotaro	820 W. Lake St.Chicago, IL 60607	15.0
+2	Monteverde	"1020 W. Madison St.Chicago, IL 60607
+ |"	15.0
+3	North Pond	"2610 N. Cannon Dr.Chicago, IL 60614 | Menu
+
+ |"	15.0
+4	Perennial Virant	Hotel Lincoln1800 N. Lincoln Ave.Chicago, IL 60614	15.0
+5	Prairie Grass Cafe	601 Skokie Blvd.Northbrook, IL 60062	15.0
+6	The Publican	837 W. Fulton MarketChicago, IL 60607	15.0
+7	Sepia	123 N. Jefferson St.Chicago, IL 60661	15.0
+8	Sunda	110 W. Illinois St.Chicago, IL 60654	15.0
+9	Tallgrass	1006 S. State St.Lockport, IL 60441	15.0
+0	Terzo Piano	Modern Wing of the Art Institute of Chicago159 E. Monroe St.Chicago, IL 60603	15.0
+1	Urbanbelly	1400 W. Randolph St.Chicago, IL 60607	15.0
+0	Schwa	"1466 N. Ashland Ave.Chicago, IL 60622 | Menu
+
+ |"	16.0
+1	Sixteen	Trump International Hotel & Tower Chicago401 N. Wabash Ave.Chicago, IL 60611	16.0
+2	Spiaggia	One Magnificent Mile, 2nd Floor980 N. Michigan Ave.Chicago, IL 60611	16.0
+3	Topolobampo	"445 N. Clark St.Chicago, IL 60610 | Menu
+
+
+ "	16.0
+0	Everest	"Chicago Stock Exchange440 S. La Salle St., 40th Fl.Chicago, IL 60605 | Menu
+
+ | Photos
+
+ "	17.0
+1	Grace	"652 W. Randolph St.Chicago, IL 60661 | Menu
+
+ |"	17.0
+2	Tru	"676 N. St. Clair St.Chicago, IL 60611 | Menu
+
+ |"	17.0
+3	Vie	"4471 Lawn Ave.Western Springs, IL 60558 | Menu
+
+ |"	17.0
+0	Alinea	"1723 N. Halsted St.Chicago, IL 60614 | Menu
+
+ | Photos
+
+ "	18.0
