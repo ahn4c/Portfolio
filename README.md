@@ -1,5 +1,4 @@
 # Data Science Projects
-__________________________________________________
 1. Credit Default - Predicting the default for credit card holders
 2. Data Scientist Salaries - Webscraping Indeed.com for data scientist salaries and predicting the characteristics of high-salary postings
 3. HoNY Topic Modeling - Pull post, comment and reaction data from the Humans of New York Facebook page. Group common words to develop conversation topics and use the topics to predict arguments within the threads
